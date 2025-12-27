@@ -1,0 +1,29 @@
+Component,Specification
+DATABASE SCHEMA,
+Table: players,"id, mlb_id, fangraphs_id, player_name"
+Table: statcast_seasons,"player_id, year, max_ev, hard_hit_pct, barrel_pct"
+Table: fangraphs_seasons,"player_id, year, pa, ops, wrc_plus"
+Table: player_deltas,"player_id, year_from, year_to, deltas, maddux_score"
+,
+API ENDPOINTS,
+GET /players,List all players with optional year filter
+GET /players/{id}/seasons,Get all seasons for a player
+GET /projections/{year},Get breakout projections for target year
+GET /backtest/{year_pair},Get backtest results for year pair
+POST /calculate,Recalculate scores with custom weights
+,
+ROLLING CALCULATIONS,
+Daily Update,"Pull new Statcast data, recalc deltas"
+Weekly Update,Full refresh of all scores
+Alert Trigger,"Score crosses threshold (e.g., >15)"
+,
+ALERT THRESHOLDS,
+High Priority,"MADDUX Score > 20, both metrics improving"
+Medium Priority,MADDUX Score 15-20
+Watch List,MADDUX Score 10-15
+,
+DEPLOYMENT,
+Database,PostgreSQL (upgrade from SQLite for production)
+API,FastAPI or Flask REST API
+Dashboard,React or static HTML with Chart.js
+Hosting,AWS/GCP/Vercel

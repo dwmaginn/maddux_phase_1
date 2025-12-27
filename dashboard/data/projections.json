@@ -1,0 +1,272 @@
+[
+  {
+    "rank": 1,
+    "player": "Turang, Brice",
+    "score": 40.6,
+    "deltaMaxEV": 3.4,
+    "deltaHardHit": 17.7,
+    "confidence": "High",
+    "projectedOPSChange": 0.081
+  },
+  {
+    "rank": 2,
+    "player": "Fortes, Nick",
+    "score": 34.2,
+    "deltaMaxEV": 2.1,
+    "deltaHardHit": 15.3,
+    "confidence": "High",
+    "projectedOPSChange": 0.068
+  },
+  {
+    "rank": 3,
+    "player": "Baty, Brett",
+    "score": 32.8,
+    "deltaMaxEV": 3.6,
+    "deltaHardHit": 13.9,
+    "confidence": "High",
+    "projectedOPSChange": 0.066
+  },
+  {
+    "rank": 4,
+    "player": "Vargas, Miguel",
+    "score": 29.8,
+    "deltaMaxEV": 0.0,
+    "deltaHardHit": 14.2,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.06
+  },
+  {
+    "rank": 5,
+    "player": "Benson, Will",
+    "score": 29.5,
+    "deltaMaxEV": 0.7,
+    "deltaHardHit": 13.7,
+    "confidence": "High",
+    "projectedOPSChange": 0.059
+  },
+  {
+    "rank": 6,
+    "player": "Rocchio, Brayan",
+    "score": 29.2,
+    "deltaMaxEV": 1.5,
+    "deltaHardHit": 13.2,
+    "confidence": "High",
+    "projectedOPSChange": 0.058
+  },
+  {
+    "rank": 7,
+    "player": "Alvarez, Francisco",
+    "score": 26.0,
+    "deltaMaxEV": 0.2,
+    "deltaHardHit": 12.3,
+    "confidence": "High",
+    "projectedOPSChange": 0.052
+  },
+  {
+    "rank": 8,
+    "player": "Sheets, Gavin",
+    "score": 25.3,
+    "deltaMaxEV": 1.8,
+    "deltaHardHit": 11.2,
+    "confidence": "High",
+    "projectedOPSChange": 0.051
+  },
+  {
+    "rank": 9,
+    "player": "Springer, George",
+    "score": 24.8,
+    "deltaMaxEV": 3.4,
+    "deltaHardHit": 10.2,
+    "confidence": "High",
+    "projectedOPSChange": 0.05
+  },
+  {
+    "rank": 10,
+    "player": "Morel, Christopher",
+    "score": 23.5,
+    "deltaMaxEV": 4.0,
+    "deltaHardHit": 9.3,
+    "confidence": "High",
+    "projectedOPSChange": 0.047
+  },
+  {
+    "rank": 11,
+    "player": "Carroll, Corbin",
+    "score": 23.4,
+    "deltaMaxEV": 4.3,
+    "deltaHardHit": 9.1,
+    "confidence": "High",
+    "projectedOPSChange": 0.047
+  },
+  {
+    "rank": 12,
+    "player": "Moniak, Mickey",
+    "score": 21.9,
+    "deltaMaxEV": -1.0,
+    "deltaHardHit": 10.9,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.044
+  },
+  {
+    "rank": 13,
+    "player": "P\u00e9rez, Wenceel",
+    "score": 20.7,
+    "deltaMaxEV": 0.7,
+    "deltaHardHit": 9.5,
+    "confidence": "High",
+    "projectedOPSChange": 0.041
+  },
+  {
+    "rank": 14,
+    "player": "McGuire, Reese",
+    "score": 20.5,
+    "deltaMaxEV": -0.1,
+    "deltaHardHit": 9.8,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.041
+  },
+  {
+    "rank": 15,
+    "player": "Rosario, Amed",
+    "score": 20.5,
+    "deltaMaxEV": 2.0,
+    "deltaHardHit": 8.8,
+    "confidence": "High",
+    "projectedOPSChange": 0.041
+  },
+  {
+    "rank": 16,
+    "player": "Fraley, Jake",
+    "score": 20.4,
+    "deltaMaxEV": -0.2,
+    "deltaHardHit": 9.8,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.041
+  },
+  {
+    "rank": 17,
+    "player": "Refsnyder, Rob",
+    "score": 20.0,
+    "deltaMaxEV": 0.7,
+    "deltaHardHit": 9.2,
+    "confidence": "High",
+    "projectedOPSChange": 0.04
+  },
+  {
+    "rank": 18,
+    "player": "Kirk, Alejandro",
+    "score": 19.9,
+    "deltaMaxEV": -0.9,
+    "deltaHardHit": 9.9,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.04
+  },
+  {
+    "rank": 19,
+    "player": "Jansen, Danny",
+    "score": 19.7,
+    "deltaMaxEV": 0.2,
+    "deltaHardHit": 9.3,
+    "confidence": "High",
+    "projectedOPSChange": 0.039
+  },
+  {
+    "rank": 20,
+    "player": "Laureano, Ram\u00f3n",
+    "score": 19.4,
+    "deltaMaxEV": 2.0,
+    "deltaHardHit": 8.3,
+    "confidence": "High",
+    "projectedOPSChange": 0.039
+  },
+  {
+    "rank": 21,
+    "player": "Frelick, Sal",
+    "score": 19.1,
+    "deltaMaxEV": 2.5,
+    "deltaHardHit": 7.9,
+    "confidence": "High",
+    "projectedOPSChange": 0.038
+  },
+  {
+    "rank": 22,
+    "player": "Polanco, Jorge",
+    "score": 18.8,
+    "deltaMaxEV": 1.2,
+    "deltaHardHit": 8.4,
+    "confidence": "High",
+    "projectedOPSChange": 0.038
+  },
+  {
+    "rank": 23,
+    "player": "Rojas, Johan",
+    "score": 18.4,
+    "deltaMaxEV": 1.8,
+    "deltaHardHit": 7.9,
+    "confidence": "High",
+    "projectedOPSChange": 0.037
+  },
+  {
+    "rank": 24,
+    "player": "Tellez, Rowdy",
+    "score": 18.4,
+    "deltaMaxEV": -2.4,
+    "deltaHardHit": 9.9,
+    "confidence": "Medium",
+    "projectedOPSChange": 0.037
+  },
+  {
+    "rank": 25,
+    "player": "Keith, Colt",
+    "score": 18.2,
+    "deltaMaxEV": 0.6,
+    "deltaHardHit": 8.4,
+    "confidence": "High",
+    "projectedOPSChange": 0.036
+  },
+  {
+    "rank": 26,
+    "player": "Busch, Michael",
+    "score": 18.1,
+    "deltaMaxEV": 2.6,
+    "deltaHardHit": 7.4,
+    "confidence": "High",
+    "projectedOPSChange": 0.036
+  },
+  {
+    "rank": 27,
+    "player": "Alexander, Blaze",
+    "score": 18.0,
+    "deltaMaxEV": 0.1,
+    "deltaHardHit": 8.5,
+    "confidence": "High",
+    "projectedOPSChange": 0.036
+  },
+  {
+    "rank": 28,
+    "player": "Jung, Josh",
+    "score": 17.6,
+    "deltaMaxEV": 2.9,
+    "deltaHardHit": 7.0,
+    "confidence": "High",
+    "projectedOPSChange": 0.035
+  },
+  {
+    "rank": 29,
+    "player": "Muncy, Max",
+    "score": 17.5,
+    "deltaMaxEV": 0.5,
+    "deltaHardHit": 8.1,
+    "confidence": "High",
+    "projectedOPSChange": 0.035
+  },
+  {
+    "rank": 30,
+    "player": "Bell, Josh",
+    "score": 17.4,
+    "deltaMaxEV": 2.9,
+    "deltaHardHit": 6.9,
+    "confidence": "High",
+    "projectedOPSChange": 0.035
+  }
+]

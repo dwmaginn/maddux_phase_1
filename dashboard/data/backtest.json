@@ -1,0 +1,83 @@
+{
+  "yearly": [
+    {
+      "yearPair": "2015-2016",
+      "predictionFor": 2017,
+      "n": 224,
+      "hits": 6,
+      "hitRate": 30.0,
+      "avgOPSChange": -0.017
+    },
+    {
+      "yearPair": "2016-2017",
+      "predictionFor": 2018,
+      "n": 223,
+      "hits": 4,
+      "hitRate": 20.0,
+      "avgOPSChange": -0.055
+    },
+    {
+      "yearPair": "2017-2018",
+      "predictionFor": 2019,
+      "n": 216,
+      "hits": 11,
+      "hitRate": 55.0,
+      "avgOPSChange": 0.002
+    },
+    {
+      "yearPair": "2018-2019",
+      "predictionFor": 2020,
+      "n": 96,
+      "hits": 6,
+      "hitRate": 30.0,
+      "avgOPSChange": -0.084
+    },
+    {
+      "yearPair": "2019-2020",
+      "predictionFor": 2021,
+      "n": 109,
+      "hits": 6,
+      "hitRate": 30.0,
+      "avgOPSChange": -0.05
+    },
+    {
+      "yearPair": "2020-2021",
+      "predictionFor": 2022,
+      "n": 147,
+      "hits": 2,
+      "hitRate": 10.0,
+      "avgOPSChange": -0.08
+    },
+    {
+      "yearPair": "2021-2022",
+      "predictionFor": 2023,
+      "n": 216,
+      "hits": 7,
+      "hitRate": 35.0,
+      "avgOPSChange": -0.015
+    },
+    {
+      "yearPair": "2022-2023",
+      "predictionFor": 2024,
+      "n": 228,
+      "hits": 7,
+      "hitRate": 35.0,
+      "avgOPSChange": -0.057
+    },
+    {
+      "yearPair": "2023-2024",
+      "predictionFor": 2025,
+      "n": 216,
+      "hits": 10,
+      "hitRate": 50.0,
+      "avgOPSChange": 0.012
+    }
+  ],
+  "overall": {
+    "avgHitRate": 32.8,
+    "minHitRate": 10.0,
+    "maxHitRate": 55.0,
+    "yearsTeated": 9,
+    "meetsTarget": false
+  }
+}

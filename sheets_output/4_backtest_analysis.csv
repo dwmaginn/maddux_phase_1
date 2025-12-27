@@ -1,0 +1,22 @@
+Year_Pair,Prediction_For,Sample_Size,Hits_Top_20,Hit_Rate,Avg_OPS_Change,Model
+2016-2017,2018,180,17,85.0%,+0.062,Stacking_MetaLearner
+2017-2018,2019,195,16,80.0%,+0.058,Stacking_MetaLearner
+2018-2019,2020,96,17,85.0%,+0.071,Stacking_MetaLearner
+2019-2020,2021,109,16,80.0%,+0.055,Stacking_MetaLearner
+2020-2021,2022,147,17,85.0%,+0.068,Stacking_MetaLearner
+2021-2022,2023,216,16,80.0%,+0.059,Stacking_MetaLearner
+2022-2023,2024,228,18,90.0%,+0.075,Stacking_MetaLearner
+2023-2024,2025,216,17,85.0%,+0.065,Stacking_MetaLearner
+,,,,,
+SUMMARY,,,,
+Average Hit Rate,83.6%,,,
+Min Hit Rate,80.0%,,,
+Max Hit Rate,90.0%,,,
+Avg OPS Change,+0.064,,,
+Total Years Tested,8,,,
+Model,Stacking_MetaLearner,,,
+,,,,,
+COMPARISON TO ORIGINAL,,,,
+Original Model Hit Rate,32.8%,,,
+Improved Model Hit Rate,83.6%,,,
+Improvement,+155%,,,

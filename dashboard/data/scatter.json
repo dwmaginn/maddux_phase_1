@@ -1,0 +1,10052 @@
+[
+  {
+    "player": "Seager, Corey",
+    "years": "2019-2020",
+    "score": 40.57,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Holt, Brock",
+    "years": "2017-2018",
+    "score": 38.08,
+    "opsChange": -0.003
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2020-2021",
+    "score": 37.65,
+    "opsChange": -0.249
+  },
+  {
+    "player": "D\u00edaz, Aledmys",
+    "years": "2017-2018",
+    "score": 35.64,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Tatis Jr., Fernando",
+    "years": "2019-2020",
+    "score": 35.51,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2017-2018",
+    "score": 32.35,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Duran, Ezequiel",
+    "years": "2022-2023",
+    "score": 30.41,
+    "opsChange": -0.159
+  },
+  {
+    "player": "Albies, Ozzie",
+    "years": "2022-2023",
+    "score": 30.35,
+    "opsChange": -0.142
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2016-2017",
+    "score": 30.17,
+    "opsChange": 0.028
+  },
+  {
+    "player": "Ohtani, Shohei",
+    "years": "2020-2021",
+    "score": 29.99,
+    "opsChange": -0.09
+  },
+  {
+    "player": "Davis, J.D.",
+    "years": "2021-2022",
+    "score": 29.36,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Rupp, Cameron",
+    "years": "2015-2016",
+    "score": 29.03,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Ramos, Wilson",
+    "years": "2017-2018",
+    "score": 28.96,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2022-2023",
+    "score": 28.64,
+    "opsChange": -0.168
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2020-2021",
+    "score": 28.17,
+    "opsChange": -0.14
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2019-2020",
+    "score": 27.97,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2023-2024",
+    "score": 27.96,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Moran, Colin",
+    "years": "2019-2020",
+    "score": 27.94,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Engel, Adam",
+    "years": "2017-2018",
+    "score": 27.41,
+    "opsChange": 0.073
+  },
+  {
+    "player": "Lowrie, Jed",
+    "years": "2016-2017",
+    "score": 27.02,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2019-2020",
+    "score": 26.48,
+    "opsChange": -0.049
+  },
+  {
+    "player": "Dozier, Hunter",
+    "years": "2020-2021",
+    "score": 26.43,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Nootbaar, Lars",
+    "years": "2023-2024",
+    "score": 25.87,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Rosario, Amed",
+    "years": "2020-2021",
+    "score": 25.75,
+    "opsChange": -0.016
+  },
+  {
+    "player": "San\u00f3, Miguel",
+    "years": "2018-2019",
+    "score": 25.64,
+    "opsChange": -0.166
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2017-2018",
+    "score": 25.57,
+    "opsChange": -0.163
+  },
+  {
+    "player": "Desmond, Ian",
+    "years": "2017-2018",
+    "score": 25.39,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Voit, Luke",
+    "years": "2020-2021",
+    "score": 24.82,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Markakis, Nick",
+    "years": "2015-2016",
+    "score": 24.7,
+    "opsChange": -0.006
+  },
+  {
+    "player": "Candelario, Jeimer",
+    "years": "2019-2020",
+    "score": 24.53,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Joyce, Matt",
+    "years": "2015-2016",
+    "score": 24.01,
+    "opsChange": -0.058
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2017-2018",
+    "score": 23.99,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2017-2018",
+    "score": 23.89,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Marsh, Brandon",
+    "years": "2022-2023",
+    "score": 23.65,
+    "opsChange": -0.082
+  },
+  {
+    "player": "Stephenson, Tyler",
+    "years": "2022-2023",
+    "score": 23.48,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Young, Chris",
+    "years": "2015-2016",
+    "score": 23.46,
+    "opsChange": -0.141
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2020-2021",
+    "score": 23.32,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2016-2017",
+    "score": 23.24,
+    "opsChange": -0.066
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2017-2018",
+    "score": 23.01,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2023-2024",
+    "score": 23.0,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Flowers, Tyler",
+    "years": "2015-2016",
+    "score": 22.99,
+    "opsChange": 0.046
+  },
+  {
+    "player": "Refsnyder, Rob",
+    "years": "2023-2024",
+    "score": 22.97,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2020-2021",
+    "score": 22.93,
+    "opsChange": -0.238
+  },
+  {
+    "player": "Hicks, Aaron",
+    "years": "2017-2018",
+    "score": 22.75,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2015-2016",
+    "score": 22.69,
+    "opsChange": 0.132
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2019-2020",
+    "score": 22.61,
+    "opsChange": 0.211
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2017-2018",
+    "score": 22.36,
+    "opsChange": 0.056
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2017-2018",
+    "score": 22.26,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Rojas, Josh",
+    "years": "2023-2024",
+    "score": 22.23,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2020-2021",
+    "score": 22.17,
+    "opsChange": 0.062
+  },
+  {
+    "player": "France, Ty",
+    "years": "2020-2021",
+    "score": 22.01,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Espinal, Santiago",
+    "years": "2021-2022",
+    "score": 21.99,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2019-2020",
+    "score": 21.87,
+    "opsChange": -0.206
+  },
+  {
+    "player": "Pearce, Steve",
+    "years": "2015-2016",
+    "score": 21.84,
+    "opsChange": -0.11
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2020-2021",
+    "score": 21.83,
+    "opsChange": -0.027
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2020-2021",
+    "score": 21.82,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Carlson, Dylan",
+    "years": "2022-2023",
+    "score": 21.74,
+    "opsChange": -0.088
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2017-2018",
+    "score": 21.6,
+    "opsChange": 0.201
+  },
+  {
+    "player": "DeJong, Paul",
+    "years": "2023-2024",
+    "score": 21.33,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2020-2021",
+    "score": 21.27,
+    "opsChange": 0.102
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2020-2021",
+    "score": 21.24,
+    "opsChange": -0.369
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2020-2021",
+    "score": 21.23,
+    "opsChange": -0.066
+  },
+  {
+    "player": "Sosa, Edmundo",
+    "years": "2023-2024",
+    "score": 21.22,
+    "opsChange": 0.043
+  },
+  {
+    "player": "Morel, Christopher",
+    "years": "2022-2023",
+    "score": 21.07,
+    "opsChange": -0.187
+  },
+  {
+    "player": "Gennett, Scooter",
+    "years": "2016-2017",
+    "score": 20.98,
+    "opsChange": -0.027
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2020-2021",
+    "score": 20.91,
+    "opsChange": -0.161
+  },
+  {
+    "player": "Meyers, Jake",
+    "years": "2023-2024",
+    "score": 20.81,
+    "opsChange": 0.081
+  },
+  {
+    "player": "Smith, Josh",
+    "years": "2022-2023",
+    "score": 20.78,
+    "opsChange": 0.098
+  },
+  {
+    "player": "Descalso, Daniel",
+    "years": "2015-2016",
+    "score": 20.77,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2020-2021",
+    "score": 20.71,
+    "opsChange": -0.039
+  },
+  {
+    "player": "India, Jonathan",
+    "years": "2022-2023",
+    "score": 20.68,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2020-2021",
+    "score": 20.62,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Jim\u00e9nez, Eloy",
+    "years": "2021-2022",
+    "score": 20.51,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Chapman, Matt",
+    "years": "2017-2018",
+    "score": 20.43,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Mathis, Jeff",
+    "years": "2017-2018",
+    "score": 20.33,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Torkelson, Spencer",
+    "years": "2022-2023",
+    "score": 20.31,
+    "opsChange": -0.089
+  },
+  {
+    "player": "Bourjos, Peter",
+    "years": "2015-2016",
+    "score": 20.1,
+    "opsChange": -0.026
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2015-2016",
+    "score": 20.07,
+    "opsChange": -0.128
+  },
+  {
+    "player": "Kelenic, Jarred",
+    "years": "2022-2023",
+    "score": 20.05,
+    "opsChange": -0.067
+  },
+  {
+    "player": "Grisham, Trent",
+    "years": "2019-2020",
+    "score": 20.02,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Martinez, Victor",
+    "years": "2015-2016",
+    "score": 19.99,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Verdugo, Alex",
+    "years": "2020-2021",
+    "score": 19.99,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Renfroe, Hunter",
+    "years": "2017-2018",
+    "score": 19.95,
+    "opsChange": -0.027
+  },
+  {
+    "player": "P\u00e9rez, Hern\u00e1n",
+    "years": "2015-2016",
+    "score": 19.94,
+    "opsChange": -0.026
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2023-2024",
+    "score": 19.88,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Torres, Gleyber",
+    "years": "2021-2022",
+    "score": 19.86,
+    "opsChange": 0.039
+  },
+  {
+    "player": "Reyes, Victor",
+    "years": "2019-2020",
+    "score": 19.66,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Hardy, J.J.",
+    "years": "2015-2016",
+    "score": 19.65,
+    "opsChange": -0.138
+  },
+  {
+    "player": "Duran, Jarren",
+    "years": "2022-2023",
+    "score": 19.63,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Belt, Brandon",
+    "years": "2016-2017",
+    "score": 19.52,
+    "opsChange": -0.067
+  },
+  {
+    "player": "Margot, Manuel",
+    "years": "2017-2018",
+    "score": 19.37,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Chapman, Matt",
+    "years": "2021-2022",
+    "score": 19.35,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Rosario, Amed",
+    "years": "2017-2018",
+    "score": 19.33,
+    "opsChange": 0.079
+  },
+  {
+    "player": "Seager, Corey",
+    "years": "2022-2023",
+    "score": 19.27,
+    "opsChange": -0.149
+  },
+  {
+    "player": "Story, Trevor",
+    "years": "2017-2018",
+    "score": 18.99,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Castro, Jason",
+    "years": "2015-2016",
+    "score": 18.94,
+    "opsChange": 0.036
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2022-2023",
+    "score": 18.91,
+    "opsChange": 0.037
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2015-2016",
+    "score": 18.88,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2020-2021",
+    "score": 18.88,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Joseph, Caleb",
+    "years": "2016-2017",
+    "score": 18.83,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Holliday, Matt",
+    "years": "2015-2016",
+    "score": 18.79,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2019-2020",
+    "score": 18.7,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Soto, Juan",
+    "years": "2022-2023",
+    "score": 18.69,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Moreland, Mitch",
+    "years": "2017-2018",
+    "score": 18.64,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Frazier, Todd",
+    "years": "2017-2018",
+    "score": 18.58,
+    "opsChange": 0.079
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2020-2021",
+    "score": 18.58,
+    "opsChange": -0.028
+  },
+  {
+    "player": "D\u00edaz, Yandy",
+    "years": "2021-2022",
+    "score": 18.44,
+    "opsChange": 0.108
+  },
+  {
+    "player": "Freese, David",
+    "years": "2015-2016",
+    "score": 18.31,
+    "opsChange": -0.025
+  },
+  {
+    "player": "Joe, Connor",
+    "years": "2022-2023",
+    "score": 18.3,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Perdomo, Geraldo",
+    "years": "2023-2024",
+    "score": 18.13,
+    "opsChange": 0.133
+  },
+  {
+    "player": "Calhoun, Kole",
+    "years": "2015-2016",
+    "score": 18.13,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2022-2023",
+    "score": 18.11,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2018-2019",
+    "score": 18.06,
+    "opsChange": -0.217
+  },
+  {
+    "player": "Happ, Ian",
+    "years": "2019-2020",
+    "score": 18.03,
+    "opsChange": -0.109
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2018-2019",
+    "score": 17.98,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Haniger, Mitch",
+    "years": "2017-2018",
+    "score": 17.98,
+    "opsChange": -0.081
+  },
+  {
+    "player": "Hampson, Garrett",
+    "years": "2020-2021",
+    "score": 17.78,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Grossman, Robbie",
+    "years": "2022-2023",
+    "score": 17.69,
+    "opsChange": -0.118
+  },
+  {
+    "player": "Marisnick, Jake",
+    "years": "2015-2016",
+    "score": 17.68,
+    "opsChange": 0.227
+  },
+  {
+    "player": "Burger, Jake",
+    "years": "2022-2023",
+    "score": 17.66,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2018-2019",
+    "score": 17.58,
+    "opsChange": 0.079
+  },
+  {
+    "player": "Adrianza, Ehire",
+    "years": "2017-2018",
+    "score": 17.47,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Smith, Dominic",
+    "years": "2023-2024",
+    "score": 17.39,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Carpenter, Matt",
+    "years": "2017-2018",
+    "score": 17.37,
+    "opsChange": -0.171
+  },
+  {
+    "player": "Suzuki, Seiya",
+    "years": "2022-2023",
+    "score": 17.37,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2016-2017",
+    "score": 17.25,
+    "opsChange": -0.119
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2018-2019",
+    "score": 17.19,
+    "opsChange": -0.267
+  },
+  {
+    "player": "Altherr, Aaron",
+    "years": "2016-2017",
+    "score": 17.19,
+    "opsChange": -0.228
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2022-2023",
+    "score": 17.11,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Lind, Adam",
+    "years": "2015-2016",
+    "score": 17.07,
+    "opsChange": 0.158
+  },
+  {
+    "player": "Gordon, Alex",
+    "years": "2017-2018",
+    "score": 17.04,
+    "opsChange": 0.047
+  },
+  {
+    "player": "S\u00e1nchez, Gary",
+    "years": "2021-2022",
+    "score": 17.03,
+    "opsChange": 0.121
+  },
+  {
+    "player": "Molina, Yadier",
+    "years": "2020-2021",
+    "score": 17.02,
+    "opsChange": -0.132
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2019-2020",
+    "score": 16.96,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Tatis Jr., Fernando",
+    "years": "2023-2024",
+    "score": 16.95,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Beckham, Tim",
+    "years": "2015-2016",
+    "score": 16.94,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2023-2024",
+    "score": 16.92,
+    "opsChange": -0.122
+  },
+  {
+    "player": "Owings, Chris",
+    "years": "2015-2016",
+    "score": 16.89,
+    "opsChange": 0.01
+  },
+  {
+    "player": "DeShields, Delino",
+    "years": "2015-2016",
+    "score": 16.79,
+    "opsChange": 0.126
+  },
+  {
+    "player": "Mazara, Nomar",
+    "years": "2017-2018",
+    "score": 16.73,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2020-2021",
+    "score": 16.69,
+    "opsChange": -0.182
+  },
+  {
+    "player": "Garc\u00eda Jr., Luis",
+    "years": "2021-2022",
+    "score": 16.61,
+    "opsChange": -0.016
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2020-2021",
+    "score": 16.59,
+    "opsChange": 0.157
+  },
+  {
+    "player": "Lowe, Brandon",
+    "years": "2022-2023",
+    "score": 16.56,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Schoop, Jonathan",
+    "years": "2020-2021",
+    "score": 16.56,
+    "opsChange": -0.194
+  },
+  {
+    "player": "Trout, Mike",
+    "years": "2017-2018",
+    "score": 16.53,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Can\u00f3, Robinson",
+    "years": "2017-2018",
+    "score": 16.45,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2020-2021",
+    "score": 16.36,
+    "opsChange": -0.182
+  },
+  {
+    "player": "Davis, Khris",
+    "years": "2015-2016",
+    "score": 16.23,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2018-2019",
+    "score": 16.22,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2022-2023",
+    "score": 16.15,
+    "opsChange": -0.296
+  },
+  {
+    "player": "Simmons, Andrelton",
+    "years": "2017-2018",
+    "score": 15.96,
+    "opsChange": -0.081
+  },
+  {
+    "player": "Benintendi, Andrew",
+    "years": "2023-2024",
+    "score": 15.94,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Jim\u00e9nez, Eloy",
+    "years": "2019-2020",
+    "score": 15.88,
+    "opsChange": -0.151
+  },
+  {
+    "player": "Brantley, Michael",
+    "years": "2020-2021",
+    "score": 15.86,
+    "opsChange": -0.014
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2018-2019",
+    "score": 15.86,
+    "opsChange": 0.061
+  },
+  {
+    "player": "La Stella, Tommy",
+    "years": "2018-2019",
+    "score": 15.86,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Cabrera, Asdr\u00fabal",
+    "years": "2017-2018",
+    "score": 15.81,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Arozarena, Randy",
+    "years": "2022-2023",
+    "score": 15.74,
+    "opsChange": -0.069
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2017-2018",
+    "score": 15.73,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2015-2016",
+    "score": 15.7,
+    "opsChange": 0.14
+  },
+  {
+    "player": "Maldonado, Mart\u00edn",
+    "years": "2021-2022",
+    "score": 15.7,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2018-2019",
+    "score": 15.67,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2018-2019",
+    "score": 15.63,
+    "opsChange": -0.118
+  },
+  {
+    "player": "Taylor, Michael A.",
+    "years": "2022-2023",
+    "score": 15.61,
+    "opsChange": -0.177
+  },
+  {
+    "player": "Walker, Christian",
+    "years": "2023-2024",
+    "score": 15.56,
+    "opsChange": -0.086
+  },
+  {
+    "player": "Mullins, Cedric",
+    "years": "2020-2021",
+    "score": 15.46,
+    "opsChange": -0.157
+  },
+  {
+    "player": "Pasquantino, Vinnie",
+    "years": "2023-2024",
+    "score": 15.42,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Gardner, Brett",
+    "years": "2016-2017",
+    "score": 15.4,
+    "opsChange": -0.088
+  },
+  {
+    "player": "Calhoun, Kole",
+    "years": "2017-2018",
+    "score": 15.26,
+    "opsChange": 0.14
+  },
+  {
+    "player": "Gim\u00e9nez, Andr\u00e9s",
+    "years": "2021-2022",
+    "score": 15.24,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Pujols, Albert",
+    "years": "2020-2021",
+    "score": 15.23,
+    "opsChange": 0.178
+  },
+  {
+    "player": "Melendez, MJ",
+    "years": "2022-2023",
+    "score": 15.21,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Rivera, Emmanuel",
+    "years": "2022-2023",
+    "score": 15.2,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2017-2018",
+    "score": 15.17,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Pillar, Kevin",
+    "years": "2017-2018",
+    "score": 15.16,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Reyes, Jos\u00e9",
+    "years": "2015-2016",
+    "score": 15.15,
+    "opsChange": -0.041
+  },
+  {
+    "player": "Springer, George",
+    "years": "2018-2019",
+    "score": 15.14,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Raleigh, Cal",
+    "years": "2023-2024",
+    "score": 15.11,
+    "opsChange": 0.2
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2020-2021",
+    "score": 15.05,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Galvis, Freddy",
+    "years": "2015-2016",
+    "score": 15.03,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Rojas, Josh",
+    "years": "2021-2022",
+    "score": 15.0,
+    "opsChange": -0.098
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2023-2024",
+    "score": 14.99,
+    "opsChange": 0.171
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2015-2016",
+    "score": 14.94,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2020-2021",
+    "score": 14.92,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Slater, Austin",
+    "years": "2022-2023",
+    "score": 14.9,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Witt Jr., Bobby",
+    "years": "2022-2023",
+    "score": 14.8,
+    "opsChange": 0.164
+  },
+  {
+    "player": "Romine, Austin",
+    "years": "2016-2017",
+    "score": 14.77,
+    "opsChange": 0.148
+  },
+  {
+    "player": "Forsythe, Logan",
+    "years": "2015-2016",
+    "score": 14.77,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Crawford, J.P.",
+    "years": "2019-2020",
+    "score": 14.73,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2022-2023",
+    "score": 14.7,
+    "opsChange": -0.134
+  },
+  {
+    "player": "Pujols, Albert",
+    "years": "2015-2016",
+    "score": 14.68,
+    "opsChange": -0.108
+  },
+  {
+    "player": "Margot, Manuel",
+    "years": "2020-2021",
+    "score": 14.63,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2023-2024",
+    "score": 14.47,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2015-2016",
+    "score": 14.47,
+    "opsChange": -0.091
+  },
+  {
+    "player": "Arroyo, Christian",
+    "years": "2021-2022",
+    "score": 14.46,
+    "opsChange": -0.098
+  },
+  {
+    "player": "Crawford, J.P.",
+    "years": "2022-2023",
+    "score": 14.45,
+    "opsChange": -0.193
+  },
+  {
+    "player": "Happ, Ian",
+    "years": "2023-2024",
+    "score": 14.42,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Carpenter, Matt",
+    "years": "2015-2016",
+    "score": 14.41,
+    "opsChange": -0.05
+  },
+  {
+    "player": "Thomas, Lane",
+    "years": "2022-2023",
+    "score": 14.32,
+    "opsChange": -0.074
+  },
+  {
+    "player": "Rengifo, Luis",
+    "years": "2021-2022",
+    "score": 14.26,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2019-2020",
+    "score": 14.23,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2020-2021",
+    "score": 14.23,
+    "opsChange": -0.181
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2020-2021",
+    "score": 14.14,
+    "opsChange": 0.034
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2020-2021",
+    "score": 14.12,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Molina, Yadier",
+    "years": "2016-2017",
+    "score": 14.09,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Naylor, Bo",
+    "years": "2023-2024",
+    "score": 14.09,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2016-2017",
+    "score": 14.07,
+    "opsChange": 0.055
+  },
+  {
+    "player": "Inciarte, Ender",
+    "years": "2017-2018",
+    "score": 14.06,
+    "opsChange": 0.035
+  },
+  {
+    "player": "Taveras, Leody",
+    "years": "2022-2023",
+    "score": 14.0,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Seager, Kyle",
+    "years": "2015-2016",
+    "score": 13.97,
+    "opsChange": -0.086
+  },
+  {
+    "player": "De La Cruz, Bryan",
+    "years": "2021-2022",
+    "score": 13.91,
+    "opsChange": -0.01
+  },
+  {
+    "player": "Stallings, Jacob",
+    "years": "2022-2023",
+    "score": 13.89,
+    "opsChange": 0.245
+  },
+  {
+    "player": "Santander, Anthony",
+    "years": "2020-2021",
+    "score": 13.88,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Lamb, Jake",
+    "years": "2015-2016",
+    "score": 13.85,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Alonso, Pete",
+    "years": "2023-2024",
+    "score": 13.83,
+    "opsChange": 0.083
+  },
+  {
+    "player": "Abrams, CJ",
+    "years": "2022-2023",
+    "score": 13.82,
+    "opsChange": 0.035
+  },
+  {
+    "player": "Ahmed, Nick",
+    "years": "2017-2018",
+    "score": 13.78,
+    "opsChange": 0.053
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2017-2018",
+    "score": 13.78,
+    "opsChange": 0.258
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2017-2018",
+    "score": 13.76,
+    "opsChange": 0.089
+  },
+  {
+    "player": "Wade Jr., LaMonte",
+    "years": "2022-2023",
+    "score": 13.75,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Heyward, Jason",
+    "years": "2017-2018",
+    "score": 13.75,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Upton, Justin",
+    "years": "2015-2016",
+    "score": 13.73,
+    "opsChange": 0.126
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2016-2017",
+    "score": 13.72,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2018-2019",
+    "score": 13.7,
+    "opsChange": -0.213
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2017-2018",
+    "score": 13.7,
+    "opsChange": 0.168
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2016-2017",
+    "score": 13.68,
+    "opsChange": -0.108
+  },
+  {
+    "player": "P\u00e9rez, Roberto",
+    "years": "2016-2017",
+    "score": 13.59,
+    "opsChange": -0.145
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2020-2021",
+    "score": 13.55,
+    "opsChange": -0.199
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2018-2019",
+    "score": 13.52,
+    "opsChange": -0.17
+  },
+  {
+    "player": "Pham, Tommy",
+    "years": "2017-2018",
+    "score": 13.52,
+    "opsChange": -0.012
+  },
+  {
+    "player": "Upton, Justin",
+    "years": "2017-2018",
+    "score": 13.51,
+    "opsChange": -0.084
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2017-2018",
+    "score": 13.51,
+    "opsChange": -0.017
+  },
+  {
+    "player": "Espinosa, Danny",
+    "years": "2015-2016",
+    "score": 13.49,
+    "opsChange": -0.161
+  },
+  {
+    "player": "Seager, Kyle",
+    "years": "2017-2018",
+    "score": 13.37,
+    "opsChange": 0.116
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2018-2019",
+    "score": 13.35,
+    "opsChange": 0.118
+  },
+  {
+    "player": "Cozart, Zack",
+    "years": "2015-2016",
+    "score": 13.3,
+    "opsChange": 0.201
+  },
+  {
+    "player": "Mateo, Jorge",
+    "years": "2022-2023",
+    "score": 13.28,
+    "opsChange": 0.061
+  },
+  {
+    "player": "O'Neill, Tyler",
+    "years": "2023-2024",
+    "score": 13.25,
+    "opsChange": -0.163
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2017-2018",
+    "score": 13.24,
+    "opsChange": 0.101
+  },
+  {
+    "player": "Narv\u00e1ez, Omar",
+    "years": "2017-2018",
+    "score": 13.17,
+    "opsChange": 0.019
+  },
+  {
+    "player": "Braun, Ryan",
+    "years": "2017-2018",
+    "score": 13.15,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Castro, Starlin",
+    "years": "2015-2016",
+    "score": 13.02,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Ohtani, Shohei",
+    "years": "2023-2024",
+    "score": 12.99,
+    "opsChange": -0.022
+  },
+  {
+    "player": "Zunino, Mike",
+    "years": "2016-2017",
+    "score": 12.99,
+    "opsChange": -0.171
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2020-2021",
+    "score": 12.98,
+    "opsChange": -0.097
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2018-2019",
+    "score": 12.9,
+    "opsChange": 0.078
+  },
+  {
+    "player": "S\u00e1nchez, Jes\u00fas",
+    "years": "2023-2024",
+    "score": 12.9,
+    "opsChange": -0.032
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2023-2024",
+    "score": 12.87,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Alonso, Pete",
+    "years": "2020-2021",
+    "score": 12.81,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Alvarez, Yordan",
+    "years": "2021-2022",
+    "score": 12.76,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Smith, Mallex",
+    "years": "2017-2018",
+    "score": 12.72,
+    "opsChange": -0.138
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2015-2016",
+    "score": 12.72,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Mercer, Jordy",
+    "years": "2016-2017",
+    "score": 12.71,
+    "opsChange": -0.037
+  },
+  {
+    "player": "Gorman, Nolan",
+    "years": "2022-2023",
+    "score": 12.62,
+    "opsChange": -0.134
+  },
+  {
+    "player": "Riley, Austin",
+    "years": "2021-2022",
+    "score": 12.62,
+    "opsChange": -0.017
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2020-2021",
+    "score": 12.58,
+    "opsChange": -0.024
+  },
+  {
+    "player": "N\u00fa\u00f1ez, Eduardo",
+    "years": "2015-2016",
+    "score": 12.55,
+    "opsChange": 0.043
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2020-2021",
+    "score": 12.55,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Doyle, Brenton",
+    "years": "2023-2024",
+    "score": 12.54,
+    "opsChange": -0.113
+  },
+  {
+    "player": "Chapman, Matt",
+    "years": "2022-2023",
+    "score": 12.52,
+    "opsChange": 0.035
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2018-2019",
+    "score": 12.4,
+    "opsChange": -0.246
+  },
+  {
+    "player": "Reyes, Victor",
+    "years": "2018-2019",
+    "score": 12.36,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2018-2019",
+    "score": 12.35,
+    "opsChange": -0.123
+  },
+  {
+    "player": "N\u00fa\u00f1ez, Renato",
+    "years": "2018-2019",
+    "score": 12.35,
+    "opsChange": 0.045
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2022-2023",
+    "score": 12.32,
+    "opsChange": 0.02
+  },
+  {
+    "player": "Shaw, Travis",
+    "years": "2016-2017",
+    "score": 12.32,
+    "opsChange": -0.037
+  },
+  {
+    "player": "Panik, Joe",
+    "years": "2017-2018",
+    "score": 12.28,
+    "opsChange": 0.012
+  },
+  {
+    "player": "S\u00e1nchez, Jes\u00fas",
+    "years": "2022-2023",
+    "score": 12.28,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2020-2021",
+    "score": 12.22,
+    "opsChange": -0.062
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2020-2021",
+    "score": 12.2,
+    "opsChange": -0.101
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2016-2017",
+    "score": 12.19,
+    "opsChange": -0.059
+  },
+  {
+    "player": "Adams, Matt",
+    "years": "2015-2016",
+    "score": 12.14,
+    "opsChange": 0.061
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2015-2016",
+    "score": 12.05,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Barnhart, Tucker",
+    "years": "2017-2018",
+    "score": 11.97,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Peterson, Jace",
+    "years": "2015-2016",
+    "score": 11.96,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Bader, Harrison",
+    "years": "2022-2023",
+    "score": 11.94,
+    "opsChange": 0.035
+  },
+  {
+    "player": "Cabrera, Miguel",
+    "years": "2019-2020",
+    "score": 11.93,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Posey, Buster",
+    "years": "2015-2016",
+    "score": 11.87,
+    "opsChange": 0.065
+  },
+  {
+    "player": "Larnach, Trevor",
+    "years": "2022-2023",
+    "score": 11.78,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2017-2018",
+    "score": 11.7,
+    "opsChange": 0.1
+  },
+  {
+    "player": "Garc\u00eda Jr., Luis",
+    "years": "2023-2024",
+    "score": 11.62,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Suzuki, Ichiro",
+    "years": "2015-2016",
+    "score": 11.62,
+    "opsChange": -0.081
+  },
+  {
+    "player": "Siri, Jose",
+    "years": "2022-2023",
+    "score": 11.57,
+    "opsChange": -0.141
+  },
+  {
+    "player": "S\u00e1nchez, Yolmer",
+    "years": "2017-2018",
+    "score": 11.57,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Robert Jr., Luis",
+    "years": "2020-2021",
+    "score": 11.56,
+    "opsChange": -0.2
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2020-2021",
+    "score": 11.55,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Gomes, Yan",
+    "years": "2017-2018",
+    "score": 11.5,
+    "opsChange": -0.058
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2018-2019",
+    "score": 11.48,
+    "opsChange": -0.212
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2022-2023",
+    "score": 11.46,
+    "opsChange": -0.203
+  },
+  {
+    "player": "Triolo, Jared",
+    "years": "2023-2024",
+    "score": 11.45,
+    "opsChange": 0.056
+  },
+  {
+    "player": "P\u00e9rez, Hern\u00e1n",
+    "years": "2017-2018",
+    "score": 11.39,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Lowe, Josh",
+    "years": "2022-2023",
+    "score": 11.36,
+    "opsChange": -0.142
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2020-2021",
+    "score": 11.35,
+    "opsChange": 0.043
+  },
+  {
+    "player": "McMahon, Ryan",
+    "years": "2023-2024",
+    "score": 11.35,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2023-2024",
+    "score": 11.32,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2020-2021",
+    "score": 11.29,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2018-2019",
+    "score": 11.27,
+    "opsChange": 0.109
+  },
+  {
+    "player": "Mountcastle, Ryan",
+    "years": "2021-2022",
+    "score": 11.26,
+    "opsChange": 0.05
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2019-2020",
+    "score": 11.22,
+    "opsChange": -0.422
+  },
+  {
+    "player": "Morales, Kendrys",
+    "years": "2017-2018",
+    "score": 11.2,
+    "opsChange": -0.203
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2015-2016",
+    "score": 11.18,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Bailey, Patrick",
+    "years": "2023-2024",
+    "score": 11.16,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Galvis, Freddy",
+    "years": "2017-2018",
+    "score": 11.14,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Brown, Seth",
+    "years": "2022-2023",
+    "score": 11.11,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Wallner, Matt",
+    "years": "2023-2024",
+    "score": 11.11,
+    "opsChange": -0.118
+  },
+  {
+    "player": "Odor, Rougned",
+    "years": "2015-2016",
+    "score": 11.08,
+    "opsChange": -0.149
+  },
+  {
+    "player": "Chirinos, Robinson",
+    "years": "2016-2017",
+    "score": 11.04,
+    "opsChange": -0.109
+  },
+  {
+    "player": "McKinstry, Zach",
+    "years": "2022-2023",
+    "score": 11.03,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Aoki, Norichika",
+    "years": "2015-2016",
+    "score": 11.03,
+    "opsChange": -0.01
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2020-2021",
+    "score": 10.99,
+    "opsChange": -0.142
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2021-2022",
+    "score": 10.93,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Dietrich, Derek",
+    "years": "2017-2018",
+    "score": 10.91,
+    "opsChange": 0.039
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2018-2019",
+    "score": 10.91,
+    "opsChange": -0.136
+  },
+  {
+    "player": "D\u00edaz, Elias",
+    "years": "2017-2018",
+    "score": 10.88,
+    "opsChange": -0.189
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2020-2021",
+    "score": 10.83,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Puig, Yasiel",
+    "years": "2015-2016",
+    "score": 10.82,
+    "opsChange": 0.093
+  },
+  {
+    "player": "Braun, Ryan",
+    "years": "2016-2017",
+    "score": 10.71,
+    "opsChange": -0.041
+  },
+  {
+    "player": "D\u00edaz, Yandy",
+    "years": "2022-2023",
+    "score": 10.7,
+    "opsChange": -0.177
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2016-2017",
+    "score": 10.69,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Cain, Lorenzo",
+    "years": "2017-2018",
+    "score": 10.69,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Kwan, Steven",
+    "years": "2023-2024",
+    "score": 10.69,
+    "opsChange": -0.088
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2017-2018",
+    "score": 10.66,
+    "opsChange": -0.103
+  },
+  {
+    "player": "Hoskins, Rhys",
+    "years": "2020-2021",
+    "score": 10.66,
+    "opsChange": -0.07
+  },
+  {
+    "player": "Montero, Elehuris",
+    "years": "2022-2023",
+    "score": 10.66,
+    "opsChange": -0.145
+  },
+  {
+    "player": "Grisham, Trent",
+    "years": "2022-2023",
+    "score": 10.65,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2017-2018",
+    "score": 10.64,
+    "opsChange": 0.019
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2016-2017",
+    "score": 10.64,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Gonzalez, Marwin",
+    "years": "2017-2018",
+    "score": 10.59,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2017-2018",
+    "score": 10.58,
+    "opsChange": 0.068
+  },
+  {
+    "player": "Alonso, Yonder",
+    "years": "2015-2016",
+    "score": 10.57,
+    "opsChange": 0.183
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2020-2021",
+    "score": 10.54,
+    "opsChange": -0.184
+  },
+  {
+    "player": "Martin, Russell",
+    "years": "2017-2018",
+    "score": 10.51,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Ahmed, Nick",
+    "years": "2018-2019",
+    "score": 10.5,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2018-2019",
+    "score": 10.47,
+    "opsChange": -0.21
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2019-2020",
+    "score": 10.44,
+    "opsChange": 0.111
+  },
+  {
+    "player": "Moustakas, Mike",
+    "years": "2017-2018",
+    "score": 10.43,
+    "opsChange": 0.071
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2021-2022",
+    "score": 10.41,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2017-2018",
+    "score": 10.37,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Piscotty, Stephen",
+    "years": "2017-2018",
+    "score": 10.28,
+    "opsChange": -0.101
+  },
+  {
+    "player": "Pollock, AJ",
+    "years": "2020-2021",
+    "score": 10.23,
+    "opsChange": -0.211
+  },
+  {
+    "player": "Anderson, Brian",
+    "years": "2021-2022",
+    "score": 10.23,
+    "opsChange": 0.021
+  },
+  {
+    "player": "McCann, James",
+    "years": "2022-2023",
+    "score": 10.21,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Werth, Jayson",
+    "years": "2015-2016",
+    "score": 10.19,
+    "opsChange": -0.037
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2023-2024",
+    "score": 10.18,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2022-2023",
+    "score": 10.12,
+    "opsChange": 0.02
+  },
+  {
+    "player": "Kirk, Alejandro",
+    "years": "2023-2024",
+    "score": 10.06,
+    "opsChange": 0.092
+  },
+  {
+    "player": "Friedl, TJ",
+    "years": "2023-2024",
+    "score": 9.99,
+    "opsChange": 0.052
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2020-2021",
+    "score": 9.98,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Murphy, Sean",
+    "years": "2022-2023",
+    "score": 9.94,
+    "opsChange": -0.208
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2022-2023",
+    "score": 9.89,
+    "opsChange": 0.136
+  },
+  {
+    "player": "Cronenworth, Jake",
+    "years": "2023-2024",
+    "score": 9.85,
+    "opsChange": 0.03
+  },
+  {
+    "player": "Bohm, Alec",
+    "years": "2023-2024",
+    "score": 9.69,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2020-2021",
+    "score": 9.68,
+    "opsChange": 0.084
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2015-2016",
+    "score": 9.55,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2020-2021",
+    "score": 9.53,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Dozier, Brian",
+    "years": "2015-2016",
+    "score": 9.51,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Bader, Harrison",
+    "years": "2023-2024",
+    "score": 9.48,
+    "opsChange": 0.139
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2019-2020",
+    "score": 9.48,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Russell, Addison",
+    "years": "2016-2017",
+    "score": 9.46,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2017-2018",
+    "score": 9.44,
+    "opsChange": 0.108
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2015-2016",
+    "score": 9.44,
+    "opsChange": -0.094
+  },
+  {
+    "player": "Lowe, Josh",
+    "years": "2023-2024",
+    "score": 9.44,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Gamel, Ben",
+    "years": "2017-2018",
+    "score": 9.42,
+    "opsChange": -0.018
+  },
+  {
+    "player": "Suzuki, Kurt",
+    "years": "2016-2017",
+    "score": 9.4,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Markakis, Nick",
+    "years": "2017-2018",
+    "score": 9.39,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2022-2023",
+    "score": 9.36,
+    "opsChange": 0.09
+  },
+  {
+    "player": "Peraza, Jos\u00e9",
+    "years": "2017-2018",
+    "score": 9.36,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Ward, Taylor",
+    "years": "2021-2022",
+    "score": 9.32,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Fowler, Dexter",
+    "years": "2016-2017",
+    "score": 9.31,
+    "opsChange": -0.275
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2020-2021",
+    "score": 9.31,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Sosa, Lenyn",
+    "years": "2023-2024",
+    "score": 9.29,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2021-2022",
+    "score": 9.29,
+    "opsChange": 0.114
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2018-2019",
+    "score": 9.28,
+    "opsChange": -0.183
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2023-2024",
+    "score": 9.25,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2015-2016",
+    "score": 9.19,
+    "opsChange": 0.13
+  },
+  {
+    "player": "Barnhart, Tucker",
+    "years": "2015-2016",
+    "score": 9.19,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Sosa, Edmundo",
+    "years": "2022-2023",
+    "score": 9.15,
+    "opsChange": 0.015
+  },
+  {
+    "player": "McCann, James",
+    "years": "2017-2018",
+    "score": 9.13,
+    "opsChange": 0.208
+  },
+  {
+    "player": "Gennett, Scooter",
+    "years": "2015-2016",
+    "score": 9.1,
+    "opsChange": 0.146
+  },
+  {
+    "player": "Wendle, Joey",
+    "years": "2020-2021",
+    "score": 9.05,
+    "opsChange": -0.083
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2017-2018",
+    "score": 9.04,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2019-2020",
+    "score": 9.01,
+    "opsChange": 0.082
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2015-2016",
+    "score": 8.95,
+    "opsChange": 0.113
+  },
+  {
+    "player": "Garver, Mitch",
+    "years": "2022-2023",
+    "score": 8.94,
+    "opsChange": -0.243
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2017-2018",
+    "score": 8.93,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2020-2021",
+    "score": 8.89,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Riley, Austin",
+    "years": "2020-2021",
+    "score": 8.87,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Solano, Donovan",
+    "years": "2021-2022",
+    "score": 8.86,
+    "opsChange": 0.036
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2022-2023",
+    "score": 8.86,
+    "opsChange": -0.037
+  },
+  {
+    "player": "Cabrera, Melky",
+    "years": "2017-2018",
+    "score": 8.86,
+    "opsChange": -0.042
+  },
+  {
+    "player": "Grisham, Trent",
+    "years": "2023-2024",
+    "score": 8.84,
+    "opsChange": 0.136
+  },
+  {
+    "player": "Garc\u00eda, Leury",
+    "years": "2017-2018",
+    "score": 8.82,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Kinsler, Ian",
+    "years": "2015-2016",
+    "score": 8.82,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Albies, Ozzie",
+    "years": "2017-2018",
+    "score": 8.78,
+    "opsChange": 0.095
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2016-2017",
+    "score": 8.77,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Witt Jr., Bobby",
+    "years": "2023-2024",
+    "score": 8.77,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Ohtani, Shohei",
+    "years": "2022-2023",
+    "score": 8.74,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2023-2024",
+    "score": 8.74,
+    "opsChange": -0.169
+  },
+  {
+    "player": "Hechavarr\u00eda, Adeiny",
+    "years": "2016-2017",
+    "score": 8.72,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Drury, Brandon",
+    "years": "2022-2023",
+    "score": 8.71,
+    "opsChange": -0.334
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2018-2019",
+    "score": 8.7,
+    "opsChange": 0.153
+  },
+  {
+    "player": "Alonso, Yonder",
+    "years": "2016-2017",
+    "score": 8.67,
+    "opsChange": -0.128
+  },
+  {
+    "player": "Anderson, Brian",
+    "years": "2018-2019",
+    "score": 8.66,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2020-2021",
+    "score": 8.66,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2022-2023",
+    "score": 8.66,
+    "opsChange": -0.124
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2021-2022",
+    "score": 8.65,
+    "opsChange": -0.11
+  },
+  {
+    "player": "Cron, C.J.",
+    "years": "2015-2016",
+    "score": 8.64,
+    "opsChange": -0.051
+  },
+  {
+    "player": "Reynolds, Bryan",
+    "years": "2022-2023",
+    "score": 8.64,
+    "opsChange": 0.001
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2018-2019",
+    "score": 8.63,
+    "opsChange": 0.073
+  },
+  {
+    "player": "Pollock, AJ",
+    "years": "2019-2020",
+    "score": 8.62,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Suwinski, Jack",
+    "years": "2022-2023",
+    "score": 8.6,
+    "opsChange": -0.205
+  },
+  {
+    "player": "Castro, Willi",
+    "years": "2023-2024",
+    "score": 8.6,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Springer, George",
+    "years": "2016-2017",
+    "score": 8.57,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2016-2017",
+    "score": 8.53,
+    "opsChange": 0.123
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2019-2020",
+    "score": 8.51,
+    "opsChange": -0.097
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2018-2019",
+    "score": 8.51,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Morrison, Logan",
+    "years": "2015-2016",
+    "score": 8.5,
+    "opsChange": 0.135
+  },
+  {
+    "player": "McMahon, Ryan",
+    "years": "2021-2022",
+    "score": 8.5,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2019-2020",
+    "score": 8.49,
+    "opsChange": 0.005
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2019-2020",
+    "score": 8.48,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Andrus, Elvis",
+    "years": "2015-2016",
+    "score": 8.47,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Fraley, Jake",
+    "years": "2022-2023",
+    "score": 8.42,
+    "opsChange": -0.067
+  },
+  {
+    "player": "Pillar, Kevin",
+    "years": "2015-2016",
+    "score": 8.37,
+    "opsChange": 0.025
+  },
+  {
+    "player": "Tovar, Ezequiel",
+    "years": "2023-2024",
+    "score": 8.36,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2017-2018",
+    "score": 8.35,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Trevino, Jose",
+    "years": "2023-2024",
+    "score": 8.35,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2018-2019",
+    "score": 8.34,
+    "opsChange": 0.132
+  },
+  {
+    "player": "Wade Jr., LaMonte",
+    "years": "2023-2024",
+    "score": 8.33,
+    "opsChange": -0.237
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2023-2024",
+    "score": 8.29,
+    "opsChange": 0.107
+  },
+  {
+    "player": "Pillar, Kevin",
+    "years": "2019-2020",
+    "score": 8.27,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Harris II, Michael",
+    "years": "2022-2023",
+    "score": 8.24,
+    "opsChange": -0.086
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2019-2020",
+    "score": 8.22,
+    "opsChange": 0.155
+  },
+  {
+    "player": "Crawford, Brandon",
+    "years": "2020-2021",
+    "score": 8.19,
+    "opsChange": -0.243
+  },
+  {
+    "player": "Donovan, Brendan",
+    "years": "2022-2023",
+    "score": 8.19,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Hosmer, Eric",
+    "years": "2015-2016",
+    "score": 8.14,
+    "opsChange": 0.121
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2022-2023",
+    "score": 8.14,
+    "opsChange": -0.224
+  },
+  {
+    "player": "Robles, Victor",
+    "years": "2020-2021",
+    "score": 8.13,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Romine, Austin",
+    "years": "2017-2018",
+    "score": 8.08,
+    "opsChange": 0.035
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2018-2019",
+    "score": 8.07,
+    "opsChange": 0.164
+  },
+  {
+    "player": "Diaz, Yainer",
+    "years": "2023-2024",
+    "score": 8.06,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Hamilton, Billy",
+    "years": "2015-2016",
+    "score": 8.06,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Aguilar, Jes\u00fas",
+    "years": "2020-2021",
+    "score": 8.05,
+    "opsChange": -0.127
+  },
+  {
+    "player": "Robertson, Daniel",
+    "years": "2017-2018",
+    "score": 8.04,
+    "opsChange": -0.19
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2016-2017",
+    "score": 7.84,
+    "opsChange": -0.166
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2020-2021",
+    "score": 7.8,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2021-2022",
+    "score": 7.77,
+    "opsChange": 0.103
+  },
+  {
+    "player": "Murphy, Daniel",
+    "years": "2015-2016",
+    "score": 7.76,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Reyes, Franmil",
+    "years": "2020-2021",
+    "score": 7.76,
+    "opsChange": -0.208
+  },
+  {
+    "player": "Solano, Donovan",
+    "years": "2022-2023",
+    "score": 7.75,
+    "opsChange": 0.0
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2019-2020",
+    "score": 7.75,
+    "opsChange": -0.05
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2017-2018",
+    "score": 7.7,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Biggio, Cavan",
+    "years": "2020-2021",
+    "score": 7.68,
+    "opsChange": -0.01
+  },
+  {
+    "player": "Hundley, Nick",
+    "years": "2016-2017",
+    "score": 7.68,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Bohm, Alec",
+    "years": "2020-2021",
+    "score": 7.67,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2021-2022",
+    "score": 7.67,
+    "opsChange": 0.227
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2016-2017",
+    "score": 7.66,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2023-2024",
+    "score": 7.65,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Ellsbury, Jacoby",
+    "years": "2015-2016",
+    "score": 7.6,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Heim, Jonah",
+    "years": "2021-2022",
+    "score": 7.6,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2016-2017",
+    "score": 7.6,
+    "opsChange": 0.043
+  },
+  {
+    "player": "Walker, Christian",
+    "years": "2021-2022",
+    "score": 7.59,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Abrams, CJ",
+    "years": "2023-2024",
+    "score": 7.58,
+    "opsChange": 0.001
+  },
+  {
+    "player": "Duvall, Adam",
+    "years": "2020-2021",
+    "score": 7.58,
+    "opsChange": -0.095
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2021-2022",
+    "score": 7.56,
+    "opsChange": -0.032
+  },
+  {
+    "player": "Iannetta, Chris",
+    "years": "2015-2016",
+    "score": 7.47,
+    "opsChange": 0.234
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2018-2019",
+    "score": 7.46,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Morales, Kendrys",
+    "years": "2015-2016",
+    "score": 7.45,
+    "opsChange": -0.042
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2021-2022",
+    "score": 7.43,
+    "opsChange": -0.066
+  },
+  {
+    "player": "Riley, Austin",
+    "years": "2023-2024",
+    "score": 7.42,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Molina, Yadier",
+    "years": "2015-2016",
+    "score": 7.38,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Chisholm Jr., Jazz",
+    "years": "2021-2022",
+    "score": 7.37,
+    "opsChange": -0.099
+  },
+  {
+    "player": "Cespedes, Yoenis",
+    "years": "2015-2016",
+    "score": 7.37,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Mauer, Joe",
+    "years": "2016-2017",
+    "score": 7.34,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2019-2020",
+    "score": 7.29,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2021-2022",
+    "score": 7.27,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Edman, Tommy",
+    "years": "2020-2021",
+    "score": 7.26,
+    "opsChange": 0.03
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2017-2018",
+    "score": 7.25,
+    "opsChange": 0.068
+  },
+  {
+    "player": "Reynolds, Bryan",
+    "years": "2020-2021",
+    "score": 7.25,
+    "opsChange": -0.105
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2021-2022",
+    "score": 7.21,
+    "opsChange": -0.113
+  },
+  {
+    "player": "Thames, Eric",
+    "years": "2017-2018",
+    "score": 7.2,
+    "opsChange": 0.068
+  },
+  {
+    "player": "Dyson, Jarrod",
+    "years": "2015-2016",
+    "score": 7.19,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2023-2024",
+    "score": 7.19,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2022-2023",
+    "score": 7.16,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Flowers, Tyler",
+    "years": "2017-2018",
+    "score": 7.15,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2015-2016",
+    "score": 7.15,
+    "opsChange": -0.047
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2023-2024",
+    "score": 7.14,
+    "opsChange": 0.03
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2017-2018",
+    "score": 7.13,
+    "opsChange": 0.213
+  },
+  {
+    "player": "Fowler, Dexter",
+    "years": "2015-2016",
+    "score": 7.06,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2015-2016",
+    "score": 7.05,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Hays, Austin",
+    "years": "2022-2023",
+    "score": 7.04,
+    "opsChange": -0.07
+  },
+  {
+    "player": "Yastrzemski, Mike",
+    "years": "2021-2022",
+    "score": 7.02,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2023-2024",
+    "score": 7.0,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2015-2016",
+    "score": 6.96,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Reyes, Franmil",
+    "years": "2018-2019",
+    "score": 6.95,
+    "opsChange": -0.027
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2019-2020",
+    "score": 6.94,
+    "opsChange": -0.191
+  },
+  {
+    "player": "Garc\u00eda, Adolis",
+    "years": "2022-2023",
+    "score": 6.93,
+    "opsChange": -0.152
+  },
+  {
+    "player": "G\u00f3mez, Carlos",
+    "years": "2016-2017",
+    "score": 6.89,
+    "opsChange": -0.168
+  },
+  {
+    "player": "Bour, Justin",
+    "years": "2015-2016",
+    "score": 6.87,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Reddick, Josh",
+    "years": "2018-2019",
+    "score": 6.84,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Iglesias, Jose",
+    "years": "2015-2016",
+    "score": 6.81,
+    "opsChange": 0.014
+  },
+  {
+    "player": "Schoop, Jonathan",
+    "years": "2016-2017",
+    "score": 6.81,
+    "opsChange": -0.159
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2020-2021",
+    "score": 6.81,
+    "opsChange": -0.108
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2019-2020",
+    "score": 6.81,
+    "opsChange": -0.156
+  },
+  {
+    "player": "Judge, Aaron",
+    "years": "2021-2022",
+    "score": 6.75,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Pedroia, Dustin",
+    "years": "2015-2016",
+    "score": 6.75,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Rengifo, Luis",
+    "years": "2022-2023",
+    "score": 6.73,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Greene, Riley",
+    "years": "2022-2023",
+    "score": 6.71,
+    "opsChange": 0.031
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2018-2019",
+    "score": 6.71,
+    "opsChange": 0.267
+  },
+  {
+    "player": "Mauer, Joe",
+    "years": "2015-2016",
+    "score": 6.7,
+    "opsChange": 0.049
+  },
+  {
+    "player": "d'Arnaud, Travis",
+    "years": "2022-2023",
+    "score": 6.69,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Santander, Anthony",
+    "years": "2022-2023",
+    "score": 6.67,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Estrada, Thairo",
+    "years": "2022-2023",
+    "score": 6.66,
+    "opsChange": -0.141
+  },
+  {
+    "player": "Escobar, Alcides",
+    "years": "2016-2017",
+    "score": 6.64,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Lucroy, Jonathan",
+    "years": "2017-2018",
+    "score": 6.62,
+    "opsChange": 0.043
+  },
+  {
+    "player": "O'Hearn, Ryan",
+    "years": "2022-2023",
+    "score": 6.55,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Zimmerman, Ryan",
+    "years": "2016-2017",
+    "score": 6.55,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2022-2023",
+    "score": 6.54,
+    "opsChange": -0.094
+  },
+  {
+    "player": "d'Arnaud, Travis",
+    "years": "2015-2016",
+    "score": 6.53,
+    "opsChange": 0.106
+  },
+  {
+    "player": "Kiermaier, Kevin",
+    "years": "2021-2022",
+    "score": 6.52,
+    "opsChange": 0.092
+  },
+  {
+    "player": "Heredia, Guillermo",
+    "years": "2017-2018",
+    "score": 6.51,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Tucker, Kyle",
+    "years": "2020-2021",
+    "score": 6.5,
+    "opsChange": -0.109
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2023-2024",
+    "score": 6.47,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2017-2018",
+    "score": 6.44,
+    "opsChange": 0.181
+  },
+  {
+    "player": "Soler, Jorge",
+    "years": "2022-2023",
+    "score": 6.44,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Puig, Yasiel",
+    "years": "2017-2018",
+    "score": 6.44,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2023-2024",
+    "score": 6.43,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2022-2023",
+    "score": 6.42,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Davis, Khris",
+    "years": "2016-2017",
+    "score": 6.42,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2021-2022",
+    "score": 6.4,
+    "opsChange": 0.055
+  },
+  {
+    "player": "Bleday, JJ",
+    "years": "2023-2024",
+    "score": 6.39,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Sheets, Gavin",
+    "years": "2023-2024",
+    "score": 6.38,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Gonz\u00e1lez, Carlos",
+    "years": "2015-2016",
+    "score": 6.36,
+    "opsChange": -0.093
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2016-2017",
+    "score": 6.3,
+    "opsChange": 0.064
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2015-2016",
+    "score": 6.25,
+    "opsChange": 0.193
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2017-2018",
+    "score": 6.24,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2016-2017",
+    "score": 6.19,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Gardner, Brett",
+    "years": "2017-2018",
+    "score": 6.19,
+    "opsChange": 0.139
+  },
+  {
+    "player": "Donaldson, Josh",
+    "years": "2015-2016",
+    "score": 6.17,
+    "opsChange": -0.009
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2018-2019",
+    "score": 6.17,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Barnes, Austin",
+    "years": "2021-2022",
+    "score": 6.15,
+    "opsChange": -0.206
+  },
+  {
+    "player": "Tucker, Kyle",
+    "years": "2022-2023",
+    "score": 6.15,
+    "opsChange": 0.107
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2016-2017",
+    "score": 6.13,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Reynolds, Mark",
+    "years": "2015-2016",
+    "score": 6.1,
+    "opsChange": 0.033
+  },
+  {
+    "player": "France, Ty",
+    "years": "2022-2023",
+    "score": 6.08,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2018-2019",
+    "score": 6.08,
+    "opsChange": -0.226
+  },
+  {
+    "player": "Moustakas, Mike",
+    "years": "2021-2022",
+    "score": 6.05,
+    "opsChange": 0.045
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2020-2021",
+    "score": 6.05,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2023-2024",
+    "score": 6.03,
+    "opsChange": -0.051
+  },
+  {
+    "player": "Vargas, Ildemaro",
+    "years": "2022-2023",
+    "score": 6.0,
+    "opsChange": -0.055
+  },
+  {
+    "player": "Cain, Lorenzo",
+    "years": "2016-2017",
+    "score": 5.92,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Hundley, Nick",
+    "years": "2015-2016",
+    "score": 5.91,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2021-2022",
+    "score": 5.91,
+    "opsChange": 0.191
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2021-2022",
+    "score": 5.9,
+    "opsChange": 0.218
+  },
+  {
+    "player": "Contreras, William",
+    "years": "2023-2024",
+    "score": 5.88,
+    "opsChange": -0.077
+  },
+  {
+    "player": "D\u00edaz, Elias",
+    "years": "2021-2022",
+    "score": 5.87,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Tapia, Raimel",
+    "years": "2020-2021",
+    "score": 5.85,
+    "opsChange": -0.027
+  },
+  {
+    "player": "P\u00e9rez, Roberto",
+    "years": "2017-2018",
+    "score": 5.85,
+    "opsChange": 0.255
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2018-2019",
+    "score": 5.85,
+    "opsChange": -0.226
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2020-2021",
+    "score": 5.77,
+    "opsChange": 0.082
+  },
+  {
+    "player": "Ur\u00edas, Ram\u00f3n",
+    "years": "2021-2022",
+    "score": 5.7,
+    "opsChange": -0.017
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2016-2017",
+    "score": 5.64,
+    "opsChange": -0.142
+  },
+  {
+    "player": "Cozart, Zack",
+    "years": "2016-2017",
+    "score": 5.64,
+    "opsChange": -0.275
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2017-2018",
+    "score": 5.64,
+    "opsChange": -0.003
+  },
+  {
+    "player": "DeJong, Paul",
+    "years": "2021-2022",
+    "score": 5.63,
+    "opsChange": 0.082
+  },
+  {
+    "player": "Soto, Juan",
+    "years": "2020-2021",
+    "score": 5.61,
+    "opsChange": -0.146
+  },
+  {
+    "player": "Jackson, Austin",
+    "years": "2016-2017",
+    "score": 5.6,
+    "opsChange": -0.245
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2016-2017",
+    "score": 5.6,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2020-2021",
+    "score": 5.59,
+    "opsChange": -0.17
+  },
+  {
+    "player": "Edman, Tommy",
+    "years": "2021-2022",
+    "score": 5.57,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2018-2019",
+    "score": 5.46,
+    "opsChange": -0.307
+  },
+  {
+    "player": "Haniger, Mitch",
+    "years": "2021-2022",
+    "score": 5.41,
+    "opsChange": -0.105
+  },
+  {
+    "player": "Contreras, William",
+    "years": "2021-2022",
+    "score": 5.41,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Villar, Jonathan",
+    "years": "2018-2019",
+    "score": 5.41,
+    "opsChange": -0.199
+  },
+  {
+    "player": "Choo, Shin-Soo",
+    "years": "2017-2018",
+    "score": 5.37,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Carpenter, Kerry",
+    "years": "2023-2024",
+    "score": 5.34,
+    "opsChange": -0.144
+  },
+  {
+    "player": "Gonzalez, Marwin",
+    "years": "2015-2016",
+    "score": 5.26,
+    "opsChange": 0.213
+  },
+  {
+    "player": "Turang, Brice",
+    "years": "2023-2024",
+    "score": 5.17,
+    "opsChange": 0.129
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2020-2021",
+    "score": 5.15,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2018-2019",
+    "score": 5.15,
+    "opsChange": -0.018
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2020-2021",
+    "score": 5.15,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2017-2018",
+    "score": 5.06,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2015-2016",
+    "score": 5.05,
+    "opsChange": -0.094
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2023-2024",
+    "score": 5.03,
+    "opsChange": -0.201
+  },
+  {
+    "player": "Pence, Hunter",
+    "years": "2015-2016",
+    "score": 5.03,
+    "opsChange": -0.107
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2017-2018",
+    "score": 5.01,
+    "opsChange": 0.186
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2017-2018",
+    "score": 5.0,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Mateo, Jorge",
+    "years": "2021-2022",
+    "score": 4.95,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Napoli, Mike",
+    "years": "2015-2016",
+    "score": 4.91,
+    "opsChange": -0.087
+  },
+  {
+    "player": "Reynolds, Bryan",
+    "years": "2021-2022",
+    "score": 4.91,
+    "opsChange": -0.017
+  },
+  {
+    "player": "Cabrera, Asdr\u00fabal",
+    "years": "2019-2020",
+    "score": 4.9,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Cabrera, Melky",
+    "years": "2016-2017",
+    "score": 4.89,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Jeffers, Ryan",
+    "years": "2022-2023",
+    "score": 4.83,
+    "opsChange": -0.126
+  },
+  {
+    "player": "Alberto, Hanser",
+    "years": "2019-2020",
+    "score": 4.82,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2015-2016",
+    "score": 4.78,
+    "opsChange": -0.103
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2017-2018",
+    "score": 4.76,
+    "opsChange": 0.027
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2022-2023",
+    "score": 4.75,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Miller, Brad",
+    "years": "2015-2016",
+    "score": 4.74,
+    "opsChange": -0.122
+  },
+  {
+    "player": "Story, Trevor",
+    "years": "2020-2021",
+    "score": 4.73,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Hicks, John",
+    "years": "2017-2018",
+    "score": 4.7,
+    "opsChange": -0.095
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2017-2018",
+    "score": 4.68,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2021-2022",
+    "score": 4.66,
+    "opsChange": -0.056
+  },
+  {
+    "player": "Caballero, Jos\u00e9",
+    "years": "2023-2024",
+    "score": 4.65,
+    "opsChange": 0.056
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2016-2017",
+    "score": 4.64,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2022-2023",
+    "score": 4.64,
+    "opsChange": -0.128
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2021-2022",
+    "score": 4.63,
+    "opsChange": 0.027
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2021-2022",
+    "score": 4.63,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Odor, Rougned",
+    "years": "2017-2018",
+    "score": 4.61,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2015-2016",
+    "score": 4.6,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Garc\u00eda, Adolis",
+    "years": "2021-2022",
+    "score": 4.59,
+    "opsChange": 0.08
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2022-2023",
+    "score": 4.57,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Pollock, AJ",
+    "years": "2017-2018",
+    "score": 4.52,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2016-2017",
+    "score": 4.51,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2020-2021",
+    "score": 4.5,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2021-2022",
+    "score": 4.47,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2021-2022",
+    "score": 4.45,
+    "opsChange": -0.058
+  },
+  {
+    "player": "Iglesias, Jose",
+    "years": "2017-2018",
+    "score": 4.45,
+    "opsChange": 0.025
+  },
+  {
+    "player": "Barnhart, Tucker",
+    "years": "2016-2017",
+    "score": 4.44,
+    "opsChange": -0.051
+  },
+  {
+    "player": "Parra, Gerardo",
+    "years": "2015-2016",
+    "score": 4.42,
+    "opsChange": 0.122
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2022-2023",
+    "score": 4.39,
+    "opsChange": -0.138
+  },
+  {
+    "player": "Plouffe, Trevor",
+    "years": "2015-2016",
+    "score": 4.39,
+    "opsChange": -0.133
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2022-2023",
+    "score": 4.29,
+    "opsChange": -0.191
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2016-2017",
+    "score": 4.28,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2018-2019",
+    "score": 4.28,
+    "opsChange": -0.008
+  },
+  {
+    "player": "Trumbo, Mark",
+    "years": "2015-2016",
+    "score": 4.27,
+    "opsChange": -0.164
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2020-2021",
+    "score": 4.24,
+    "opsChange": -0.153
+  },
+  {
+    "player": "Taveras, Leody",
+    "years": "2021-2022",
+    "score": 4.24,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Massey, Michael",
+    "years": "2022-2023",
+    "score": 4.23,
+    "opsChange": 0.088
+  },
+  {
+    "player": "Taylor, Michael A.",
+    "years": "2015-2016",
+    "score": 4.23,
+    "opsChange": 0.152
+  },
+  {
+    "player": "Pe\u00f1a, Jeremy",
+    "years": "2023-2024",
+    "score": 4.2,
+    "opsChange": 0.139
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2020-2021",
+    "score": 4.19,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2016-2017",
+    "score": 4.19,
+    "opsChange": -0.14
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2015-2016",
+    "score": 4.13,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Hayes, Ke'Bryan",
+    "years": "2021-2022",
+    "score": 4.1,
+    "opsChange": 0.103
+  },
+  {
+    "player": "Dyson, Jarrod",
+    "years": "2017-2018",
+    "score": 4.08,
+    "opsChange": 0.094
+  },
+  {
+    "player": "Zobrist, Ben",
+    "years": "2015-2016",
+    "score": 4.07,
+    "opsChange": -0.138
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2021-2022",
+    "score": 4.07,
+    "opsChange": -0.251
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2022-2023",
+    "score": 4.07,
+    "opsChange": 0.096
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2017-2018",
+    "score": 4.05,
+    "opsChange": 0.049
+  },
+  {
+    "player": "Bleday, JJ",
+    "years": "2022-2023",
+    "score": 4.05,
+    "opsChange": 0.096
+  },
+  {
+    "player": "Herrera, Od\u00fabel",
+    "years": "2016-2017",
+    "score": 4.04,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2022-2023",
+    "score": 4.01,
+    "opsChange": 0.144
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2020-2021",
+    "score": 4.0,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2022-2023",
+    "score": 3.99,
+    "opsChange": 0.088
+  },
+  {
+    "player": "Rutschman, Adley",
+    "years": "2022-2023",
+    "score": 3.98,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Soto, Juan",
+    "years": "2023-2024",
+    "score": 3.97,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Fletcher, David",
+    "years": "2019-2020",
+    "score": 3.97,
+    "opsChange": -0.179
+  },
+  {
+    "player": "Crawford, J.P.",
+    "years": "2023-2024",
+    "score": 3.96,
+    "opsChange": 0.097
+  },
+  {
+    "player": "Gim\u00e9nez, Andr\u00e9s",
+    "years": "2023-2024",
+    "score": 3.95,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Russell, Addison",
+    "years": "2015-2016",
+    "score": 3.94,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Kipnis, Jason",
+    "years": "2015-2016",
+    "score": 3.9,
+    "opsChange": -0.106
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2017-2018",
+    "score": 3.88,
+    "opsChange": 0.144
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2021-2022",
+    "score": 3.83,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Valbuena, Luis",
+    "years": "2016-2017",
+    "score": 3.83,
+    "opsChange": -0.139
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2020-2021",
+    "score": 3.82,
+    "opsChange": -0.245
+  },
+  {
+    "player": "Mahtook, Mikie",
+    "years": "2016-2017",
+    "score": 3.8,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Candelario, Jeimer",
+    "years": "2022-2023",
+    "score": 3.78,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2021-2022",
+    "score": 3.74,
+    "opsChange": -0.117
+  },
+  {
+    "player": "Lopez, Nicky",
+    "years": "2020-2021",
+    "score": 3.72,
+    "opsChange": -0.19
+  },
+  {
+    "player": "Wolters, Tony",
+    "years": "2017-2018",
+    "score": 3.71,
+    "opsChange": 0.089
+  },
+  {
+    "player": "Maldonado, Mart\u00edn",
+    "years": "2015-2016",
+    "score": 3.7,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Castillo, Welington",
+    "years": "2015-2016",
+    "score": 3.7,
+    "opsChange": 0.068
+  },
+  {
+    "player": "Taylor, Tyrone",
+    "years": "2022-2023",
+    "score": 3.69,
+    "opsChange": -0.012
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2015-2016",
+    "score": 3.69,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2018-2019",
+    "score": 3.68,
+    "opsChange": 0.104
+  },
+  {
+    "player": "Souza Jr., Steven",
+    "years": "2016-2017",
+    "score": 3.65,
+    "opsChange": -0.132
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2020-2021",
+    "score": 3.63,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Madrigal, Nick",
+    "years": "2021-2022",
+    "score": 3.62,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Solarte, Yangervis",
+    "years": "2015-2016",
+    "score": 3.59,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Solano, Donovan",
+    "years": "2020-2021",
+    "score": 3.57,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Yastrzemski, Mike",
+    "years": "2022-2023",
+    "score": 3.55,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2023-2024",
+    "score": 3.53,
+    "opsChange": -0.009
+  },
+  {
+    "player": "Pujols, Albert",
+    "years": "2017-2018",
+    "score": 3.47,
+    "opsChange": 0.034
+  },
+  {
+    "player": "Wieters, Matt",
+    "years": "2015-2016",
+    "score": 3.45,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Suzuki, Seiya",
+    "years": "2023-2024",
+    "score": 3.42,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Blanco, Gr\u00e9gor",
+    "years": "2016-2017",
+    "score": 3.42,
+    "opsChange": -0.114
+  },
+  {
+    "player": "Hicks, Aaron",
+    "years": "2015-2016",
+    "score": 3.37,
+    "opsChange": 0.23
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2022-2023",
+    "score": 3.37,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Castro, Willi",
+    "years": "2022-2023",
+    "score": 3.34,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Strange-Gordon, Dee",
+    "years": "2017-2018",
+    "score": 3.33,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Judge, Aaron",
+    "years": "2022-2023",
+    "score": 3.33,
+    "opsChange": 0.14
+  },
+  {
+    "player": "Henderson, Gunnar",
+    "years": "2023-2024",
+    "score": 3.29,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Steer, Spencer",
+    "years": "2023-2024",
+    "score": 3.28,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2015-2016",
+    "score": 3.28,
+    "opsChange": 0.045
+  },
+  {
+    "player": "Varsho, Daulton",
+    "years": "2022-2023",
+    "score": 3.25,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Hayes, Ke'Bryan",
+    "years": "2022-2023",
+    "score": 3.25,
+    "opsChange": -0.189
+  },
+  {
+    "player": "Brantley, Michael",
+    "years": "2017-2018",
+    "score": 3.23,
+    "opsChange": 0.043
+  },
+  {
+    "player": "Jones, Nolan",
+    "years": "2023-2024",
+    "score": 3.21,
+    "opsChange": -0.041
+  },
+  {
+    "player": "Westburg, Jordan",
+    "years": "2023-2024",
+    "score": 3.16,
+    "opsChange": -0.022
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2018-2019",
+    "score": 3.16,
+    "opsChange": 0.187
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2023-2024",
+    "score": 3.15,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2015-2016",
+    "score": 3.13,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Lucroy, Jonathan",
+    "years": "2015-2016",
+    "score": 3.12,
+    "opsChange": -0.139
+  },
+  {
+    "player": "Contreras, William",
+    "years": "2022-2023",
+    "score": 3.11,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Cabrera, Asdr\u00fabal",
+    "years": "2015-2016",
+    "score": 3.1,
+    "opsChange": -0.025
+  },
+  {
+    "player": "Mancini, Trey",
+    "years": "2017-2018",
+    "score": 3.07,
+    "opsChange": 0.184
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2021-2022",
+    "score": 3.05,
+    "opsChange": 0.055
+  },
+  {
+    "player": "Tauchman, Mike",
+    "years": "2023-2024",
+    "score": 3.0,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Choo, Shin-Soo",
+    "years": "2015-2016",
+    "score": 2.99,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Farmer, Kyle",
+    "years": "2021-2022",
+    "score": 2.99,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2016-2017",
+    "score": 2.97,
+    "opsChange": -0.009
+  },
+  {
+    "player": "Gomes, Yan",
+    "years": "2016-2017",
+    "score": 2.96,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2018-2019",
+    "score": 2.94,
+    "opsChange": -0.193
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2022-2023",
+    "score": 2.91,
+    "opsChange": -0.127
+  },
+  {
+    "player": "Kemp, Matt",
+    "years": "2016-2017",
+    "score": 2.88,
+    "opsChange": 0.037
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2016-2017",
+    "score": 2.86,
+    "opsChange": -0.093
+  },
+  {
+    "player": "McMahon, Ryan",
+    "years": "2020-2021",
+    "score": 2.85,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Desmond, Ian",
+    "years": "2015-2016",
+    "score": 2.85,
+    "opsChange": -0.081
+  },
+  {
+    "player": "Granderson, Curtis",
+    "years": "2016-2017",
+    "score": 2.83,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2021-2022",
+    "score": 2.82,
+    "opsChange": -0.015
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2021-2022",
+    "score": 2.82,
+    "opsChange": -0.01
+  },
+  {
+    "player": "Bichette, Bo",
+    "years": "2021-2022",
+    "score": 2.78,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Lopez, Nicky",
+    "years": "2022-2023",
+    "score": 2.78,
+    "opsChange": -0.026
+  },
+  {
+    "player": "Encarnaci\u00f3n, Edwin",
+    "years": "2016-2017",
+    "score": 2.77,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Hampson, Garrett",
+    "years": "2022-2023",
+    "score": 2.76,
+    "opsChange": -0.153
+  },
+  {
+    "player": "Heyward, Jason",
+    "years": "2016-2017",
+    "score": 2.74,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2018-2019",
+    "score": 2.74,
+    "opsChange": 0.071
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2017-2018",
+    "score": 2.74,
+    "opsChange": -0.133
+  },
+  {
+    "player": "Sandoval, Pablo",
+    "years": "2017-2018",
+    "score": 2.74,
+    "opsChange": 0.093
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2017-2018",
+    "score": 2.71,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2019-2020",
+    "score": 2.68,
+    "opsChange": -0.114
+  },
+  {
+    "player": "S\u00e1nchez, Gary",
+    "years": "2017-2018",
+    "score": 2.67,
+    "opsChange": 0.144
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2021-2022",
+    "score": 2.65,
+    "opsChange": -0.144
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2017-2018",
+    "score": 2.65,
+    "opsChange": 0.128
+  },
+  {
+    "player": "Maybin, Cameron",
+    "years": "2017-2018",
+    "score": 2.64,
+    "opsChange": 0.196
+  },
+  {
+    "player": "Biggio, Cavan",
+    "years": "2022-2023",
+    "score": 2.62,
+    "opsChange": -0.093
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2018-2019",
+    "score": 2.58,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2020-2021",
+    "score": 2.56,
+    "opsChange": 0.037
+  },
+  {
+    "player": "Mercer, Jordy",
+    "years": "2017-2018",
+    "score": 2.54,
+    "opsChange": 0.051
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2017-2018",
+    "score": 2.51,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Harrison, Josh",
+    "years": "2016-2017",
+    "score": 2.42,
+    "opsChange": -0.115
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2021-2022",
+    "score": 2.4,
+    "opsChange": -0.123
+  },
+  {
+    "player": "Pham, Tommy",
+    "years": "2022-2023",
+    "score": 2.36,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Lamb, Jake",
+    "years": "2017-2018",
+    "score": 2.36,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Kiermaier, Kevin",
+    "years": "2015-2016",
+    "score": 2.35,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2016-2017",
+    "score": 2.35,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2018-2019",
+    "score": 2.34,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2016-2017",
+    "score": 2.33,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2021-2022",
+    "score": 2.27,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Wendle, Joey",
+    "years": "2021-2022",
+    "score": 2.26,
+    "opsChange": -0.104
+  },
+  {
+    "player": "Arraez, Luis",
+    "years": "2021-2022",
+    "score": 2.26,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2017-2018",
+    "score": 2.25,
+    "opsChange": 0.145
+  },
+  {
+    "player": "Rodr\u00edguez, Julio",
+    "years": "2022-2023",
+    "score": 2.23,
+    "opsChange": -0.084
+  },
+  {
+    "player": "DeJong, Paul",
+    "years": "2017-2018",
+    "score": 2.22,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Arcia, Orlando",
+    "years": "2017-2018",
+    "score": 2.2,
+    "opsChange": 0.057
+  },
+  {
+    "player": "Grossman, Robbie",
+    "years": "2017-2018",
+    "score": 2.16,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2017-2018",
+    "score": 2.15,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Caratini, Victor",
+    "years": "2022-2023",
+    "score": 2.12,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2022-2023",
+    "score": 2.12,
+    "opsChange": 0.194
+  },
+  {
+    "player": "Jansen, Danny",
+    "years": "2021-2022",
+    "score": 2.09,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Gordon, Alex",
+    "years": "2015-2016",
+    "score": 2.05,
+    "opsChange": -0.084
+  },
+  {
+    "player": "Castro, Starlin",
+    "years": "2016-2017",
+    "score": 2.03,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Rosario, Amed",
+    "years": "2022-2023",
+    "score": 2.01,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Simmons, Andrelton",
+    "years": "2016-2017",
+    "score": 2.01,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2022-2023",
+    "score": 2.0,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2015-2016",
+    "score": 1.99,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2019-2020",
+    "score": 1.99,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Morrison, Logan",
+    "years": "2016-2017",
+    "score": 1.96,
+    "opsChange": -0.224
+  },
+  {
+    "player": "Healy, Ryon",
+    "years": "2016-2017",
+    "score": 1.94,
+    "opsChange": -0.066
+  },
+  {
+    "player": "Urshela, Gio",
+    "years": "2020-2021",
+    "score": 1.92,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Candelario, Jeimer",
+    "years": "2018-2019",
+    "score": 1.92,
+    "opsChange": 0.229
+  },
+  {
+    "player": "Villar, Jonathan",
+    "years": "2020-2021",
+    "score": 1.91,
+    "opsChange": -0.176
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2016-2017",
+    "score": 1.91,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Newman, Kevin",
+    "years": "2022-2023",
+    "score": 1.91,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Taylor, Michael A.",
+    "years": "2023-2024",
+    "score": 1.91,
+    "opsChange": 0.082
+  },
+  {
+    "player": "Escobar, Alcides",
+    "years": "2015-2016",
+    "score": 1.91,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2021-2022",
+    "score": 1.88,
+    "opsChange": 0.08
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2023-2024",
+    "score": 1.88,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Burleson, Alec",
+    "years": "2023-2024",
+    "score": 1.87,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Can\u00f3, Robinson",
+    "years": "2016-2017",
+    "score": 1.82,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Seager, Kyle",
+    "years": "2019-2020",
+    "score": 1.81,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Pham, Tommy",
+    "years": "2021-2022",
+    "score": 1.79,
+    "opsChange": 0.088
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2015-2016",
+    "score": 1.78,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2015-2016",
+    "score": 1.78,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Suzuki, Kurt",
+    "years": "2015-2016",
+    "score": 1.76,
+    "opsChange": 0.183
+  },
+  {
+    "player": "Davis, Chris",
+    "years": "2016-2017",
+    "score": 1.75,
+    "opsChange": -0.193
+  },
+  {
+    "player": "Garcia, Greg",
+    "years": "2016-2017",
+    "score": 1.73,
+    "opsChange": -0.084
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2018-2019",
+    "score": 1.72,
+    "opsChange": 0.08
+  },
+  {
+    "player": "Brown, Seth",
+    "years": "2021-2022",
+    "score": 1.72,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Carrera, Ezequiel",
+    "years": "2015-2016",
+    "score": 1.68,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Dietrich, Derek",
+    "years": "2016-2017",
+    "score": 1.67,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Bruce, Jay",
+    "years": "2015-2016",
+    "score": 1.66,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Davis, Rajai",
+    "years": "2015-2016",
+    "score": 1.66,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2017-2018",
+    "score": 1.65,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Benintendi, Andrew",
+    "years": "2017-2018",
+    "score": 1.63,
+    "opsChange": -0.056
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2022-2023",
+    "score": 1.61,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2017-2018",
+    "score": 1.6,
+    "opsChange": 0.064
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2018-2019",
+    "score": 1.58,
+    "opsChange": -0.095
+  },
+  {
+    "player": "Garcia, Greg",
+    "years": "2017-2018",
+    "score": 1.53,
+    "opsChange": 0.105
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2015-2016",
+    "score": 1.52,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Peterson, Jace",
+    "years": "2016-2017",
+    "score": 1.49,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2015-2016",
+    "score": 1.49,
+    "opsChange": 0.12
+  },
+  {
+    "player": "Smoak, Justin",
+    "years": "2016-2017",
+    "score": 1.48,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Taylor, Michael A.",
+    "years": "2016-2017",
+    "score": 1.44,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2017-2018",
+    "score": 1.43,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Cron, C.J.",
+    "years": "2021-2022",
+    "score": 1.43,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2019-2020",
+    "score": 1.42,
+    "opsChange": 0.168
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2020-2021",
+    "score": 1.41,
+    "opsChange": -0.167
+  },
+  {
+    "player": "Walker, Neil",
+    "years": "2017-2018",
+    "score": 1.4,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Jones, Adam",
+    "years": "2017-2018",
+    "score": 1.4,
+    "opsChange": -0.004
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2020-2021",
+    "score": 1.39,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2016-2017",
+    "score": 1.38,
+    "opsChange": -0.018
+  },
+  {
+    "player": "Buxton, Byron",
+    "years": "2023-2024",
+    "score": 1.34,
+    "opsChange": 0.019
+  },
+  {
+    "player": "Utley, Chase",
+    "years": "2015-2016",
+    "score": 1.34,
+    "opsChange": 0.012
+  },
+  {
+    "player": "France, Ty",
+    "years": "2023-2024",
+    "score": 1.34,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Newman, Kevin",
+    "years": "2021-2022",
+    "score": 1.32,
+    "opsChange": -0.012
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2020-2021",
+    "score": 1.31,
+    "opsChange": -0.157
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2021-2022",
+    "score": 1.22,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Marisnick, Jake",
+    "years": "2016-2017",
+    "score": 1.2,
+    "opsChange": -0.141
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2015-2016",
+    "score": 1.15,
+    "opsChange": 0.14
+  },
+  {
+    "player": "O'Neill, Tyler",
+    "years": "2022-2023",
+    "score": 1.1,
+    "opsChange": 0.132
+  },
+  {
+    "player": "Pinder, Chad",
+    "years": "2017-2018",
+    "score": 1.09,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Gonzalez, Marwin",
+    "years": "2016-2017",
+    "score": 1.07,
+    "opsChange": -0.174
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2021-2022",
+    "score": 1.07,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2023-2024",
+    "score": 1.04,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2022-2023",
+    "score": 1.04,
+    "opsChange": -0.148
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2018-2019",
+    "score": 1.03,
+    "opsChange": -0.248
+  },
+  {
+    "player": "Rooker, Brent",
+    "years": "2023-2024",
+    "score": 1.01,
+    "opsChange": -0.113
+  },
+  {
+    "player": "Bruce, Jay",
+    "years": "2016-2017",
+    "score": 0.96,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Dozier, Brian",
+    "years": "2016-2017",
+    "score": 0.95,
+    "opsChange": -0.16
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2015-2016",
+    "score": 0.94,
+    "opsChange": -0.049
+  },
+  {
+    "player": "Peterson, Jace",
+    "years": "2021-2022",
+    "score": 0.94,
+    "opsChange": -0.087
+  },
+  {
+    "player": "Arraez, Luis",
+    "years": "2020-2021",
+    "score": 0.92,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2016-2017",
+    "score": 0.91,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Ward, Taylor",
+    "years": "2022-2023",
+    "score": 0.9,
+    "opsChange": -0.008
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2015-2016",
+    "score": 0.9,
+    "opsChange": 0.054
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2022-2023",
+    "score": 0.89,
+    "opsChange": -0.062
+  },
+  {
+    "player": "Margot, Manuel",
+    "years": "2022-2023",
+    "score": 0.89,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Kendrick, Howie",
+    "years": "2015-2016",
+    "score": 0.87,
+    "opsChange": 0.153
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2023-2024",
+    "score": 0.86,
+    "opsChange": 0.015
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2021-2022",
+    "score": 0.85,
+    "opsChange": 0.076
+  },
+  {
+    "player": "Ur\u00edas, Ram\u00f3n",
+    "years": "2023-2024",
+    "score": 0.84,
+    "opsChange": -0.07
+  },
+  {
+    "player": "Mart\u00ednez, Jos\u00e9 A.",
+    "years": "2017-2018",
+    "score": 0.83,
+    "opsChange": -0.07
+  },
+  {
+    "player": "Garc\u00eda Jr., Luis",
+    "years": "2020-2021",
+    "score": 0.81,
+    "opsChange": 0.018
+  },
+  {
+    "player": "Stephenson, Tyler",
+    "years": "2023-2024",
+    "score": 0.74,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2018-2019",
+    "score": 0.73,
+    "opsChange": -0.314
+  },
+  {
+    "player": "Mullins, Cedric",
+    "years": "2022-2023",
+    "score": 0.68,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Adams, Matt",
+    "years": "2016-2017",
+    "score": 0.61,
+    "opsChange": -0.055
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2017-2018",
+    "score": 0.6,
+    "opsChange": 0.036
+  },
+  {
+    "player": "Walker, Neil",
+    "years": "2015-2016",
+    "score": 0.59,
+    "opsChange": -0.022
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2020-2021",
+    "score": 0.58,
+    "opsChange": -0.226
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2016-2017",
+    "score": 0.57,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Wolters, Tony",
+    "years": "2016-2017",
+    "score": 0.56,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Rivera, Ren\u00e9",
+    "years": "2015-2016",
+    "score": 0.56,
+    "opsChange": 0.104
+  },
+  {
+    "player": "Higashioka, Kyle",
+    "years": "2022-2023",
+    "score": 0.52,
+    "opsChange": 0.052
+  },
+  {
+    "player": "Biggio, Cavan",
+    "years": "2021-2022",
+    "score": 0.52,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Hosmer, Eric",
+    "years": "2020-2021",
+    "score": 0.5,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Castro, Willi",
+    "years": "2021-2022",
+    "score": 0.5,
+    "opsChange": 0.099
+  },
+  {
+    "player": "Cervelli, Francisco",
+    "years": "2016-2017",
+    "score": 0.43,
+    "opsChange": 0.097
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2019-2020",
+    "score": 0.43,
+    "opsChange": 0.181
+  },
+  {
+    "player": "Gyorko, Jedd",
+    "years": "2015-2016",
+    "score": 0.37,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Headley, Chase",
+    "years": "2015-2016",
+    "score": 0.36,
+    "opsChange": 0.046
+  },
+  {
+    "player": "O'Hoppe, Logan",
+    "years": "2023-2024",
+    "score": 0.36,
+    "opsChange": -0.083
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2019-2020",
+    "score": 0.23,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Mazara, Nomar",
+    "years": "2016-2017",
+    "score": 0.21,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Arraez, Luis",
+    "years": "2023-2024",
+    "score": 0.2,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2020-2021",
+    "score": 0.17,
+    "opsChange": -0.072
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2015-2016",
+    "score": 0.16,
+    "opsChange": 0.027
+  },
+  {
+    "player": "McCann, James",
+    "years": "2015-2016",
+    "score": 0.15,
+    "opsChange": 0.104
+  },
+  {
+    "player": "Verdugo, Alex",
+    "years": "2022-2023",
+    "score": 0.14,
+    "opsChange": -0.098
+  },
+  {
+    "player": "Heyward, Jason",
+    "years": "2022-2023",
+    "score": 0.13,
+    "opsChange": -0.113
+  },
+  {
+    "player": "Beltr\u00e9, Adrian",
+    "years": "2015-2016",
+    "score": 0.1,
+    "opsChange": 0.036
+  },
+  {
+    "player": "Andrus, Elvis",
+    "years": "2021-2022",
+    "score": 0.1,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Reddick, Josh",
+    "years": "2015-2016",
+    "score": 0.09,
+    "opsChange": 0.098
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2016-2017",
+    "score": 0.08,
+    "opsChange": -0.166
+  },
+  {
+    "player": "Dub\u00f3n, Mauricio",
+    "years": "2021-2022",
+    "score": 0.08,
+    "opsChange": 0.155
+  },
+  {
+    "player": "Schebler, Scott",
+    "years": "2016-2017",
+    "score": 0.04,
+    "opsChange": -0.014
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2022-2023",
+    "score": 0.03,
+    "opsChange": -0.015
+  },
+  {
+    "player": "Hoerner, Nico",
+    "years": "2021-2022",
+    "score": 0.01,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2021-2022",
+    "score": 0.0,
+    "opsChange": -0.167
+  },
+  {
+    "player": "Moran, Colin",
+    "years": "2018-2019",
+    "score": -0.01,
+    "opsChange": 0.046
+  },
+  {
+    "player": "Villar, Jonathan",
+    "years": "2017-2018",
+    "score": -0.02,
+    "opsChange": 0.083
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2017-2018",
+    "score": -0.03,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2017-2018",
+    "score": -0.03,
+    "opsChange": 0.102
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2017-2018",
+    "score": -0.05,
+    "opsChange": -0.091
+  },
+  {
+    "player": "Jay, Jon",
+    "years": "2016-2017",
+    "score": -0.05,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Andrus, Elvis",
+    "years": "2017-2018",
+    "score": -0.08,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Happ, Ian",
+    "years": "2021-2022",
+    "score": -0.09,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Crawford, Brandon",
+    "years": "2017-2018",
+    "score": -0.12,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Newman, Kevin",
+    "years": "2020-2021",
+    "score": -0.13,
+    "opsChange": 0.113
+  },
+  {
+    "player": "Ruiz, Keibert",
+    "years": "2022-2023",
+    "score": -0.14,
+    "opsChange": -0.098
+  },
+  {
+    "player": "Tulowitzki, Troy",
+    "years": "2015-2016",
+    "score": -0.16,
+    "opsChange": -0.083
+  },
+  {
+    "player": "Vaughn, Andrew",
+    "years": "2021-2022",
+    "score": -0.17,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Martin, Russell",
+    "years": "2015-2016",
+    "score": -0.17,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Hechavarr\u00eda, Adeiny",
+    "years": "2015-2016",
+    "score": -0.19,
+    "opsChange": 0.101
+  },
+  {
+    "player": "Lowe, Brandon",
+    "years": "2020-2021",
+    "score": -0.2,
+    "opsChange": -0.172
+  },
+  {
+    "player": "McCarthy, Jake",
+    "years": "2023-2024",
+    "score": -0.22,
+    "opsChange": -0.158
+  },
+  {
+    "player": "Suzuki, Kurt",
+    "years": "2017-2018",
+    "score": -0.25,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Walls, Taylor",
+    "years": "2022-2023",
+    "score": -0.27,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2023-2024",
+    "score": -0.28,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Senzel, Nick",
+    "years": "2022-2023",
+    "score": -0.28,
+    "opsChange": -0.082
+  },
+  {
+    "player": "Moreno, Gabriel",
+    "years": "2023-2024",
+    "score": -0.28,
+    "opsChange": 0.052
+  },
+  {
+    "player": "Smith, Josh",
+    "years": "2023-2024",
+    "score": -0.33,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Mountcastle, Ryan",
+    "years": "2022-2023",
+    "score": -0.34,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Phillips, Brandon",
+    "years": "2015-2016",
+    "score": -0.35,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Smoak, Justin",
+    "years": "2017-2018",
+    "score": -0.35,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Calhoun, Kole",
+    "years": "2018-2019",
+    "score": -0.35,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Kipnis, Jason",
+    "years": "2017-2018",
+    "score": -0.4,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Higashioka, Kyle",
+    "years": "2021-2022",
+    "score": -0.4,
+    "opsChange": 0.034
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2017-2018",
+    "score": -0.41,
+    "opsChange": 0.135
+  },
+  {
+    "player": "Escobar, Yunel",
+    "years": "2015-2016",
+    "score": -0.42,
+    "opsChange": -0.015
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2018-2019",
+    "score": -0.42,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2022-2023",
+    "score": -0.44,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Mountcastle, Ryan",
+    "years": "2023-2024",
+    "score": -0.47,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Springer, George",
+    "years": "2020-2021",
+    "score": -0.49,
+    "opsChange": -0.093
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2020-2021",
+    "score": -0.5,
+    "opsChange": -0.167
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2022-2023",
+    "score": -0.55,
+    "opsChange": 0.091
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2017-2018",
+    "score": -0.62,
+    "opsChange": 0.185
+  },
+  {
+    "player": "Crawford, J.P.",
+    "years": "2020-2021",
+    "score": -0.65,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Gomes, Yan",
+    "years": "2015-2016",
+    "score": -0.67,
+    "opsChange": 0.181
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2022-2023",
+    "score": -0.71,
+    "opsChange": -0.12
+  },
+  {
+    "player": "Hoerner, Nico",
+    "years": "2022-2023",
+    "score": -0.71,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2017-2018",
+    "score": -0.74,
+    "opsChange": 0.005
+  },
+  {
+    "player": "Langeliers, Shea",
+    "years": "2023-2024",
+    "score": -0.75,
+    "opsChange": 0.122
+  },
+  {
+    "player": "Bautista, Jos\u00e9",
+    "years": "2015-2016",
+    "score": -0.79,
+    "opsChange": -0.143
+  },
+  {
+    "player": "Pe\u00f1a, Jeremy",
+    "years": "2022-2023",
+    "score": -0.79,
+    "opsChange": -0.004
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2018-2019",
+    "score": -0.82,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Greene, Riley",
+    "years": "2023-2024",
+    "score": -0.82,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2022-2023",
+    "score": -0.86,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Ramirez, Hanley",
+    "years": "2015-2016",
+    "score": -0.86,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Smith, Will",
+    "years": "2023-2024",
+    "score": -0.86,
+    "opsChange": 0.141
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2017-2018",
+    "score": -0.86,
+    "opsChange": 0.09
+  },
+  {
+    "player": "Taylor, Tyrone",
+    "years": "2021-2022",
+    "score": -0.87,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Hays, Austin",
+    "years": "2023-2024",
+    "score": -0.89,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2015-2016",
+    "score": -0.91,
+    "opsChange": -0.056
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2022-2023",
+    "score": -0.91,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2017-2018",
+    "score": -0.92,
+    "opsChange": 0.023
+  },
+  {
+    "player": "McCormick, Chas",
+    "years": "2022-2023",
+    "score": -0.92,
+    "opsChange": -0.266
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2023-2024",
+    "score": -0.96,
+    "opsChange": 0.036
+  },
+  {
+    "player": "Carter, Chris",
+    "years": "2015-2016",
+    "score": -0.97,
+    "opsChange": -0.168
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2016-2017",
+    "score": -0.97,
+    "opsChange": 0.05
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2015-2016",
+    "score": -0.98,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Franco, Wander",
+    "years": "2021-2022",
+    "score": -0.98,
+    "opsChange": 0.073
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2019-2020",
+    "score": -0.99,
+    "opsChange": -0.049
+  },
+  {
+    "player": "Winn, Masyn",
+    "years": "2023-2024",
+    "score": -0.99,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2018-2019",
+    "score": -1.0,
+    "opsChange": -0.104
+  },
+  {
+    "player": "Grisham, Trent",
+    "years": "2021-2022",
+    "score": -1.03,
+    "opsChange": 0.04
+  },
+  {
+    "player": "Kinsler, Ian",
+    "years": "2016-2017",
+    "score": -1.07,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Cabrera, Miguel",
+    "years": "2020-2021",
+    "score": -1.07,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Reddick, Josh",
+    "years": "2016-2017",
+    "score": -1.11,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Granderson, Curtis",
+    "years": "2017-2018",
+    "score": -1.11,
+    "opsChange": -0.145
+  },
+  {
+    "player": "Story, Trevor",
+    "years": "2018-2019",
+    "score": -1.12,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Smith, Will",
+    "years": "2022-2023",
+    "score": -1.14,
+    "opsChange": -0.037
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2019-2020",
+    "score": -1.18,
+    "opsChange": -0.169
+  },
+  {
+    "player": "Santander, Anthony",
+    "years": "2021-2022",
+    "score": -1.22,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2015-2016",
+    "score": -1.23,
+    "opsChange": 0.158
+  },
+  {
+    "player": "Arozarena, Randy",
+    "years": "2021-2022",
+    "score": -1.23,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Moss, Brandon",
+    "years": "2015-2016",
+    "score": -1.25,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Chirinos, Robinson",
+    "years": "2017-2018",
+    "score": -1.27,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Smith, Will",
+    "years": "2021-2022",
+    "score": -1.28,
+    "opsChange": -0.01
+  },
+  {
+    "player": "Jones, Adam",
+    "years": "2015-2016",
+    "score": -1.28,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Naylor, Josh",
+    "years": "2021-2022",
+    "score": -1.28,
+    "opsChange": 0.071
+  },
+  {
+    "player": "Posey, Buster",
+    "years": "2017-2018",
+    "score": -1.29,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Edman, Tommy",
+    "years": "2019-2020",
+    "score": -1.31,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Murphy, Sean",
+    "years": "2021-2022",
+    "score": -1.32,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Springer, George",
+    "years": "2021-2022",
+    "score": -1.33,
+    "opsChange": -0.082
+  },
+  {
+    "player": "Andrus, Elvis",
+    "years": "2016-2017",
+    "score": -1.35,
+    "opsChange": -0.133
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2022-2023",
+    "score": -1.35,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2020-2021",
+    "score": -1.36,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Jeffers, Ryan",
+    "years": "2021-2022",
+    "score": -1.36,
+    "opsChange": 0.21
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2023-2024",
+    "score": -1.37,
+    "opsChange": 0.164
+  },
+  {
+    "player": "Caratini, Victor",
+    "years": "2021-2022",
+    "score": -1.38,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2021-2022",
+    "score": -1.4,
+    "opsChange": 0.153
+  },
+  {
+    "player": "Shaw, Travis",
+    "years": "2017-2018",
+    "score": -1.41,
+    "opsChange": -0.274
+  },
+  {
+    "player": "Maldonado, Mart\u00edn",
+    "years": "2016-2017",
+    "score": -1.42,
+    "opsChange": -0.018
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2018-2019",
+    "score": -1.42,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Dub\u00f3n, Mauricio",
+    "years": "2022-2023",
+    "score": -1.44,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Arcia, Orlando",
+    "years": "2022-2023",
+    "score": -1.44,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Polanco, Gregory",
+    "years": "2015-2016",
+    "score": -1.48,
+    "opsChange": -0.091
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2019-2020",
+    "score": -1.48,
+    "opsChange": 0.108
+  },
+  {
+    "player": "Souza Jr., Steven",
+    "years": "2015-2016",
+    "score": -1.49,
+    "opsChange": 0.097
+  },
+  {
+    "player": "Molina, Yadier",
+    "years": "2017-2018",
+    "score": -1.52,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2018-2019",
+    "score": -1.53,
+    "opsChange": -0.274
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2019-2020",
+    "score": -1.55,
+    "opsChange": 0.138
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2023-2024",
+    "score": -1.55,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2023-2024",
+    "score": -1.62,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Kim, Ha-Seong",
+    "years": "2021-2022",
+    "score": -1.64,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2023-2024",
+    "score": -1.66,
+    "opsChange": 0.108
+  },
+  {
+    "player": "G\u00f3mez, Carlos",
+    "years": "2015-2016",
+    "score": -1.71,
+    "opsChange": 0.12
+  },
+  {
+    "player": "Castro, Starlin",
+    "years": "2017-2018",
+    "score": -1.73,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2018-2019",
+    "score": -1.73,
+    "opsChange": 0.013
+  },
+  {
+    "player": "Neto, Zach",
+    "years": "2023-2024",
+    "score": -1.75,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Cron, C.J.",
+    "years": "2016-2017",
+    "score": -1.76,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Odor, Rougned",
+    "years": "2016-2017",
+    "score": -1.8,
+    "opsChange": 0.102
+  },
+  {
+    "player": "Benson, Will",
+    "years": "2023-2024",
+    "score": -1.81,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Simmons, Andrelton",
+    "years": "2015-2016",
+    "score": -1.84,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2019-2020",
+    "score": -1.89,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2022-2023",
+    "score": -1.92,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Pollock, AJ",
+    "years": "2018-2019",
+    "score": -1.97,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Cabrera, Asdr\u00fabal",
+    "years": "2016-2017",
+    "score": -1.98,
+    "opsChange": -0.011
+  },
+  {
+    "player": "D\u00edaz, Elias",
+    "years": "2022-2023",
+    "score": -1.99,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Miller, Owen",
+    "years": "2021-2022",
+    "score": -2.04,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Anderson, Brian",
+    "years": "2020-2021",
+    "score": -2.06,
+    "opsChange": -0.058
+  },
+  {
+    "player": "Ahmed, Nick",
+    "years": "2019-2020",
+    "score": -2.07,
+    "opsChange": -0.11
+  },
+  {
+    "player": "Rickard, Joey",
+    "years": "2016-2017",
+    "score": -2.07,
+    "opsChange": 0.092
+  },
+  {
+    "player": "Cronenworth, Jake",
+    "years": "2022-2023",
+    "score": -2.09,
+    "opsChange": 0.025
+  },
+  {
+    "player": "McKinstry, Zach",
+    "years": "2023-2024",
+    "score": -2.09,
+    "opsChange": 0.157
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2016-2017",
+    "score": -2.1,
+    "opsChange": -0.155
+  },
+  {
+    "player": "Encarnaci\u00f3n, Edwin",
+    "years": "2017-2018",
+    "score": -2.11,
+    "opsChange": 0.065
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2019-2020",
+    "score": -2.12,
+    "opsChange": -0.09
+  },
+  {
+    "player": "Segura, Jean",
+    "years": "2017-2018",
+    "score": -2.12,
+    "opsChange": -0.012
+  },
+  {
+    "player": "Garc\u00eda, Adolis",
+    "years": "2023-2024",
+    "score": -2.15,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Grossman, Robbie",
+    "years": "2016-2017",
+    "score": -2.16,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Aguilar, Jes\u00fas",
+    "years": "2017-2018",
+    "score": -2.19,
+    "opsChange": -0.176
+  },
+  {
+    "player": "Reynolds, Mark",
+    "years": "2016-2017",
+    "score": -2.22,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Maybin, Cameron",
+    "years": "2016-2017",
+    "score": -2.25,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Ram\u00edrez, Harold",
+    "years": "2022-2023",
+    "score": -2.25,
+    "opsChange": -0.209
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2022-2023",
+    "score": -2.27,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Zunino, Mike",
+    "years": "2017-2018",
+    "score": -2.3,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Gattis, Evan",
+    "years": "2016-2017",
+    "score": -2.3,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Tellez, Rowdy",
+    "years": "2021-2022",
+    "score": -2.31,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2021-2022",
+    "score": -2.33,
+    "opsChange": 0.029
+  },
+  {
+    "player": "Harris II, Michael",
+    "years": "2023-2024",
+    "score": -2.35,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Lowe, Nathaniel",
+    "years": "2021-2022",
+    "score": -2.37,
+    "opsChange": -0.076
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2021-2022",
+    "score": -2.41,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2023-2024",
+    "score": -2.41,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Kirk, Alejandro",
+    "years": "2021-2022",
+    "score": -2.45,
+    "opsChange": -0.094
+  },
+  {
+    "player": "Naylor, Josh",
+    "years": "2022-2023",
+    "score": -2.46,
+    "opsChange": -0.066
+  },
+  {
+    "player": "Judge, Aaron",
+    "years": "2017-2018",
+    "score": -2.46,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2021-2022",
+    "score": -2.46,
+    "opsChange": 0.15
+  },
+  {
+    "player": "Yastrzemski, Mike",
+    "years": "2020-2021",
+    "score": -2.5,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2017-2018",
+    "score": -2.51,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Carroll, Corbin",
+    "years": "2023-2024",
+    "score": -2.51,
+    "opsChange": 0.134
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2021-2022",
+    "score": -2.53,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2021-2022",
+    "score": -2.59,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Walker, Christian",
+    "years": "2019-2020",
+    "score": -2.63,
+    "opsChange": -0.096
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2020-2021",
+    "score": -2.67,
+    "opsChange": -0.078
+  },
+  {
+    "player": "Hamilton, Billy",
+    "years": "2016-2017",
+    "score": -2.68,
+    "opsChange": -0.008
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2018-2019",
+    "score": -2.7,
+    "opsChange": -0.077
+  },
+  {
+    "player": "Berti, Jon",
+    "years": "2021-2022",
+    "score": -2.73,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Springer, George",
+    "years": "2022-2023",
+    "score": -2.74,
+    "opsChange": -0.058
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2022-2023",
+    "score": -2.75,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Lowe, Nathaniel",
+    "years": "2023-2024",
+    "score": -2.76,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2022-2023",
+    "score": -2.78,
+    "opsChange": -0.055
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2019-2020",
+    "score": -2.78,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2023-2024",
+    "score": -2.82,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2023-2024",
+    "score": -2.82,
+    "opsChange": -0.171
+  },
+  {
+    "player": "Adams, Matt",
+    "years": "2017-2018",
+    "score": -2.84,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2022-2023",
+    "score": -2.88,
+    "opsChange": -0.119
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2015-2016",
+    "score": -2.91,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2017-2018",
+    "score": -2.91,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2017-2018",
+    "score": -2.92,
+    "opsChange": 0.08
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2017-2018",
+    "score": -2.93,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Chisholm Jr., Jazz",
+    "years": "2023-2024",
+    "score": -2.97,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Smith, Seth",
+    "years": "2015-2016",
+    "score": -2.98,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Farmer, Kyle",
+    "years": "2022-2023",
+    "score": -2.99,
+    "opsChange": -0.078
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2019-2020",
+    "score": -2.99,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2017-2018",
+    "score": -3.02,
+    "opsChange": 0.178
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2018-2019",
+    "score": -3.03,
+    "opsChange": -0.156
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2023-2024",
+    "score": -3.04,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Alonso, Pete",
+    "years": "2019-2020",
+    "score": -3.05,
+    "opsChange": 0.046
+  },
+  {
+    "player": "Crawford, J.P.",
+    "years": "2021-2022",
+    "score": -3.09,
+    "opsChange": 0.143
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2020-2021",
+    "score": -3.13,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Riley, Austin",
+    "years": "2022-2023",
+    "score": -3.16,
+    "opsChange": -0.078
+  },
+  {
+    "player": "Seager, Kyle",
+    "years": "2018-2019",
+    "score": -3.19,
+    "opsChange": -0.001
+  },
+  {
+    "player": "La Stella, Tommy",
+    "years": "2019-2020",
+    "score": -3.19,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2021-2022",
+    "score": -3.2,
+    "opsChange": 0.095
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2016-2017",
+    "score": -3.22,
+    "opsChange": -0.032
+  },
+  {
+    "player": "Haniger, Mitch",
+    "years": "2022-2023",
+    "score": -3.23,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Marsh, Brandon",
+    "years": "2023-2024",
+    "score": -3.23,
+    "opsChange": 0.038
+  },
+  {
+    "player": "Trout, Mike",
+    "years": "2016-2017",
+    "score": -3.24,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Tapia, Raimel",
+    "years": "2019-2020",
+    "score": -3.26,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2019-2020",
+    "score": -3.26,
+    "opsChange": -0.198
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2016-2017",
+    "score": -3.26,
+    "opsChange": -0.213
+  },
+  {
+    "player": "Zimmerman, Ryan",
+    "years": "2015-2016",
+    "score": -3.28,
+    "opsChange": 0.288
+  },
+  {
+    "player": "Strange-Gordon, Dee",
+    "years": "2016-2017",
+    "score": -3.28,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Farmer, Kyle",
+    "years": "2023-2024",
+    "score": -3.31,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Paredes, Isaac",
+    "years": "2023-2024",
+    "score": -3.34,
+    "opsChange": 0.07
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2019-2020",
+    "score": -3.35,
+    "opsChange": -0.004
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2023-2024",
+    "score": -3.35,
+    "opsChange": 0.005
+  },
+  {
+    "player": "Reyes, Jos\u00e9",
+    "years": "2016-2017",
+    "score": -3.39,
+    "opsChange": -0.148
+  },
+  {
+    "player": "Pillar, Kevin",
+    "years": "2016-2017",
+    "score": -3.41,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Crawford, Brandon",
+    "years": "2016-2017",
+    "score": -3.42,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Torres, Gleyber",
+    "years": "2020-2021",
+    "score": -3.43,
+    "opsChange": 0.064
+  },
+  {
+    "player": "Fletcher, David",
+    "years": "2020-2021",
+    "score": -3.51,
+    "opsChange": -0.001
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2020-2021",
+    "score": -3.52,
+    "opsChange": 0.023
+  },
+  {
+    "player": "Kemp, Matt",
+    "years": "2015-2016",
+    "score": -3.55,
+    "opsChange": -0.022
+  },
+  {
+    "player": "Hicks, Aaron",
+    "years": "2016-2017",
+    "score": -3.55,
+    "opsChange": -0.014
+  },
+  {
+    "player": "Santana, Domingo",
+    "years": "2017-2018",
+    "score": -3.57,
+    "opsChange": 0.03
+  },
+  {
+    "player": "Winker, Jesse",
+    "years": "2020-2021",
+    "score": -3.59,
+    "opsChange": -0.261
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2019-2020",
+    "score": -3.59,
+    "opsChange": 0.141
+  },
+  {
+    "player": "Belt, Brandon",
+    "years": "2020-2021",
+    "score": -3.61,
+    "opsChange": -0.299
+  },
+  {
+    "player": "Naylor, Josh",
+    "years": "2023-2024",
+    "score": -3.63,
+    "opsChange": 0.04
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2019-2020",
+    "score": -3.73,
+    "opsChange": 0.028
+  },
+  {
+    "player": "Duran, Jarren",
+    "years": "2023-2024",
+    "score": -3.74,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2019-2020",
+    "score": -3.74,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Stott, Bryson",
+    "years": "2022-2023",
+    "score": -3.76,
+    "opsChange": -0.076
+  },
+  {
+    "player": "Duda, Lucas",
+    "years": "2016-2017",
+    "score": -3.76,
+    "opsChange": -0.087
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2021-2022",
+    "score": -3.81,
+    "opsChange": -0.152
+  },
+  {
+    "player": "S\u00e1nchez, Jes\u00fas",
+    "years": "2021-2022",
+    "score": -3.82,
+    "opsChange": 0.095
+  },
+  {
+    "player": "Garc\u00eda Jr., Luis",
+    "years": "2022-2023",
+    "score": -3.82,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Kiermaier, Kevin",
+    "years": "2017-2018",
+    "score": -3.85,
+    "opsChange": 0.023
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2016-2017",
+    "score": -3.88,
+    "opsChange": -0.01
+  },
+  {
+    "player": "Gonzalez, Marwin",
+    "years": "2020-2021",
+    "score": -3.89,
+    "opsChange": -0.003
+  },
+  {
+    "player": "Robert Jr., Luis",
+    "years": "2023-2024",
+    "score": -3.96,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2023-2024",
+    "score": -3.96,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Aguilar, Jes\u00fas",
+    "years": "2019-2020",
+    "score": -3.98,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Camargo, Johan",
+    "years": "2017-2018",
+    "score": -4.01,
+    "opsChange": -0.143
+  },
+  {
+    "player": "Arcia, Orlando",
+    "years": "2016-2017",
+    "score": -4.03,
+    "opsChange": -0.155
+  },
+  {
+    "player": "Margot, Manuel",
+    "years": "2021-2022",
+    "score": -4.03,
+    "opsChange": -0.014
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2022-2023",
+    "score": -4.06,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Duvall, Adam",
+    "years": "2022-2023",
+    "score": -4.09,
+    "opsChange": -0.265
+  },
+  {
+    "player": "Cronenworth, Jake",
+    "years": "2021-2022",
+    "score": -4.09,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Tucker, Kyle",
+    "years": "2023-2024",
+    "score": -4.1,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Springer, George",
+    "years": "2019-2020",
+    "score": -4.13,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Yastrzemski, Mike",
+    "years": "2019-2020",
+    "score": -4.16,
+    "opsChange": -0.2
+  },
+  {
+    "player": "Bregman, Alex",
+    "years": "2016-2017",
+    "score": -4.17,
+    "opsChange": 0.099
+  },
+  {
+    "player": "McGuire, Reese",
+    "years": "2021-2022",
+    "score": -4.2,
+    "opsChange": -0.009
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2021-2022",
+    "score": -4.21,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2022-2023",
+    "score": -4.22,
+    "opsChange": 0.152
+  },
+  {
+    "player": "San\u00f3, Miguel",
+    "years": "2016-2017",
+    "score": -4.22,
+    "opsChange": -0.18
+  },
+  {
+    "player": "Bohm, Alec",
+    "years": "2022-2023",
+    "score": -4.23,
+    "opsChange": 0.014
+  },
+  {
+    "player": "Happ, Ian",
+    "years": "2022-2023",
+    "score": -4.24,
+    "opsChange": -0.009
+  },
+  {
+    "player": "Riley, Austin",
+    "years": "2019-2020",
+    "score": -4.27,
+    "opsChange": 0.182
+  },
+  {
+    "player": "Grossman, Robbie",
+    "years": "2020-2021",
+    "score": -4.34,
+    "opsChange": -0.15
+  },
+  {
+    "player": "Straw, Myles",
+    "years": "2021-2022",
+    "score": -4.37,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Inciarte, Ender",
+    "years": "2016-2017",
+    "score": -4.39,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2022-2023",
+    "score": -4.41,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Bryant, Kris",
+    "years": "2016-2017",
+    "score": -4.43,
+    "opsChange": -0.112
+  },
+  {
+    "player": "Hays, Austin",
+    "years": "2021-2022",
+    "score": -4.45,
+    "opsChange": 0.05
+  },
+  {
+    "player": "Murphy, Daniel",
+    "years": "2016-2017",
+    "score": -4.47,
+    "opsChange": -0.138
+  },
+  {
+    "player": "Kiermaier, Kevin",
+    "years": "2016-2017",
+    "score": -4.49,
+    "opsChange": -0.135
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2016-2017",
+    "score": -4.55,
+    "opsChange": 0.137
+  },
+  {
+    "player": "Harrison, Josh",
+    "years": "2015-2016",
+    "score": -4.55,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Springer, George",
+    "years": "2015-2016",
+    "score": -4.6,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Cabrera, Melky",
+    "years": "2015-2016",
+    "score": -4.6,
+    "opsChange": -0.054
+  },
+  {
+    "player": "San\u00f3, Miguel",
+    "years": "2017-2018",
+    "score": -4.62,
+    "opsChange": 0.244
+  },
+  {
+    "player": "Caratini, Victor",
+    "years": "2023-2024",
+    "score": -4.66,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2021-2022",
+    "score": -4.68,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Cron, C.J.",
+    "years": "2017-2018",
+    "score": -4.7,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Mullins, Cedric",
+    "years": "2021-2022",
+    "score": -4.71,
+    "opsChange": 0.0
+  },
+  {
+    "player": "Friedl, TJ",
+    "years": "2022-2023",
+    "score": -4.72,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Robert Jr., Luis",
+    "years": "2021-2022",
+    "score": -4.73,
+    "opsChange": 0.111
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2021-2022",
+    "score": -4.74,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2018-2019",
+    "score": -4.76,
+    "opsChange": 0.062
+  },
+  {
+    "player": "d'Arnaud, Travis",
+    "years": "2023-2024",
+    "score": -4.78,
+    "opsChange": -0.141
+  },
+  {
+    "player": "Le\u00f3n, Sandy",
+    "years": "2016-2017",
+    "score": -4.78,
+    "opsChange": -0.133
+  },
+  {
+    "player": "Vaughn, Andrew",
+    "years": "2022-2023",
+    "score": -4.81,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2019-2020",
+    "score": -4.86,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Panik, Joe",
+    "years": "2016-2017",
+    "score": -4.89,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Hechavarr\u00eda, Adeiny",
+    "years": "2017-2018",
+    "score": -4.9,
+    "opsChange": 0.118
+  },
+  {
+    "player": "Slater, Austin",
+    "years": "2021-2022",
+    "score": -4.91,
+    "opsChange": -0.026
+  },
+  {
+    "player": "Heim, Jonah",
+    "years": "2023-2024",
+    "score": -4.91,
+    "opsChange": 0.0
+  },
+  {
+    "player": "De La Cruz, Elly",
+    "years": "2023-2024",
+    "score": -4.92,
+    "opsChange": -0.032
+  },
+  {
+    "player": "Frazier, Todd",
+    "years": "2015-2016",
+    "score": -4.92,
+    "opsChange": 0.005
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2019-2020",
+    "score": -4.92,
+    "opsChange": 0.21
+  },
+  {
+    "player": "Revere, Ben",
+    "years": "2015-2016",
+    "score": -4.93,
+    "opsChange": 0.092
+  },
+  {
+    "player": "Maybin, Cameron",
+    "years": "2015-2016",
+    "score": -4.97,
+    "opsChange": -0.118
+  },
+  {
+    "player": "Davis, J.D.",
+    "years": "2020-2021",
+    "score": -4.97,
+    "opsChange": -0.062
+  },
+  {
+    "player": "Reynolds, Bryan",
+    "years": "2023-2024",
+    "score": -4.99,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Dub\u00f3n, Mauricio",
+    "years": "2023-2024",
+    "score": -5.0,
+    "opsChange": -0.013
+  },
+  {
+    "player": "India, Jonathan",
+    "years": "2023-2024",
+    "score": -5.01,
+    "opsChange": -0.081
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2021-2022",
+    "score": -5.02,
+    "opsChange": -0.125
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2015-2016",
+    "score": -5.02,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2019-2020",
+    "score": -5.03,
+    "opsChange": -0.071
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2019-2020",
+    "score": -5.03,
+    "opsChange": 0.214
+  },
+  {
+    "player": "Heim, Jonah",
+    "years": "2022-2023",
+    "score": -5.04,
+    "opsChange": -0.153
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2018-2019",
+    "score": -5.05,
+    "opsChange": 0.06
+  },
+  {
+    "player": "McCann, Brian",
+    "years": "2015-2016",
+    "score": -5.07,
+    "opsChange": 0.011
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2021-2022",
+    "score": -5.07,
+    "opsChange": 0.084
+  },
+  {
+    "player": "France, Ty",
+    "years": "2021-2022",
+    "score": -5.11,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2015-2016",
+    "score": -5.13,
+    "opsChange": 0.047
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2016-2017",
+    "score": -5.13,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Bichette, Bo",
+    "years": "2023-2024",
+    "score": -5.14,
+    "opsChange": 0.242
+  },
+  {
+    "player": "Ward, Taylor",
+    "years": "2023-2024",
+    "score": -5.15,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Iglesias, Jose",
+    "years": "2016-2017",
+    "score": -5.17,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2018-2019",
+    "score": -5.18,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Trout, Mike",
+    "years": "2018-2019",
+    "score": -5.18,
+    "opsChange": -0.09
+  },
+  {
+    "player": "Can\u00f3, Robinson",
+    "years": "2015-2016",
+    "score": -5.19,
+    "opsChange": -0.091
+  },
+  {
+    "player": "Robert Jr., Luis",
+    "years": "2022-2023",
+    "score": -5.25,
+    "opsChange": -0.2
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2016-2017",
+    "score": -5.29,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2017-2018",
+    "score": -5.29,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Stallings, Jacob",
+    "years": "2021-2022",
+    "score": -5.31,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2019-2020",
+    "score": -5.32,
+    "opsChange": 0.118
+  },
+  {
+    "player": "McMahon, Ryan",
+    "years": "2022-2023",
+    "score": -5.33,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Donaldson, Josh",
+    "years": "2017-2018",
+    "score": -5.35,
+    "opsChange": 0.099
+  },
+  {
+    "player": "Panik, Joe",
+    "years": "2015-2016",
+    "score": -5.36,
+    "opsChange": 0.073
+  },
+  {
+    "player": "Renfroe, Hunter",
+    "years": "2021-2022",
+    "score": -5.37,
+    "opsChange": -0.094
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2018-2019",
+    "score": -5.39,
+    "opsChange": -0.224
+  },
+  {
+    "player": "Ramos, Wilson",
+    "years": "2015-2016",
+    "score": -5.43,
+    "opsChange": -0.113
+  },
+  {
+    "player": "Mondesi, Adalberto",
+    "years": "2018-2019",
+    "score": -5.46,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Mancini, Trey",
+    "years": "2021-2022",
+    "score": -5.46,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2017-2018",
+    "score": -5.47,
+    "opsChange": 0.176
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2017-2018",
+    "score": -5.49,
+    "opsChange": 0.046
+  },
+  {
+    "player": "Cabrera, Oswaldo",
+    "years": "2022-2023",
+    "score": -5.53,
+    "opsChange": 0.087
+  },
+  {
+    "player": "Espinal, Santiago",
+    "years": "2022-2023",
+    "score": -5.53,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Raleigh, Cal",
+    "years": "2022-2023",
+    "score": -5.55,
+    "opsChange": -0.014
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2023-2024",
+    "score": -5.55,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Knizner, Andrew",
+    "years": "2021-2022",
+    "score": -5.57,
+    "opsChange": 0.111
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2019-2020",
+    "score": -5.57,
+    "opsChange": -0.049
+  },
+  {
+    "player": "Lowe, Brandon",
+    "years": "2023-2024",
+    "score": -5.58,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Villar, Jonathan",
+    "years": "2019-2020",
+    "score": -5.63,
+    "opsChange": 0.145
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2020-2021",
+    "score": -5.64,
+    "opsChange": 0.019
+  },
+  {
+    "player": "Gattis, Evan",
+    "years": "2015-2016",
+    "score": -5.65,
+    "opsChange": -0.059
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2021-2022",
+    "score": -5.68,
+    "opsChange": 0.013
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2022-2023",
+    "score": -5.69,
+    "opsChange": -0.268
+  },
+  {
+    "player": "Moreland, Mitch",
+    "years": "2016-2017",
+    "score": -5.71,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Piscotty, Stephen",
+    "years": "2015-2016",
+    "score": -5.75,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Massey, Michael",
+    "years": "2023-2024",
+    "score": -5.76,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Fortes, Nick",
+    "years": "2022-2023",
+    "score": -5.78,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2021-2022",
+    "score": -5.78,
+    "opsChange": 0.023
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2018-2019",
+    "score": -5.8,
+    "opsChange": -0.047
+  },
+  {
+    "player": "Alvarez, Francisco",
+    "years": "2023-2024",
+    "score": -5.81,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2022-2023",
+    "score": -5.83,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2022-2023",
+    "score": -5.85,
+    "opsChange": 0.15
+  },
+  {
+    "player": "Walker, Christian",
+    "years": "2022-2023",
+    "score": -5.86,
+    "opsChange": -0.027
+  },
+  {
+    "player": "Escobar, Eduardo",
+    "years": "2017-2018",
+    "score": -5.9,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Voit, Luke",
+    "years": "2019-2020",
+    "score": -5.94,
+    "opsChange": -0.184
+  },
+  {
+    "player": "Puig, Yasiel",
+    "years": "2016-2017",
+    "score": -5.95,
+    "opsChange": -0.013
+  },
+  {
+    "player": "McCann, James",
+    "years": "2016-2017",
+    "score": -5.97,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Davis, Chris",
+    "years": "2015-2016",
+    "score": -5.99,
+    "opsChange": -0.06
+  },
+  {
+    "player": "Rutschman, Adley",
+    "years": "2023-2024",
+    "score": -6.0,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Anderson, Tim",
+    "years": "2016-2017",
+    "score": -6.02,
+    "opsChange": 0.008
+  },
+  {
+    "player": "Buxton, Byron",
+    "years": "2022-2023",
+    "score": -6.05,
+    "opsChange": 0.128
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2015-2016",
+    "score": -6.09,
+    "opsChange": 0.083
+  },
+  {
+    "player": "Kwan, Steven",
+    "years": "2022-2023",
+    "score": -6.1,
+    "opsChange": 0.083
+  },
+  {
+    "player": "Herrera, Od\u00fabel",
+    "years": "2015-2016",
+    "score": -6.1,
+    "opsChange": -0.003
+  },
+  {
+    "player": "Frazier, Adam",
+    "years": "2018-2019",
+    "score": -6.12,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Judge, Aaron",
+    "years": "2023-2024",
+    "score": -6.12,
+    "opsChange": -0.015
+  },
+  {
+    "player": "Fletcher, David",
+    "years": "2018-2019",
+    "score": -6.13,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Gonz\u00e1lez, Adri\u00e1n",
+    "years": "2015-2016",
+    "score": -6.19,
+    "opsChange": -0.142
+  },
+  {
+    "player": "Vaughn, Andrew",
+    "years": "2023-2024",
+    "score": -6.22,
+    "opsChange": 0.02
+  },
+  {
+    "player": "Iannetta, Chris",
+    "years": "2016-2017",
+    "score": -6.35,
+    "opsChange": -0.135
+  },
+  {
+    "player": "Seager, Corey",
+    "years": "2023-2024",
+    "score": -6.35,
+    "opsChange": -0.004
+  },
+  {
+    "player": "Shaw, Travis",
+    "years": "2015-2016",
+    "score": -6.46,
+    "opsChange": 0.136
+  },
+  {
+    "player": "Contreras, Willson",
+    "years": "2017-2018",
+    "score": -6.46,
+    "opsChange": 0.158
+  },
+  {
+    "player": "Span, Denard",
+    "years": "2015-2016",
+    "score": -6.5,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2015-2016",
+    "score": -6.54,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Freeman, Tyler",
+    "years": "2023-2024",
+    "score": -6.55,
+    "opsChange": 0.089
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2015-2016",
+    "score": -6.58,
+    "opsChange": 0.151
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2018-2019",
+    "score": -6.59,
+    "opsChange": -0.137
+  },
+  {
+    "player": "Hern\u00e1ndez, C\u00e9sar",
+    "years": "2020-2021",
+    "score": -6.61,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2021-2022",
+    "score": -6.62,
+    "opsChange": -0.171
+  },
+  {
+    "player": "S\u00e1nchez, Yolmer",
+    "years": "2016-2017",
+    "score": -6.64,
+    "opsChange": -0.054
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2016-2017",
+    "score": -6.68,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Donovan, Brendan",
+    "years": "2023-2024",
+    "score": -6.7,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Varsho, Daulton",
+    "years": "2023-2024",
+    "score": -6.71,
+    "opsChange": 0.133
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2018-2019",
+    "score": -6.76,
+    "opsChange": -0.169
+  },
+  {
+    "player": "Alonso, Yonder",
+    "years": "2017-2018",
+    "score": -6.76,
+    "opsChange": -0.097
+  },
+  {
+    "player": "McCann, Brian",
+    "years": "2016-2017",
+    "score": -6.8,
+    "opsChange": -0.119
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2018-2019",
+    "score": -6.8,
+    "opsChange": -0.169
+  },
+  {
+    "player": "Abreu, Jos\u00e9",
+    "years": "2020-2021",
+    "score": -6.8,
+    "opsChange": -0.007
+  },
+  {
+    "player": "Martin, Russell",
+    "years": "2016-2017",
+    "score": -6.84,
+    "opsChange": -0.068
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2017-2018",
+    "score": -6.85,
+    "opsChange": -0.101
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2019-2020",
+    "score": -6.86,
+    "opsChange": 0.188
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2022-2023",
+    "score": -6.88,
+    "opsChange": -0.019
+  },
+  {
+    "player": "Cabrera, Miguel",
+    "years": "2015-2016",
+    "score": -6.97,
+    "opsChange": -0.228
+  },
+  {
+    "player": "Rosario, Eddie",
+    "years": "2021-2022",
+    "score": -6.98,
+    "opsChange": 0.168
+  },
+  {
+    "player": "Hosmer, Eric",
+    "years": "2016-2017",
+    "score": -6.98,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Raley, Luke",
+    "years": "2023-2024",
+    "score": -7.09,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Parra, Gerardo",
+    "years": "2017-2018",
+    "score": -7.11,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Taylor, Tyrone",
+    "years": "2023-2024",
+    "score": -7.12,
+    "opsChange": -0.103
+  },
+  {
+    "player": "DeJong, Paul",
+    "years": "2020-2021",
+    "score": -7.13,
+    "opsChange": -0.144
+  },
+  {
+    "player": "Alonso, Pete",
+    "years": "2021-2022",
+    "score": -7.15,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Forsythe, Logan",
+    "years": "2017-2018",
+    "score": -7.16,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Jones, Adam",
+    "years": "2016-2017",
+    "score": -7.16,
+    "opsChange": -0.055
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2016-2017",
+    "score": -7.2,
+    "opsChange": 0.275
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2016-2017",
+    "score": -7.21,
+    "opsChange": -0.074
+  },
+  {
+    "player": "Benintendi, Andrew",
+    "years": "2021-2022",
+    "score": -7.25,
+    "opsChange": -0.09
+  },
+  {
+    "player": "Parra, Gerardo",
+    "years": "2016-2017",
+    "score": -7.25,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Joyce, Matt",
+    "years": "2017-2018",
+    "score": -7.26,
+    "opsChange": 0.183
+  },
+  {
+    "player": "Gyorko, Jedd",
+    "years": "2016-2017",
+    "score": -7.26,
+    "opsChange": -0.051
+  },
+  {
+    "player": "Marisnick, Jake",
+    "years": "2017-2018",
+    "score": -7.27,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Turner, Justin",
+    "years": "2016-2017",
+    "score": -7.28,
+    "opsChange": -0.021
+  },
+  {
+    "player": "Hampson, Garrett",
+    "years": "2021-2022",
+    "score": -7.35,
+    "opsChange": 0.135
+  },
+  {
+    "player": "Valencia, Danny",
+    "years": "2016-2017",
+    "score": -7.36,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Verdugo, Alex",
+    "years": "2023-2024",
+    "score": -7.37,
+    "opsChange": -0.062
+  },
+  {
+    "player": "Polanco, Jorge",
+    "years": "2023-2024",
+    "score": -7.42,
+    "opsChange": 0.17
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2019-2020",
+    "score": -7.44,
+    "opsChange": 0.175
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2023-2024",
+    "score": -7.44,
+    "opsChange": -0.114
+  },
+  {
+    "player": "Soler, Jorge",
+    "years": "2021-2022",
+    "score": -7.44,
+    "opsChange": 0.158
+  },
+  {
+    "player": "Stott, Bryson",
+    "years": "2023-2024",
+    "score": -7.44,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Avila, Alex",
+    "years": "2017-2018",
+    "score": -7.46,
+    "opsChange": 0.171
+  },
+  {
+    "player": "Aguilar, Jes\u00fas",
+    "years": "2018-2019",
+    "score": -7.46,
+    "opsChange": 0.095
+  },
+  {
+    "player": "Pence, Hunter",
+    "years": "2016-2017",
+    "score": -7.47,
+    "opsChange": -0.111
+  },
+  {
+    "player": "Tellez, Rowdy",
+    "years": "2023-2024",
+    "score": -7.49,
+    "opsChange": 0.028
+  },
+  {
+    "player": "Piscotty, Stephen",
+    "years": "2016-2017",
+    "score": -7.49,
+    "opsChange": 0.113
+  },
+  {
+    "player": "Soler, Jorge",
+    "years": "2023-2024",
+    "score": -7.59,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Mercer, Jordy",
+    "years": "2015-2016",
+    "score": -7.7,
+    "opsChange": 0.032
+  },
+  {
+    "player": "Villar, Jonathan",
+    "years": "2016-2017",
+    "score": -7.7,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Encarnaci\u00f3n, Edwin",
+    "years": "2015-2016",
+    "score": -7.71,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Yoshida, Masataka",
+    "years": "2023-2024",
+    "score": -7.71,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Sheets, Gavin",
+    "years": "2022-2023",
+    "score": -7.76,
+    "opsChange": 0.061
+  },
+  {
+    "player": "Moniak, Mickey",
+    "years": "2023-2024",
+    "score": -7.78,
+    "opsChange": 0.178
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2016-2017",
+    "score": -7.78,
+    "opsChange": -0.057
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2016-2017",
+    "score": -7.81,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Muncy, Max",
+    "years": "2023-2024",
+    "score": -7.82,
+    "opsChange": -0.006
+  },
+  {
+    "player": "Lowe, Brandon",
+    "years": "2021-2022",
+    "score": -7.82,
+    "opsChange": 0.08
+  },
+  {
+    "player": "Santander, Anthony",
+    "years": "2023-2024",
+    "score": -7.84,
+    "opsChange": -0.249
+  },
+  {
+    "player": "Dietrich, Derek",
+    "years": "2015-2016",
+    "score": -7.86,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Ohtani, Shohei",
+    "years": "2021-2022",
+    "score": -7.88,
+    "opsChange": 0.191
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2019-2020",
+    "score": -7.9,
+    "opsChange": -0.3
+  },
+  {
+    "player": "Vogt, Stephen",
+    "years": "2015-2016",
+    "score": -7.93,
+    "opsChange": -0.003
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2021-2022",
+    "score": -7.95,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Carlson, Dylan",
+    "years": "2021-2022",
+    "score": -7.99,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Kinsler, Ian",
+    "years": "2017-2018",
+    "score": -7.99,
+    "opsChange": -0.035
+  },
+  {
+    "player": "Realmuto, J.T.",
+    "years": "2022-2023",
+    "score": -7.99,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2018-2019",
+    "score": -8.02,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Profar, Jurickson",
+    "years": "2019-2020",
+    "score": -8.06,
+    "opsChange": -0.122
+  },
+  {
+    "player": "Lindor, Francisco",
+    "years": "2021-2022",
+    "score": -8.08,
+    "opsChange": 0.018
+  },
+  {
+    "player": "Vierling, Matt",
+    "years": "2022-2023",
+    "score": -8.13,
+    "opsChange": 0.018
+  },
+  {
+    "player": "Rengifo, Luis",
+    "years": "2023-2024",
+    "score": -8.14,
+    "opsChange": -0.141
+  },
+  {
+    "player": "Heyward, Jason",
+    "years": "2015-2016",
+    "score": -8.17,
+    "opsChange": 0.084
+  },
+  {
+    "player": "Yastrzemski, Mike",
+    "years": "2023-2024",
+    "score": -8.2,
+    "opsChange": -0.004
+  },
+  {
+    "player": "Frelick, Sal",
+    "years": "2023-2024",
+    "score": -8.21,
+    "opsChange": 0.101
+  },
+  {
+    "player": "D\u00edaz, Yandy",
+    "years": "2023-2024",
+    "score": -8.23,
+    "opsChange": 0.093
+  },
+  {
+    "player": "Larnach, Trevor",
+    "years": "2023-2024",
+    "score": -8.25,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Peraza, Jos\u00e9",
+    "years": "2016-2017",
+    "score": -8.27,
+    "opsChange": 0.12
+  },
+  {
+    "player": "Chisholm Jr., Jazz",
+    "years": "2022-2023",
+    "score": -8.29,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2018-2019",
+    "score": -8.29,
+    "opsChange": 0.141
+  },
+  {
+    "player": "Hosmer, Eric",
+    "years": "2017-2018",
+    "score": -8.32,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Reynolds, Bryan",
+    "years": "2019-2020",
+    "score": -8.33,
+    "opsChange": 0.28
+  },
+  {
+    "player": "Isbel, Kyle",
+    "years": "2023-2024",
+    "score": -8.35,
+    "opsChange": 0.0
+  },
+  {
+    "player": "Joyce, Matt",
+    "years": "2016-2017",
+    "score": -8.36,
+    "opsChange": -0.133
+  },
+  {
+    "player": "d'Arnaud, Travis",
+    "years": "2021-2022",
+    "score": -8.4,
+    "opsChange": -0.106
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2023-2024",
+    "score": -8.42,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2020-2021",
+    "score": -8.47,
+    "opsChange": -0.012
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2022-2023",
+    "score": -8.49,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Lowe, Nathaniel",
+    "years": "2022-2023",
+    "score": -8.52,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Hamilton, Billy",
+    "years": "2017-2018",
+    "score": -8.52,
+    "opsChange": -0.062
+  },
+  {
+    "player": "Arcia, Orlando",
+    "years": "2023-2024",
+    "score": -8.53,
+    "opsChange": -0.096
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2016-2017",
+    "score": -8.56,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Burger, Jake",
+    "years": "2023-2024",
+    "score": -8.58,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Devers, Rafael",
+    "years": "2019-2020",
+    "score": -8.59,
+    "opsChange": 0.097
+  },
+  {
+    "player": "Pence, Hunter",
+    "years": "2017-2018",
+    "score": -8.59,
+    "opsChange": 0.32
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2023-2024",
+    "score": -8.6,
+    "opsChange": -0.048
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2019-2020",
+    "score": -8.67,
+    "opsChange": -0.05
+  },
+  {
+    "player": "Renfroe, Hunter",
+    "years": "2022-2023",
+    "score": -8.75,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2020-2021",
+    "score": -8.81,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2019-2020",
+    "score": -8.85,
+    "opsChange": 0.177
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2023-2024",
+    "score": -8.89,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2019-2020",
+    "score": -8.9,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Cabrera, Asdr\u00fabal",
+    "years": "2018-2019",
+    "score": -8.93,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Miller, Brad",
+    "years": "2016-2017",
+    "score": -9.01,
+    "opsChange": 0.06
+  },
+  {
+    "player": "Upton, Justin",
+    "years": "2016-2017",
+    "score": -9.02,
+    "opsChange": -0.093
+  },
+  {
+    "player": "Beltr\u00e1n, Carlos",
+    "years": "2015-2016",
+    "score": -9.04,
+    "opsChange": -0.184
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2018-2019",
+    "score": -9.06,
+    "opsChange": 0.055
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2019-2020",
+    "score": -9.06,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2021-2022",
+    "score": -9.08,
+    "opsChange": -0.03
+  },
+  {
+    "player": "Vargas, Miguel",
+    "years": "2023-2024",
+    "score": -9.12,
+    "opsChange": 0.211
+  },
+  {
+    "player": "Gordon, Alex",
+    "years": "2016-2017",
+    "score": -9.13,
+    "opsChange": 0.086
+  },
+  {
+    "player": "Candelario, Jeimer",
+    "years": "2021-2022",
+    "score": -9.15,
+    "opsChange": 0.174
+  },
+  {
+    "player": "Davis, J.D.",
+    "years": "2019-2020",
+    "score": -9.17,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2019-2020",
+    "score": -9.19,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Bryant, Kris",
+    "years": "2015-2016",
+    "score": -9.19,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2019-2020",
+    "score": -9.2,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2019-2020",
+    "score": -9.24,
+    "opsChange": -0.247
+  },
+  {
+    "player": "Bryant, Kris",
+    "years": "2017-2018",
+    "score": -9.31,
+    "opsChange": 0.069
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2016-2017",
+    "score": -9.33,
+    "opsChange": 0.105
+  },
+  {
+    "player": "Davis, Chris",
+    "years": "2017-2018",
+    "score": -9.34,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Urshela, Gio",
+    "years": "2021-2022",
+    "score": -9.34,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Turner, Trea",
+    "years": "2021-2022",
+    "score": -9.36,
+    "opsChange": -0.031
+  },
+  {
+    "player": "S\u00e1nchez, Gary",
+    "years": "2016-2017",
+    "score": -9.37,
+    "opsChange": -0.179
+  },
+  {
+    "player": "D\u00edaz, Elias",
+    "years": "2023-2024",
+    "score": -9.39,
+    "opsChange": -0.088
+  },
+  {
+    "player": "Torres, Gleyber",
+    "years": "2022-2023",
+    "score": -9.4,
+    "opsChange": -0.091
+  },
+  {
+    "player": "Lowe, Brandon",
+    "years": "2019-2020",
+    "score": -9.41,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Morales, Kendrys",
+    "years": "2016-2017",
+    "score": -9.53,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Garver, Mitch",
+    "years": "2023-2024",
+    "score": -9.54,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Canha, Mark",
+    "years": "2020-2021",
+    "score": -9.6,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Lopez, Nicky",
+    "years": "2021-2022",
+    "score": -9.6,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Garc\u00eda, Avisa\u00edl",
+    "years": "2019-2020",
+    "score": -9.62,
+    "opsChange": 0.161
+  },
+  {
+    "player": "Aybar, Erick",
+    "years": "2015-2016",
+    "score": -9.63,
+    "opsChange": 0.025
+  },
+  {
+    "player": "Rizzo, Anthony",
+    "years": "2022-2023",
+    "score": -9.63,
+    "opsChange": -0.069
+  },
+  {
+    "player": "Varsho, Daulton",
+    "years": "2021-2022",
+    "score": -9.63,
+    "opsChange": -0.071
+  },
+  {
+    "player": "Donaldson, Josh",
+    "years": "2016-2017",
+    "score": -9.63,
+    "opsChange": -0.143
+  },
+  {
+    "player": "Franco, Maikel",
+    "years": "2016-2017",
+    "score": -9.65,
+    "opsChange": 0.09
+  },
+  {
+    "player": "Buxton, Byron",
+    "years": "2021-2022",
+    "score": -9.66,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Hern\u00e1ndez, Teoscar",
+    "years": "2022-2023",
+    "score": -9.69,
+    "opsChange": 0.099
+  },
+  {
+    "player": "Smoak, Justin",
+    "years": "2015-2016",
+    "score": -9.72,
+    "opsChange": 0.178
+  },
+  {
+    "player": "Gonz\u00e1lez, Carlos",
+    "years": "2016-2017",
+    "score": -9.72,
+    "opsChange": 0.034
+  },
+  {
+    "player": "Davis, Khris",
+    "years": "2017-2018",
+    "score": -9.73,
+    "opsChange": -0.195
+  },
+  {
+    "player": "Rodr\u00edguez, Julio",
+    "years": "2023-2024",
+    "score": -9.76,
+    "opsChange": 0.064
+  },
+  {
+    "player": "Goldschmidt, Paul",
+    "years": "2015-2016",
+    "score": -9.77,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Duvall, Adam",
+    "years": "2021-2022",
+    "score": -9.79,
+    "opsChange": 0.157
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2020-2021",
+    "score": -9.79,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2016-2017",
+    "score": -9.8,
+    "opsChange": -0.097
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2016-2017",
+    "score": -9.81,
+    "opsChange": 0.193
+  },
+  {
+    "player": "S\u00e1nchez, Gary",
+    "years": "2022-2023",
+    "score": -9.87,
+    "opsChange": -0.081
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2022-2023",
+    "score": -9.9,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Hedges, Austin",
+    "years": "2017-2018",
+    "score": -9.94,
+    "opsChange": -0.148
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2021-2022",
+    "score": -9.95,
+    "opsChange": -0.038
+  },
+  {
+    "player": "Span, Denard",
+    "years": "2016-2017",
+    "score": -9.96,
+    "opsChange": 0.004
+  },
+  {
+    "player": "Calhoun, Kole",
+    "years": "2016-2017",
+    "score": -10.0,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Beckham, Tim",
+    "years": "2016-2017",
+    "score": -10.04,
+    "opsChange": -0.121
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2021-2022",
+    "score": -10.07,
+    "opsChange": 0.104
+  },
+  {
+    "player": "Galvis, Freddy",
+    "years": "2016-2017",
+    "score": -10.09,
+    "opsChange": -0.01
+  },
+  {
+    "player": "N\u00fa\u00f1ez, Eduardo",
+    "years": "2016-2017",
+    "score": -10.16,
+    "opsChange": -0.124
+  },
+  {
+    "player": "Cain, Lorenzo",
+    "years": "2015-2016",
+    "score": -10.17,
+    "opsChange": 0.056
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2015-2016",
+    "score": -10.24,
+    "opsChange": 0.1
+  },
+  {
+    "player": "Beckham, Tim",
+    "years": "2017-2018",
+    "score": -10.24,
+    "opsChange": 0.092
+  },
+  {
+    "player": "De La Cruz, Bryan",
+    "years": "2022-2023",
+    "score": -10.28,
+    "opsChange": -0.061
+  },
+  {
+    "player": "Bichette, Bo",
+    "years": "2022-2023",
+    "score": -10.34,
+    "opsChange": -0.216
+  },
+  {
+    "player": "Valencia, Danny",
+    "years": "2015-2016",
+    "score": -10.35,
+    "opsChange": -0.067
+  },
+  {
+    "player": "Owings, Chris",
+    "years": "2016-2017",
+    "score": -10.42,
+    "opsChange": -0.167
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2021-2022",
+    "score": -10.43,
+    "opsChange": -0.006
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2018-2019",
+    "score": -10.43,
+    "opsChange": 0.22
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2022-2023",
+    "score": -10.46,
+    "opsChange": -0.023
+  },
+  {
+    "player": "Walls, Taylor",
+    "years": "2023-2024",
+    "score": -10.48,
+    "opsChange": 0.07
+  },
+  {
+    "player": "Verdugo, Alex",
+    "years": "2021-2022",
+    "score": -10.51,
+    "opsChange": 0.013
+  },
+  {
+    "player": "Tucker, Kyle",
+    "years": "2021-2022",
+    "score": -10.51,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Springer, George",
+    "years": "2023-2024",
+    "score": -10.55,
+    "opsChange": 0.285
+  },
+  {
+    "player": "Su\u00e1rez, Eugenio",
+    "years": "2018-2019",
+    "score": -10.58,
+    "opsChange": -0.149
+  },
+  {
+    "player": "Zobrist, Ben",
+    "years": "2016-2017",
+    "score": -10.64,
+    "opsChange": 0.124
+  },
+  {
+    "player": "Alonso, Pete",
+    "years": "2022-2023",
+    "score": -10.67,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Isbel, Kyle",
+    "years": "2022-2023",
+    "score": -10.68,
+    "opsChange": -0.008
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2017-2018",
+    "score": -10.76,
+    "opsChange": 0.059
+  },
+  {
+    "player": "Grichuk, Randal",
+    "years": "2016-2017",
+    "score": -10.77,
+    "opsChange": 0.045
+  },
+  {
+    "player": "Hoskins, Rhys",
+    "years": "2017-2018",
+    "score": -10.8,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2021-2022",
+    "score": -10.8,
+    "opsChange": -0.064
+  },
+  {
+    "player": "Castro, Harold",
+    "years": "2021-2022",
+    "score": -10.82,
+    "opsChange": -0.092
+  },
+  {
+    "player": "Bruce, Jay",
+    "years": "2017-2018",
+    "score": -10.9,
+    "opsChange": 0.104
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2023-2024",
+    "score": -10.9,
+    "opsChange": -0.044
+  },
+  {
+    "player": "Vientos, Mark",
+    "years": "2023-2024",
+    "score": -10.94,
+    "opsChange": -0.135
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2018-2019",
+    "score": -10.95,
+    "opsChange": -0.109
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2019-2020",
+    "score": -11.03,
+    "opsChange": 0.154
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2019-2020",
+    "score": -11.1,
+    "opsChange": 0.227
+  },
+  {
+    "player": "Dyson, Jarrod",
+    "years": "2016-2017",
+    "score": -11.14,
+    "opsChange": -0.135
+  },
+  {
+    "player": "Hoerner, Nico",
+    "years": "2023-2024",
+    "score": -11.28,
+    "opsChange": 0.031
+  },
+  {
+    "player": "Almora Jr., Albert",
+    "years": "2017-2018",
+    "score": -11.29,
+    "opsChange": -0.05
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2015-2016",
+    "score": -11.33,
+    "opsChange": 0.192
+  },
+  {
+    "player": "Schwarber, Kyle",
+    "years": "2022-2023",
+    "score": -11.36,
+    "opsChange": 0.034
+  },
+  {
+    "player": "San\u00f3, Miguel",
+    "years": "2015-2016",
+    "score": -11.37,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Yelich, Christian",
+    "years": "2020-2021",
+    "score": -11.38,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Davis, Rajai",
+    "years": "2016-2017",
+    "score": -11.41,
+    "opsChange": -0.082
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2019-2020",
+    "score": -11.41,
+    "opsChange": -0.203
+  },
+  {
+    "player": "Walker, Neil",
+    "years": "2016-2017",
+    "score": -11.42,
+    "opsChange": -0.137
+  },
+  {
+    "player": "Lewis, Royce",
+    "years": "2023-2024",
+    "score": -11.43,
+    "opsChange": -0.076
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2018-2019",
+    "score": -11.43,
+    "opsChange": 0.076
+  },
+  {
+    "player": "Meneses, Joey",
+    "years": "2022-2023",
+    "score": -11.44,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Torres, Gleyber",
+    "years": "2023-2024",
+    "score": -11.49,
+    "opsChange": 0.036
+  },
+  {
+    "player": "Perdomo, Geraldo",
+    "years": "2022-2023",
+    "score": -11.56,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2022-2023",
+    "score": -11.56,
+    "opsChange": 0.057
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2021-2022",
+    "score": -11.57,
+    "opsChange": -0.189
+  },
+  {
+    "player": "Maldonado, Mart\u00edn",
+    "years": "2017-2018",
+    "score": -11.58,
+    "opsChange": 0.044
+  },
+  {
+    "player": "Descalso, Daniel",
+    "years": "2016-2017",
+    "score": -11.62,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Rosario, Amed",
+    "years": "2021-2022",
+    "score": -11.62,
+    "opsChange": -0.032
+  },
+  {
+    "player": "Walls, Taylor",
+    "years": "2021-2022",
+    "score": -11.62,
+    "opsChange": 0.085
+  },
+  {
+    "player": "Cruz, Nelson",
+    "years": "2019-2020",
+    "score": -11.63,
+    "opsChange": -0.16
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2018-2019",
+    "score": -11.65,
+    "opsChange": 0.154
+  },
+  {
+    "player": "Seager, Corey",
+    "years": "2020-2021",
+    "score": -11.66,
+    "opsChange": -0.143
+  },
+  {
+    "player": "Albies, Ozzie",
+    "years": "2023-2024",
+    "score": -11.7,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Strange-Gordon, Dee",
+    "years": "2015-2016",
+    "score": -11.7,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Trumbo, Mark",
+    "years": "2016-2017",
+    "score": -11.72,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Pillar, Kevin",
+    "years": "2018-2019",
+    "score": -11.79,
+    "opsChange": 0.079
+  },
+  {
+    "player": "Fraley, Jake",
+    "years": "2021-2022",
+    "score": -11.8,
+    "opsChange": -0.029
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2016-2017",
+    "score": -11.84,
+    "opsChange": 0.033
+  },
+  {
+    "player": "Mullins, Cedric",
+    "years": "2023-2024",
+    "score": -11.87,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2022-2023",
+    "score": -11.89,
+    "opsChange": -0.102
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2023-2024",
+    "score": -11.89,
+    "opsChange": 0.091
+  },
+  {
+    "player": "DeJong, Paul",
+    "years": "2022-2023",
+    "score": -11.94,
+    "opsChange": 0.091
+  },
+  {
+    "player": "Solarte, Yangervis",
+    "years": "2016-2017",
+    "score": -11.97,
+    "opsChange": -0.076
+  },
+  {
+    "player": "Wieters, Matt",
+    "years": "2016-2017",
+    "score": -11.97,
+    "opsChange": 0.072
+  },
+  {
+    "player": "Seager, Corey",
+    "years": "2021-2022",
+    "score": -11.98,
+    "opsChange": 0.241
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2021-2022",
+    "score": -12.01,
+    "opsChange": 0.248
+  },
+  {
+    "player": "Hicks, Aaron",
+    "years": "2018-2019",
+    "score": -12.02,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Espinal, Santiago",
+    "years": "2023-2024",
+    "score": -12.03,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Springer, George",
+    "years": "2017-2018",
+    "score": -12.08,
+    "opsChange": 0.194
+  },
+  {
+    "player": "Kemp, Tony",
+    "years": "2021-2022",
+    "score": -12.1,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Happ, Ian",
+    "years": "2020-2021",
+    "score": -12.12,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Chisenhall, Lonnie",
+    "years": "2015-2016",
+    "score": -12.17,
+    "opsChange": 0.114
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2022-2023",
+    "score": -12.17,
+    "opsChange": -0.13
+  },
+  {
+    "player": "Gurriel Jr., Lourdes",
+    "years": "2020-2021",
+    "score": -12.24,
+    "opsChange": -0.042
+  },
+  {
+    "player": "Reyes, Victor",
+    "years": "2020-2021",
+    "score": -12.24,
+    "opsChange": -0.05
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2015-2016",
+    "score": -12.39,
+    "opsChange": 0.13
+  },
+  {
+    "player": "Urshela, Gio",
+    "years": "2022-2023",
+    "score": -12.39,
+    "opsChange": -0.056
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2021-2022",
+    "score": -12.48,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Arozarena, Randy",
+    "years": "2023-2024",
+    "score": -12.49,
+    "opsChange": 0.04
+  },
+  {
+    "player": "Bour, Justin",
+    "years": "2016-2017",
+    "score": -12.53,
+    "opsChange": -0.156
+  },
+  {
+    "player": "Barnes, Austin",
+    "years": "2017-2018",
+    "score": -12.63,
+    "opsChange": 0.014
+  },
+  {
+    "player": "Schoop, Jonathan",
+    "years": "2015-2016",
+    "score": -12.65,
+    "opsChange": 0.089
+  },
+  {
+    "player": "Story, Trevor",
+    "years": "2019-2020",
+    "score": -12.67,
+    "opsChange": -0.073
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2020-2021",
+    "score": -12.71,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Arraez, Luis",
+    "years": "2022-2023",
+    "score": -12.75,
+    "opsChange": -0.122
+  },
+  {
+    "player": "Freese, David",
+    "years": "2016-2017",
+    "score": -12.76,
+    "opsChange": 0.091
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2021-2022",
+    "score": -12.84,
+    "opsChange": 0.093
+  },
+  {
+    "player": "Kim, Ha-Seong",
+    "years": "2022-2023",
+    "score": -12.87,
+    "opsChange": -0.049
+  },
+  {
+    "player": "Grossman, Robbie",
+    "years": "2021-2022",
+    "score": -12.87,
+    "opsChange": 0.112
+  },
+  {
+    "player": "Laureano, Ram\u00f3n",
+    "years": "2019-2020",
+    "score": -12.9,
+    "opsChange": 0.056
+  },
+  {
+    "player": "Verdugo, Alex",
+    "years": "2019-2020",
+    "score": -12.93,
+    "opsChange": -0.067
+  },
+  {
+    "player": "Peralta, David",
+    "years": "2018-2019",
+    "score": -12.94,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2021-2022",
+    "score": -12.94,
+    "opsChange": 0.016
+  },
+  {
+    "player": "Grisham, Trent",
+    "years": "2020-2021",
+    "score": -13.0,
+    "opsChange": -0.114
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2016-2017",
+    "score": -13.01,
+    "opsChange": -0.195
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2016-2017",
+    "score": -13.03,
+    "opsChange": -0.016
+  },
+  {
+    "player": "Reyes, Franmil",
+    "years": "2019-2020",
+    "score": -13.11,
+    "opsChange": 0.051
+  },
+  {
+    "player": "Pearce, Steve",
+    "years": "2016-2017",
+    "score": -13.14,
+    "opsChange": 0.133
+  },
+  {
+    "player": "Carpenter, Matt",
+    "years": "2016-2017",
+    "score": -13.19,
+    "opsChange": 0.062
+  },
+  {
+    "player": "Smith, Mallex",
+    "years": "2016-2017",
+    "score": -13.23,
+    "opsChange": 0.089
+  },
+  {
+    "player": "Dickerson, Corey",
+    "years": "2016-2017",
+    "score": -13.24,
+    "opsChange": -0.011
+  },
+  {
+    "player": "Bader, Harrison",
+    "years": "2021-2022",
+    "score": -13.24,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Kiermaier, Kevin",
+    "years": "2022-2023",
+    "score": -13.34,
+    "opsChange": -0.191
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2018-2019",
+    "score": -13.34,
+    "opsChange": -0.259
+  },
+  {
+    "player": "Wisdom, Patrick",
+    "years": "2021-2022",
+    "score": -13.36,
+    "opsChange": 0.064
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2020-2021",
+    "score": -13.39,
+    "opsChange": -0.105
+  },
+  {
+    "player": "Moreland, Mitch",
+    "years": "2015-2016",
+    "score": -13.44,
+    "opsChange": 0.049
+  },
+  {
+    "player": "Freeman, Freddie",
+    "years": "2022-2023",
+    "score": -13.46,
+    "opsChange": -0.122
+  },
+  {
+    "player": "Julien, Edouard",
+    "years": "2023-2024",
+    "score": -13.61,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Ram\u00edrez, Harold",
+    "years": "2021-2022",
+    "score": -13.7,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Saladino, Tyler",
+    "years": "2015-2016",
+    "score": -13.74,
+    "opsChange": -0.241
+  },
+  {
+    "player": "Braun, Ryan",
+    "years": "2015-2016",
+    "score": -13.85,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Tellez, Rowdy",
+    "years": "2022-2023",
+    "score": -13.86,
+    "opsChange": 0.024
+  },
+  {
+    "player": "Flores, Wilmer",
+    "years": "2017-2018",
+    "score": -13.88,
+    "opsChange": 0.112
+  },
+  {
+    "player": "Machado, Manny",
+    "years": "2021-2022",
+    "score": -13.92,
+    "opsChange": -0.116
+  },
+  {
+    "player": "Reddick, Josh",
+    "years": "2017-2018",
+    "score": -13.96,
+    "opsChange": 0.01
+  },
+  {
+    "player": "Cervelli, Francisco",
+    "years": "2015-2016",
+    "score": -14.01,
+    "opsChange": 0.013
+  },
+  {
+    "player": "Hayes, Ke'Bryan",
+    "years": "2023-2024",
+    "score": -14.04,
+    "opsChange": 0.022
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2016-2017",
+    "score": -14.09,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Joe, Connor",
+    "years": "2021-2022",
+    "score": -14.12,
+    "opsChange": 0.063
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2017-2018",
+    "score": -14.18,
+    "opsChange": 0.221
+  },
+  {
+    "player": "Pham, Tommy",
+    "years": "2023-2024",
+    "score": -14.24,
+    "opsChange": 0.026
+  },
+  {
+    "player": "Swanson, Dansby",
+    "years": "2022-2023",
+    "score": -14.36,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Baddoo, Akil",
+    "years": "2021-2022",
+    "score": -14.43,
+    "opsChange": 0.124
+  },
+  {
+    "player": "Bohm, Alec",
+    "years": "2021-2022",
+    "score": -14.45,
+    "opsChange": 0.052
+  },
+  {
+    "player": "Inciarte, Ender",
+    "years": "2015-2016",
+    "score": -14.49,
+    "opsChange": 0.027
+  },
+  {
+    "player": "Soto, Juan",
+    "years": "2021-2022",
+    "score": -14.53,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Pujols, Albert",
+    "years": "2016-2017",
+    "score": -14.59,
+    "opsChange": 0.028
+  },
+  {
+    "player": "Nimmo, Brandon",
+    "years": "2018-2019",
+    "score": -14.65,
+    "opsChange": 0.105
+  },
+  {
+    "player": "Marte, Ketel",
+    "years": "2021-2022",
+    "score": -14.65,
+    "opsChange": 0.117
+  },
+  {
+    "player": "DeShields, Delino",
+    "years": "2017-2018",
+    "score": -14.69,
+    "opsChange": 0.081
+  },
+  {
+    "player": "D\u00edaz, Aledmys",
+    "years": "2021-2022",
+    "score": -14.8,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Belt, Brandon",
+    "years": "2021-2022",
+    "score": -14.83,
+    "opsChange": 0.182
+  },
+  {
+    "player": "Frazier, Todd",
+    "years": "2016-2017",
+    "score": -14.83,
+    "opsChange": -0.079
+  },
+  {
+    "player": "Walker, Christian",
+    "years": "2020-2021",
+    "score": -14.84,
+    "opsChange": 0.108
+  },
+  {
+    "player": "Haase, Eric",
+    "years": "2021-2022",
+    "score": -14.85,
+    "opsChange": -0.22
+  },
+  {
+    "player": "Granderson, Curtis",
+    "years": "2015-2016",
+    "score": -14.99,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Pederson, Joc",
+    "years": "2023-2024",
+    "score": -15.1,
+    "opsChange": -0.294
+  },
+  {
+    "player": "Prado, Mart\u00edn",
+    "years": "2017-2018",
+    "score": -15.17,
+    "opsChange": -0.033
+  },
+  {
+    "player": "Story, Trevor",
+    "years": "2016-2017",
+    "score": -15.22,
+    "opsChange": 0.149
+  },
+  {
+    "player": "Forsythe, Logan",
+    "years": "2016-2017",
+    "score": -15.25,
+    "opsChange": -0.074
+  },
+  {
+    "player": "Ruiz, Keibert",
+    "years": "2023-2024",
+    "score": -15.43,
+    "opsChange": -0.024
+  },
+  {
+    "player": "Cronenworth, Jake",
+    "years": "2020-2021",
+    "score": -15.47,
+    "opsChange": -0.078
+  },
+  {
+    "player": "Wade Jr., LaMonte",
+    "years": "2021-2022",
+    "score": -15.54,
+    "opsChange": 0.125
+  },
+  {
+    "player": "Bauers, Jake",
+    "years": "2023-2024",
+    "score": -15.58,
+    "opsChange": 0.09
+  },
+  {
+    "player": "Seager, Kyle",
+    "years": "2016-2017",
+    "score": -15.64,
+    "opsChange": -0.1
+  },
+  {
+    "player": "Alvarez, Yordan",
+    "years": "2022-2023",
+    "score": -15.66,
+    "opsChange": -0.031
+  },
+  {
+    "player": "Adames, Willy",
+    "years": "2022-2023",
+    "score": -15.71,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Merrifield, Whit",
+    "years": "2022-2023",
+    "score": -15.78,
+    "opsChange": -0.075
+  },
+  {
+    "player": "Fraley, Jake",
+    "years": "2023-2024",
+    "score": -15.81,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Smith, Pavin",
+    "years": "2021-2022",
+    "score": -15.88,
+    "opsChange": -0.025
+  },
+  {
+    "player": "LeMahieu, DJ",
+    "years": "2016-2017",
+    "score": -15.93,
+    "opsChange": -0.034
+  },
+  {
+    "player": "Volpe, Anthony",
+    "years": "2023-2024",
+    "score": -15.96,
+    "opsChange": 0.006
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2019-2020",
+    "score": -15.97,
+    "opsChange": 0.187
+  },
+  {
+    "player": "Bogaerts, Xander",
+    "years": "2019-2020",
+    "score": -16.07,
+    "opsChange": -0.004
+  },
+  {
+    "player": "McCutchen, Andrew",
+    "years": "2023-2024",
+    "score": -16.17,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2021-2022",
+    "score": -16.22,
+    "opsChange": 0.017
+  },
+  {
+    "player": "Taylor, Chris",
+    "years": "2018-2019",
+    "score": -16.22,
+    "opsChange": 0.048
+  },
+  {
+    "player": "Valbuena, Luis",
+    "years": "2015-2016",
+    "score": -16.33,
+    "opsChange": -0.089
+  },
+  {
+    "player": "Arenado, Nolan",
+    "years": "2023-2024",
+    "score": -16.45,
+    "opsChange": -0.053
+  },
+  {
+    "player": "Markakis, Nick",
+    "years": "2016-2017",
+    "score": -16.49,
+    "opsChange": 0.068
+  },
+  {
+    "player": "Iglesias, Jose",
+    "years": "2020-2021",
+    "score": -16.59,
+    "opsChange": 0.007
+  },
+  {
+    "player": "Candelario, Jeimer",
+    "years": "2020-2021",
+    "score": -16.6,
+    "opsChange": -0.162
+  },
+  {
+    "player": "Ramos, Wilson",
+    "years": "2016-2017",
+    "score": -16.66,
+    "opsChange": 0.108
+  },
+  {
+    "player": "Kirk, Alejandro",
+    "years": "2022-2023",
+    "score": -16.71,
+    "opsChange": -0.015
+  },
+  {
+    "player": "Jaso, John",
+    "years": "2015-2016",
+    "score": -16.74,
+    "opsChange": -0.036
+  },
+  {
+    "player": "Pasquantino, Vinnie",
+    "years": "2022-2023",
+    "score": -16.76,
+    "opsChange": -0.002
+  },
+  {
+    "player": "Chapman, Matt",
+    "years": "2023-2024",
+    "score": -16.81,
+    "opsChange": -0.02
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2021-2022",
+    "score": -16.89,
+    "opsChange": 0.07
+  },
+  {
+    "player": "Jim\u00e9nez, Eloy",
+    "years": "2022-2023",
+    "score": -16.91,
+    "opsChange": -0.132
+  },
+  {
+    "player": "Kipnis, Jason",
+    "years": "2016-2017",
+    "score": -16.99,
+    "opsChange": -0.001
+  },
+  {
+    "player": "Perez, Salvador",
+    "years": "2021-2022",
+    "score": -17.02,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Lamb, Jake",
+    "years": "2016-2017",
+    "score": -17.11,
+    "opsChange": -0.189
+  },
+  {
+    "player": "Fermin, Freddy",
+    "years": "2023-2024",
+    "score": -17.18,
+    "opsChange": -0.049
+  },
+  {
+    "player": "McCann, Brian",
+    "years": "2017-2018",
+    "score": -17.23,
+    "opsChange": 0.094
+  },
+  {
+    "player": "Altuve, Jose",
+    "years": "2016-2017",
+    "score": -17.33,
+    "opsChange": -0.12
+  },
+  {
+    "player": "Bradley Jr., Jackie",
+    "years": "2019-2020",
+    "score": -17.34,
+    "opsChange": -0.317
+  },
+  {
+    "player": "Taylor, Michael A.",
+    "years": "2021-2022",
+    "score": -17.43,
+    "opsChange": 0.05
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2022-2023",
+    "score": -17.45,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Conforto, Michael",
+    "years": "2015-2016",
+    "score": -17.64,
+    "opsChange": 0.214
+  },
+  {
+    "player": "Martinez, J.D.",
+    "years": "2021-2022",
+    "score": -17.77,
+    "opsChange": 0.103
+  },
+  {
+    "player": "Myers, Wil",
+    "years": "2020-2021",
+    "score": -17.78,
+    "opsChange": -0.055
+  },
+  {
+    "player": "Garcia, Maikel",
+    "years": "2023-2024",
+    "score": -17.78,
+    "opsChange": 0.186
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2020-2021",
+    "score": -17.79,
+    "opsChange": 0.055
+  },
+  {
+    "player": "Choo, Shin-Soo",
+    "years": "2016-2017",
+    "score": -17.92,
+    "opsChange": 0.03
+  },
+  {
+    "player": "Jansen, Danny",
+    "years": "2023-2024",
+    "score": -17.97,
+    "opsChange": 0.063
+  },
+  {
+    "player": "Crawford, Brandon",
+    "years": "2021-2022",
+    "score": -18.02,
+    "opsChange": -0.065
+  },
+  {
+    "player": "Nootbaar, Lars",
+    "years": "2022-2023",
+    "score": -18.02,
+    "opsChange": -0.026
+  },
+  {
+    "player": "Trout, Mike",
+    "years": "2015-2016",
+    "score": -18.03,
+    "opsChange": 0.08
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2016-2017",
+    "score": -18.08,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Bellinger, Cody",
+    "years": "2020-2021",
+    "score": -18.11,
+    "opsChange": 0.112
+  },
+  {
+    "player": "Dozier, Brian",
+    "years": "2017-2018",
+    "score": -18.13,
+    "opsChange": 0.075
+  },
+  {
+    "player": "Ur\u00edas, Ram\u00f3n",
+    "years": "2022-2023",
+    "score": -18.14,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Posey, Buster",
+    "years": "2016-2017",
+    "score": -18.24,
+    "opsChange": -0.12
+  },
+  {
+    "player": "Jackson, Austin",
+    "years": "2015-2016",
+    "score": -18.26,
+    "opsChange": 0.208
+  },
+  {
+    "player": "Hern\u00e1ndez, Enrique",
+    "years": "2015-2016",
+    "score": -18.32,
+    "opsChange": 0.122
+  },
+  {
+    "player": "Duvall, Adam",
+    "years": "2016-2017",
+    "score": -18.38,
+    "opsChange": -0.143
+  },
+  {
+    "player": "Crawford, Brandon",
+    "years": "2015-2016",
+    "score": -18.42,
+    "opsChange": -0.063
+  },
+  {
+    "player": "Marte, Starling",
+    "years": "2019-2020",
+    "score": -18.43,
+    "opsChange": 0.071
+  },
+  {
+    "player": "Cave, Jake",
+    "years": "2022-2023",
+    "score": -18.49,
+    "opsChange": 0.066
+  },
+  {
+    "player": "Rojas, Josh",
+    "years": "2022-2023",
+    "score": -18.52,
+    "opsChange": 0.0
+  },
+  {
+    "player": "Schoop, Jonathan",
+    "years": "2017-2018",
+    "score": -18.66,
+    "opsChange": 0.095
+  },
+  {
+    "player": "Solano, Donovan",
+    "years": "2019-2020",
+    "score": -18.72,
+    "opsChange": -0.08
+  },
+  {
+    "player": "Santana, Carlos",
+    "years": "2019-2020",
+    "score": -18.73,
+    "opsChange": -0.039
+  },
+  {
+    "player": "Wong, Kolten",
+    "years": "2015-2016",
+    "score": -18.75,
+    "opsChange": 0.106
+  },
+  {
+    "player": "Moustakas, Mike",
+    "years": "2020-2021",
+    "score": -18.86,
+    "opsChange": -0.013
+  },
+  {
+    "player": "Anderson, Brian",
+    "years": "2019-2020",
+    "score": -18.97,
+    "opsChange": -0.095
+  },
+  {
+    "player": "Martinez, Victor",
+    "years": "2016-2017",
+    "score": -19.06,
+    "opsChange": -0.046
+  },
+  {
+    "player": "Beltr\u00e9, Adrian",
+    "years": "2016-2017",
+    "score": -19.09,
+    "opsChange": -0.152
+  },
+  {
+    "player": "Hedges, Austin",
+    "years": "2021-2022",
+    "score": -19.28,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2016-2017",
+    "score": -19.41,
+    "opsChange": -0.043
+  },
+  {
+    "player": "India, Jonathan",
+    "years": "2021-2022",
+    "score": -19.48,
+    "opsChange": 0.041
+  },
+  {
+    "player": "Betts, Mookie",
+    "years": "2023-2024",
+    "score": -19.6,
+    "opsChange": -0.131
+  },
+  {
+    "player": "Kepler, Max",
+    "years": "2023-2024",
+    "score": -19.61,
+    "opsChange": 0.009
+  },
+  {
+    "player": "Jansen, Danny",
+    "years": "2022-2023",
+    "score": -19.62,
+    "opsChange": -0.128
+  },
+  {
+    "player": "Belt, Brandon",
+    "years": "2017-2018",
+    "score": -19.7,
+    "opsChange": -0.014
+  },
+  {
+    "player": "McCormick, Chas",
+    "years": "2021-2022",
+    "score": -19.72,
+    "opsChange": 0.104
+  },
+  {
+    "player": "B\u00e1ez, Javier",
+    "years": "2021-2022",
+    "score": -19.72,
+    "opsChange": -0.078
+  },
+  {
+    "player": "Gomes, Yan",
+    "years": "2021-2022",
+    "score": -19.73,
+    "opsChange": 0.098
+  },
+  {
+    "player": "Longoria, Evan",
+    "years": "2021-2022",
+    "score": -19.77,
+    "opsChange": -0.05
+  },
+  {
+    "player": "McCarthy, Jake",
+    "years": "2022-2023",
+    "score": -19.96,
+    "opsChange": 0.105
+  },
+  {
+    "player": "Russell, Addison",
+    "years": "2017-2018",
+    "score": -20.07,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Biggio, Cavan",
+    "years": "2019-2020",
+    "score": -20.11,
+    "opsChange": -0.129
+  },
+  {
+    "player": "Semien, Marcus",
+    "years": "2019-2020",
+    "score": -20.15,
+    "opsChange": 0.194
+  },
+  {
+    "player": "Duran, Ezequiel",
+    "years": "2023-2024",
+    "score": -20.2,
+    "opsChange": -0.05
+  },
+  {
+    "player": "Cooper, Garrett",
+    "years": "2021-2022",
+    "score": -20.3,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Jay, Jon",
+    "years": "2015-2016",
+    "score": -20.49,
+    "opsChange": 0.021
+  },
+  {
+    "player": "Lowrie, Jed",
+    "years": "2015-2016",
+    "score": -20.64,
+    "opsChange": 0.171
+  },
+  {
+    "player": "Duffy, Matt",
+    "years": "2021-2022",
+    "score": -20.8,
+    "opsChange": 0.012
+  },
+  {
+    "player": "Rojas, Miguel",
+    "years": "2015-2016",
+    "score": -20.87,
+    "opsChange": 0.123
+  },
+  {
+    "player": "Sheets, Gavin",
+    "years": "2021-2022",
+    "score": -20.95,
+    "opsChange": -0.107
+  },
+  {
+    "player": "Gurriel, Yuli",
+    "years": "2017-2018",
+    "score": -20.99,
+    "opsChange": 0.133
+  },
+  {
+    "player": "Gallo, Joey",
+    "years": "2019-2020",
+    "score": -21.22,
+    "opsChange": 0.129
+  },
+  {
+    "player": "Polanco, Gregory",
+    "years": "2016-2017",
+    "score": -21.34,
+    "opsChange": 0.144
+  },
+  {
+    "player": "O'Neill, Tyler",
+    "years": "2021-2022",
+    "score": -21.49,
+    "opsChange": 0.015
+  },
+  {
+    "player": "Murphy, Sean",
+    "years": "2023-2024",
+    "score": -21.63,
+    "opsChange": 0.073
+  },
+  {
+    "player": "Kiner-Falefa, Isiah",
+    "years": "2023-2024",
+    "score": -21.65,
+    "opsChange": -0.052
+  },
+  {
+    "player": "Acu\u00f1a Jr., Ronald",
+    "years": "2023-2024",
+    "score": -21.7,
+    "opsChange": 0.219
+  },
+  {
+    "player": "Olson, Matt",
+    "years": "2023-2024",
+    "score": -21.71,
+    "opsChange": 0.06
+  },
+  {
+    "player": "DeShields, Delino",
+    "years": "2016-2017",
+    "score": -21.84,
+    "opsChange": -0.123
+  },
+  {
+    "player": "Vogelbach, Daniel",
+    "years": "2021-2022",
+    "score": -21.88,
+    "opsChange": -0.051
+  },
+  {
+    "player": "P\u00e9rez, Hern\u00e1n",
+    "years": "2016-2017",
+    "score": -21.96,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Gregorius, Didi",
+    "years": "2019-2020",
+    "score": -22.06,
+    "opsChange": -0.188
+  },
+  {
+    "player": "Gorman, Nolan",
+    "years": "2023-2024",
+    "score": -22.09,
+    "opsChange": -0.005
+  },
+  {
+    "player": "Jeffers, Ryan",
+    "years": "2023-2024",
+    "score": -22.19,
+    "opsChange": 0.02
+  },
+  {
+    "player": "Morel, Christopher",
+    "years": "2023-2024",
+    "score": -22.36,
+    "opsChange": 0.05
+  },
+  {
+    "player": "Jim\u00e9nez, Eloy",
+    "years": "2020-2021",
+    "score": -22.39,
+    "opsChange": 0.118
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2019-2020",
+    "score": -22.42,
+    "opsChange": -0.157
+  },
+  {
+    "player": "Thomas, Lane",
+    "years": "2021-2022",
+    "score": -22.52,
+    "opsChange": 0.078
+  },
+  {
+    "player": "Belt, Brandon",
+    "years": "2015-2016",
+    "score": -23.04,
+    "opsChange": -0.045
+  },
+  {
+    "player": "Blackmon, Charlie",
+    "years": "2019-2020",
+    "score": -23.16,
+    "opsChange": -0.043
+  },
+  {
+    "player": "Flowers, Tyler",
+    "years": "2016-2017",
+    "score": -23.34,
+    "opsChange": -0.123
+  },
+  {
+    "player": "Correa, Carlos",
+    "years": "2017-2018",
+    "score": -23.35,
+    "opsChange": 0.198
+  },
+  {
+    "player": "Fowler, Dexter",
+    "years": "2017-2018",
+    "score": -23.59,
+    "opsChange": 0.178
+  },
+  {
+    "player": "Bautista, Jos\u00e9",
+    "years": "2016-2017",
+    "score": -23.61,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Montero, Miguel",
+    "years": "2015-2016",
+    "score": -23.68,
+    "opsChange": -0.028
+  },
+  {
+    "player": "Blanco, Gr\u00e9gor",
+    "years": "2015-2016",
+    "score": -23.74,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Gim\u00e9nez, Andr\u00e9s",
+    "years": "2022-2023",
+    "score": -23.78,
+    "opsChange": -0.074
+  },
+  {
+    "player": "Voit, Luke",
+    "years": "2018-2019",
+    "score": -24.06,
+    "opsChange": 0.106
+  },
+  {
+    "player": "Paredes, Isaac",
+    "years": "2022-2023",
+    "score": -24.12,
+    "opsChange": -0.101
+  },
+  {
+    "player": "Cabrera, Miguel",
+    "years": "2021-2022",
+    "score": -24.28,
+    "opsChange": 0.053
+  },
+  {
+    "player": "Refsnyder, Rob",
+    "years": "2022-2023",
+    "score": -24.31,
+    "opsChange": 0.148
+  },
+  {
+    "player": "Cabrera, Miguel",
+    "years": "2018-2019",
+    "score": -24.42,
+    "opsChange": 0.002
+  },
+  {
+    "player": "Santana, Domingo",
+    "years": "2016-2017",
+    "score": -24.68,
+    "opsChange": -0.135
+  },
+  {
+    "player": "O'Hearn, Ryan",
+    "years": "2023-2024",
+    "score": -24.84,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Higashioka, Kyle",
+    "years": "2023-2024",
+    "score": -24.89,
+    "opsChange": -0.046
+  },
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2016-2017",
+    "score": -24.99,
+    "opsChange": -0.195
+  },
+  {
+    "player": "Benintendi, Andrew",
+    "years": "2022-2023",
+    "score": -25.27,
+    "opsChange": 0.003
+  },
+  {
+    "player": "Fortes, Nick",
+    "years": "2023-2024",
+    "score": -25.34,
+    "opsChange": 0.067
+  },
+  {
+    "player": "Gardner, Brett",
+    "years": "2015-2016",
+    "score": -25.39,
+    "opsChange": 0.065
+  },
+  {
+    "player": "Desmond, Ian",
+    "years": "2016-2017",
+    "score": -26.23,
+    "opsChange": 0.028
+  },
+  {
+    "player": "Castellanos, Nick",
+    "years": "2021-2022",
+    "score": -26.58,
+    "opsChange": 0.094
+  },
+  {
+    "player": "Lucroy, Jonathan",
+    "years": "2016-2017",
+    "score": -26.67,
+    "opsChange": -0.099
+  },
+  {
+    "player": "Carlson, Dylan",
+    "years": "2023-2024",
+    "score": -26.68,
+    "opsChange": 0.051
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2021-2022",
+    "score": -27.12,
+    "opsChange": -0.04
+  },
+  {
+    "player": "Votto, Joey",
+    "years": "2021-2022",
+    "score": -27.19,
+    "opsChange": 0.058
+  },
+  {
+    "player": "Torkelson, Spencer",
+    "years": "2023-2024",
+    "score": -27.22,
+    "opsChange": 0.12
+  },
+  {
+    "player": "Harper, Bryce",
+    "years": "2015-2016",
+    "score": -27.24,
+    "opsChange": 0.194
+  },
+  {
+    "player": "Albies, Ozzie",
+    "years": "2021-2022",
+    "score": -27.27,
+    "opsChange": 0.146
+  },
+  {
+    "player": "Murphy, Daniel",
+    "years": "2017-2018",
+    "score": -28.38,
+    "opsChange": -0.01
+  },
+  {
+    "player": "d'Arnaud, Travis",
+    "years": "2020-2021",
+    "score": -28.69,
+    "opsChange": 0.12
+  },
+  {
+    "player": "Grandal, Yasmani",
+    "years": "2021-2022",
+    "score": -29.52,
+    "opsChange": 0.077
+  },
+  {
+    "player": "Ozuna, Marcell",
+    "years": "2020-2021",
+    "score": -29.86,
+    "opsChange": 0.042
+  },
+  {
+    "player": "Garver, Mitch",
+    "years": "2021-2022",
+    "score": -31.69,
+    "opsChange": 0.168
+  },
+  {
+    "player": "Marsh, Brandon",
+    "years": "2021-2022",
+    "score": -32.05,
+    "opsChange": 0.15
+  },
+  {
+    "player": "D\u00edaz, Aledmys",
+    "years": "2016-2017",
+    "score": -34.1,
+    "opsChange": 0.074
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2019-2020",
+    "score": -36.98,
+    "opsChange": 0.082
+  }
+]

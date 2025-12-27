@@ -1,0 +1,9 @@
+{
+  "n": 1675,
+  "correlation": -0.1356,
+  "rSquared": 0.0184,
+  "proposedRatio": 2.1,
+  "derivedRatio": 0.84,
+  "targetCorrelation": 0.65,
+  "meetsTarget": false
+}

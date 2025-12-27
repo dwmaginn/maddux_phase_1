@@ -1,0 +1,202 @@
+[
+  {
+    "player": "V\u00e1zquez, Christian",
+    "years": "2017-2018",
+    "score": 13.8,
+    "deltaMaxEV": -0.5,
+    "deltaHardHit": 6.8,
+    "beforeOPS": 0.54,
+    "afterOPS": 0.798,
+    "improvement": 0.258
+  },
+  {
+    "player": "Stallings, Jacob",
+    "years": "2022-2023",
+    "score": 13.9,
+    "deltaMaxEV": -2.7,
+    "deltaHardHit": 7.9,
+    "beforeOPS": 0.565,
+    "afterOPS": 0.81,
+    "improvement": 0.245
+  },
+  {
+    "player": "Marisnick, Jake",
+    "years": "2015-2016",
+    "score": 17.7,
+    "deltaMaxEV": 1.3,
+    "deltaHardHit": 7.8,
+    "beforeOPS": 0.588,
+    "afterOPS": 0.815,
+    "improvement": 0.227
+  },
+  {
+    "player": "Guerrero Jr., Vladimir",
+    "years": "2019-2020",
+    "score": 22.6,
+    "deltaMaxEV": -2.8,
+    "deltaHardHit": 12.1,
+    "beforeOPS": 0.791,
+    "afterOPS": 1.002,
+    "improvement": 0.211
+  },
+  {
+    "player": "Cozart, Zack",
+    "years": "2015-2016",
+    "score": 13.3,
+    "deltaMaxEV": 2.8,
+    "deltaHardHit": 5.0,
+    "beforeOPS": 0.732,
+    "afterOPS": 0.933,
+    "improvement": 0.201
+  },
+  {
+    "player": "Moncada, Yo\u00e1n",
+    "years": "2017-2018",
+    "score": 21.6,
+    "deltaMaxEV": 2.7,
+    "deltaHardHit": 9.0,
+    "beforeOPS": 0.714,
+    "afterOPS": 0.915,
+    "improvement": 0.201
+  },
+  {
+    "player": "Raleigh, Cal",
+    "years": "2023-2024",
+    "score": 15.1,
+    "deltaMaxEV": 0.2,
+    "deltaHardHit": 7.1,
+    "beforeOPS": 0.748,
+    "afterOPS": 0.948,
+    "improvement": 0.2
+  },
+  {
+    "player": "Alonso, Yonder",
+    "years": "2015-2016",
+    "score": 10.6,
+    "deltaMaxEV": 2.8,
+    "deltaHardHit": 3.7,
+    "beforeOPS": 0.683,
+    "afterOPS": 0.866,
+    "improvement": 0.183
+  },
+  {
+    "player": "Pujols, Albert",
+    "years": "2020-2021",
+    "score": 15.2,
+    "deltaMaxEV": 4.1,
+    "deltaHardHit": 5.3,
+    "beforeOPS": 0.717,
+    "afterOPS": 0.895,
+    "improvement": 0.178
+  },
+  {
+    "player": "Stanton, Giancarlo",
+    "years": "2023-2024",
+    "score": 15.0,
+    "deltaMaxEV": 0.5,
+    "deltaHardHit": 6.9,
+    "beforeOPS": 0.773,
+    "afterOPS": 0.944,
+    "improvement": 0.171
+  },
+  {
+    "player": "Bell, Josh",
+    "years": "2017-2018",
+    "score": 13.7,
+    "deltaMaxEV": 3.2,
+    "deltaHardHit": 5.0,
+    "beforeOPS": 0.768,
+    "afterOPS": 0.936,
+    "improvement": 0.168
+  },
+  {
+    "player": "Witt Jr., Bobby",
+    "years": "2022-2023",
+    "score": 14.8,
+    "deltaMaxEV": 0.1,
+    "deltaHardHit": 7.0,
+    "beforeOPS": 0.813,
+    "afterOPS": 0.977,
+    "improvement": 0.164
+  },
+  {
+    "player": "Lind, Adam",
+    "years": "2015-2016",
+    "score": 17.1,
+    "deltaMaxEV": 3.0,
+    "deltaHardHit": 6.7,
+    "beforeOPS": 0.717,
+    "afterOPS": 0.875,
+    "improvement": 0.158
+  },
+  {
+    "player": "McNeil, Jeff",
+    "years": "2020-2021",
+    "score": 16.6,
+    "deltaMaxEV": 2.1,
+    "deltaHardHit": 6.9,
+    "beforeOPS": 0.679,
+    "afterOPS": 0.836,
+    "improvement": 0.157
+  },
+  {
+    "player": "Romine, Austin",
+    "years": "2016-2017",
+    "score": 14.8,
+    "deltaMaxEV": -3.5,
+    "deltaHardHit": 8.7,
+    "beforeOPS": 0.565,
+    "afterOPS": 0.713,
+    "improvement": 0.148
+  },
+  {
+    "player": "Rendon, Anthony",
+    "years": "2015-2016",
+    "score": 15.7,
+    "deltaMaxEV": 3.1,
+    "deltaHardHit": 6.0,
+    "beforeOPS": 0.797,
+    "afterOPS": 0.937,
+    "improvement": 0.14
+  },
+  {
+    "player": "Calhoun, Kole",
+    "years": "2017-2018",
+    "score": 15.3,
+    "deltaMaxEV": -0.7,
+    "deltaHardHit": 7.6,
+    "beforeOPS": 0.652,
+    "afterOPS": 0.792,
+    "improvement": 0.14
+  },
+  {
+    "player": "Perdomo, Geraldo",
+    "years": "2023-2024",
+    "score": 18.1,
+    "deltaMaxEV": 4.9,
+    "deltaHardHit": 6.3,
+    "beforeOPS": 0.718,
+    "afterOPS": 0.851,
+    "improvement": 0.133
+  },
+  {
+    "player": "Ram\u00edrez, Jos\u00e9",
+    "years": "2015-2016",
+    "score": 22.7,
+    "deltaMaxEV": 4.0,
+    "deltaHardHit": 8.9,
+    "beforeOPS": 0.825,
+    "afterOPS": 0.957,
+    "improvement": 0.132
+  },
+  {
+    "player": "Upton, Justin",
+    "years": "2015-2016",
+    "score": 13.7,
+    "deltaMaxEV": 0.5,
+    "deltaHardHit": 6.3,
+    "beforeOPS": 0.775,
+    "afterOPS": 0.901,
+    "improvement": 0.126
+  }
+]

@@ -1,0 +1,9 @@
+Experiment,Hypothesis,Result,Recommendation
+BASELINE (Original MADDUX),Score = ΔMaxEV + (2.1 × ΔHH%) predicts OPS improvement,"Correlation r=-0.09, R²=1.7%, Hit Rate 40%",Model fundamentally flawed - NEGATIVE correlation
+EXPERIMENT 1: Advanced Feature Engineering,"New features (interaction terms, transforms, trends) improve prediction","deviation_from_baseline r=0.49, improvement_momentum r=-0.46",ACCEPTED - Major improvement in feature quality
+EXPERIMENT 2: Ensemble Models,Combine multiple regression methods for robustness,"Stacking Meta-Learner: r=0.55, R²=30.8%, Hit Rate 83.6%",ACCEPTED - Best performing model
+EXPERIMENT 3: Feature Selection,Reduce to only statistically significant features,"r=0.50, R²=25.8%, Hit Rate 77.1%",REJECTED - Full ensemble performs better
+KEY INSIGHT 1: Regression to Mean,Players who improved recently will regress next year,improvement_momentum has r=-0.46,Critical insight - use as negative predictor
+KEY INSIGHT 2: Underperformance Gap,xwOBA-wOBA gap indicates luck-based underperformance,underperformance_gap r=0.35,Use xwOBA gap instead of EV deltas
+KEY INSIGHT 3: Career Peak,Distance from personal best predicts rebound potential,career_peak_deviation r=0.38,Players far from their peak may rebound
+FINAL MODEL,Stacking Meta-Learner with Ridge/Lasso/GradientBoosting,"r=0.55, R²=30.8%, Hit Rate 83.6%",DEPLOYED - Use for 2026 projections

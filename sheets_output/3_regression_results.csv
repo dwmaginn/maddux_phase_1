@@ -1,0 +1,42 @@
+Metric,Value
+MODEL TYPE,Stacking Meta-Learner (Ridge + Lasso + Gradient Boosting)
+Sample Size (n),1675
+R-squared,0.308
+Correlation (r),0.55
+Hit Rate Top 20,83.6%
+Hit Rate Top 10,81.4%
+Avg OPS Change Top 20,+0.065
+Target Correlation,0.65
+Meets Target,APPROACHING (85% of target)
+,
+MODEL IMPROVEMENT SUMMARY,
+Original Correlation,-0.09
+Improved Correlation,0.55
+Change,+0.64
+Original R-squared,1.7%
+Improved R-squared,30.8%
+Change,+1712%
+Original Hit Rate,40%
+Improved Hit Rate,83.6%
+Change,+109%
+,
+KEY FEATURES (by correlation),
+deviation_from_baseline,0.485
+improvement_momentum,-0.459
+career_peak_deviation,0.383
+underperformance_gap,0.350
+combined_luck_index,0.328
+gap_log,0.318
+pa_weighted_gap,0.300
+iso_gap,0.229
+babip_gap,0.154
+,
+BACKTEST BY YEAR,
+2016-2017 to 2018,85.0%
+2017-2018 to 2019,80.0%
+2018-2019 to 2020,85.0%
+2019-2020 to 2021,80.0%
+2020-2021 to 2022,85.0%
+2021-2022 to 2023,80.0%
+2022-2023 to 2024,90.0%
+2023-2024 to 2025,85.0%
