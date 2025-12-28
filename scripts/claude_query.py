@@ -8,13 +8,13 @@ Supports queries like:
 - "What was the prediction accuracy for 2024?"
 
 Model: Stacking Meta-Learner (Ridge + Lasso + Gradient Boosting)
-Performance: Correlation 0.55 | R² 30.8% | Hit Rate 83.6%
+Performance: Correlation 0.50 | R² 28% | Walk-Forward Hit Rate 79.3%
 """
 
 import os
 import sys
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Any
 
 import pandas as pd
 
@@ -29,6 +29,266 @@ try:
     ANTHROPIC_AVAILABLE = True
 except ImportError:
     ANTHROPIC_AVAILABLE = False
+
+
+# Model performance metrics (validated)
+MODEL_METRICS = {
+    "correlation": 0.50,
+    "r_squared": 0.28,
+    "hit_rate": 0.793,
+    "hit_rate_pct": "79.3%"
+}
+
+# Top 2026 projections (from enhanced model)
+TOP_2026_PROJECTIONS = [
+    {"rank": 1, "player": "LaMonte Wade Jr.", "age": 31, "ops_2025": 0.524, "predicted_delta": 0.121, "projected_ops": 0.645, "key_factor": "High deviation from baseline (+0.25)"},
+    {"rank": 2, "player": "Joc Pederson", "age": 33, "ops_2025": 0.614, "predicted_delta": 0.114, "projected_ops": 0.728, "key_factor": "Strong career peak deviation (+0.29)"},
+    {"rank": 3, "player": "Henry Davis", "age": 25, "ops_2025": 0.512, "predicted_delta": 0.105, "projected_ops": 0.617, "key_factor": "Large underperformance gap (67)"},
+    {"rank": 4, "player": "Anthony Santander", "age": 30, "ops_2025": 0.565, "predicted_delta": 0.092, "projected_ops": 0.657, "key_factor": "Deviation from baseline (+0.24)"},
+    {"rank": 5, "player": "Tyler O'Neill", "age": 30, "ops_2025": 0.684, "predicted_delta": 0.091, "projected_ops": 0.775, "key_factor": "Career peak deviation (+0.23)"},
+    {"rank": 6, "player": "Jose Iglesias", "age": 35, "ops_2025": 0.592, "predicted_delta": 0.090, "projected_ops": 0.682, "key_factor": "Underperformance vs expected stats"},
+    {"rank": 7, "player": "Jordan Walker", "age": 23, "ops_2025": 0.584, "predicted_delta": 0.089, "projected_ops": 0.673, "key_factor": "Young age + high ceiling"},
+    {"rank": 8, "player": "Randal Grichuk", "age": 33, "ops_2025": 0.674, "predicted_delta": 0.088, "projected_ops": 0.762, "key_factor": "Career peak deviation"},
+    {"rank": 9, "player": "Nolan Jones", "age": 27, "ops_2025": 0.600, "predicted_delta": 0.082, "projected_ops": 0.682, "key_factor": "Underperformance gap"},
+    {"rank": 10, "player": "Matt McLain", "age": 25, "ops_2025": 0.643, "predicted_delta": 0.079, "projected_ops": 0.722, "key_factor": "Deviation from baseline (+0.22)"},
+    {"rank": 11, "player": "Michael Conforto", "age": 32, "ops_2025": 0.637, "predicted_delta": 0.076, "projected_ops": 0.713, "key_factor": "Career peak deviation"},
+    {"rank": 12, "player": "Luke Raley", "age": 30, "ops_2025": 0.631, "predicted_delta": 0.076, "projected_ops": 0.707, "key_factor": "Expected stats gap"},
+    {"rank": 13, "player": "Alex Verdugo", "age": 29, "ops_2025": 0.585, "predicted_delta": 0.071, "projected_ops": 0.656, "key_factor": "Baseline deviation"},
+    {"rank": 14, "player": "Marcell Ozuna", "age": 34, "ops_2025": 0.756, "predicted_delta": 0.070, "projected_ops": 0.826, "key_factor": "Continued upside"},
+    {"rank": 15, "player": "Josh Rojas", "age": 31, "ops_2025": 0.512, "predicted_delta": 0.070, "projected_ops": 0.582, "key_factor": "Underperformance gap"},
+]
+
+# Walk-forward backtest results
+BACKTEST_RESULTS = [
+    {"year_pair": "2018→2019", "hit_rate": 85.0, "avg_ops_change": 0.111},
+    {"year_pair": "2019→2020", "hit_rate": 80.0, "avg_ops_change": 0.055},
+    {"year_pair": "2020→2021", "hit_rate": 85.0, "avg_ops_change": 0.101},
+    {"year_pair": "2021→2022", "hit_rate": 60.0, "avg_ops_change": 0.019},
+    {"year_pair": "2022→2023", "hit_rate": 95.0, "avg_ops_change": 0.101},
+    {"year_pair": "2023→2024", "hit_rate": 65.0, "avg_ops_change": 0.024},
+    {"year_pair": "2024→2025", "hit_rate": 85.0, "avg_ops_change": 0.071},
+]
+
+
+def get_database_stats(db: MadduxDatabase) -> Dict[str, Any]:
+    """
+    Get database statistics for the dashboard.
+    Returns counts, model metrics, and top projections.
+    """
+    try:
+        # Get counts
+        players = db.query("SELECT COUNT(DISTINCT id) FROM players")[0][0]
+        statcast = db.query("SELECT COUNT(*) FROM statcast_seasons")[0][0]
+        fangraphs = db.query("SELECT COUNT(*) FROM fangraphs_seasons")[0][0]
+        
+        # Get year range
+        years = db.query("SELECT MIN(year), MAX(year) FROM statcast_seasons")
+        min_year, max_year = years[0] if years else (2015, 2025)
+        
+        return {
+            "total_players": players,
+            "total_seasons": statcast,
+            "fangraphs_seasons": fangraphs,
+            "years_covered": f"{min_year}-{max_year}",
+            "model_correlation": MODEL_METRICS["correlation"],
+            "model_hit_rate": MODEL_METRICS["hit_rate"],
+            "model_r_squared": MODEL_METRICS["r_squared"],
+            "top_projections": TOP_2026_PROJECTIONS[:10]
+        }
+    except Exception as e:
+        return {
+            "error": str(e),
+            "total_players": 0,
+            "total_seasons": 0,
+            "model_correlation": MODEL_METRICS["correlation"],
+            "model_hit_rate": MODEL_METRICS["hit_rate"],
+            "model_r_squared": MODEL_METRICS["r_squared"],
+            "top_projections": TOP_2026_PROJECTIONS[:10]
+        }
+
+
+def get_rich_context(db: MadduxDatabase) -> str:
+    """Generate comprehensive context about the database and model for Claude."""
+    
+    # Get database stats
+    stats = get_database_stats(db)
+    
+    # Format top projections
+    projections_text = "\n".join([
+        f"  {p['rank']}. {p['player']} (Age {p['age']}): "
+        f"2025 OPS {p['ops_2025']:.3f} → Predicted +{p['predicted_delta']:.3f} → "
+        f"2026 OPS {p['projected_ops']:.3f} | Factor: {p['key_factor']}"
+        for p in TOP_2026_PROJECTIONS[:15]
+    ])
+    
+    # Format backtest results
+    backtest_text = "\n".join([
+        f"  {b['year_pair']}: {b['hit_rate']:.0f}% hit rate, avg OPS change +{b['avg_ops_change']:.3f}"
+        for b in BACKTEST_RESULTS
+    ])
+    
+    context = f"""
+MADDUX™ ANALYTICS SYSTEM
+========================
+AutoCoach LLC | Phase 1 Validated Model
+
+DATABASE OVERVIEW:
+- Total Players: {stats['total_players']}
+- Statcast Seasons: {stats['total_seasons']}
+- FanGraphs Seasons: {stats.get('fangraphs_seasons', 'N/A')}
+- Years Covered: {stats['years_covered']}
+- Data Sources: Baseball Savant (Statcast), FanGraphs
+
+MODEL ARCHITECTURE:
+==================
+The MADDUX™ model uses a Stacking Meta-Learner ensemble:
+- Base Models: Ridge Regression, Lasso Regression, Gradient Boosting
+- Meta-Model: Ridge Regression on out-of-fold predictions
+- Features: 25+ engineered features across 3 categories
+
+KEY FEATURES (by predictive importance):
+1. deviation_from_baseline (r=0.49): Current OPS vs career expected baseline
+2. improvement_momentum (r=-0.46): NEGATIVE predictor - recent improvers regress
+3. career_peak_deviation (r=0.38): Distance from personal career best
+4. underperformance_gap (r=0.35): xwOBA minus actual wOBA (luck adjustment)
+5. combined_luck_index (r=0.33): Combined BABIP and ISO luck indicators
+6. delta_launch_angle: Year-over-year launch angle changes
+7. delta_z_swing: Changes in zone swing rate (discipline improvement)
+
+VALIDATED PERFORMANCE:
+=====================
+- Correlation: 0.50 (predicts direction of OPS change)
+- R-squared: 28% of variance explained
+- Walk-Forward Hit Rate: 79.3% (near 80% target)
+- Approach: Time-series cross-validation (no future data leakage)
+
+WALK-FORWARD BACKTEST RESULTS:
+{backtest_text}
+Average: 79.3% hit rate across all year pairs
+
+TOP 2026 BREAKOUT CANDIDATES:
+=============================
+{projections_text}
+
+KEY INSIGHTS:
+- The ORIGINAL MADDUX formula (Δ Max EV + 2.1 × Δ Hard Hit%) had NEGATIVE correlation
+- Players who improved recently tend to REGRESS (improvement_momentum is negative)
+- Underperforming players (xwOBA > wOBA) tend to bounce back
+- Young players with high deviation from baseline have most upside
+- The model identifies "unlucky" players who should improve
+
+AVAILABLE DATA FIELDS:
+- Statcast: max_ev, avg_ev, hard_hit_pct, barrel_pct, avg_launch_angle, sweet_spot_pct, 
+  xwoba, xba, xslg, avg_bat_speed, swing_length, squared_up_rate, whiff_rate
+- FanGraphs: pa, avg, obp, slg, ops, iso, wrc_plus, bb_pct, k_pct, contact_pct, 
+  chase_rate, z_swing_pct, z_contact_pct, woba, babip, war, age
+- Engineered: deviation_from_baseline, career_peak_deviation, underperformance_gap,
+  improvement_momentum, combined_luck_index, bat_speed_zscore, quality_zscore
+"""
+    return context
+
+
+def execute_query_with_key(db: MadduxDatabase, question: str, api_key: str) -> Dict[str, Any]:
+    """
+    Execute a natural language query using a user-provided API key.
+    
+    Args:
+        db: Database connection
+        question: User's question
+        api_key: User's Anthropic API key
+        
+    Returns:
+        Dict with 'answer' and optional 'data' fields
+    """
+    if not ANTHROPIC_AVAILABLE:
+        return {
+            "answer": "",
+            "error": "The anthropic library is not installed. Please run: pip install anthropic"
+        }
+    
+    # Get rich context
+    context = get_rich_context(db)
+    
+    # Build the prompt
+    system_prompt = """You are a baseball analytics expert for AutoCoach LLC, helping users understand the MADDUX™ predictive model for hitter breakout predictions.
+
+Your role:
+1. Answer questions about player projections, model methodology, and historical accuracy
+2. Be specific with player names, numbers, and statistical details
+3. Explain the reasoning behind predictions using the feature importance data
+4. Clarify that the model uses walk-forward validation (no future data leakage)
+5. Note that "improvement momentum" is a NEGATIVE predictor - recent improvers tend to regress
+
+When discussing projections:
+- Reference specific predicted OPS changes
+- Explain the key factors driving each prediction
+- Note confidence levels when relevant
+- Emphasize the 79.3% walk-forward hit rate
+
+Keep responses concise but informative. Use data from the context to support your answers."""
+
+    user_prompt = f"""{context}
+
+USER QUESTION: {question}
+
+Please provide a helpful, data-driven response based on the MADDUX model and database context above."""
+
+    try:
+        # Create client with user's API key
+        client = Anthropic(api_key=api_key)
+        
+        message = client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=1500,
+            system=system_prompt,
+            messages=[{"role": "user", "content": user_prompt}]
+        )
+        
+        answer = message.content[0].text
+        
+        # Check if question is about projections and include data
+        data = None
+        question_lower = question.lower()
+        if any(word in question_lower for word in ["top", "candidates", "projections", "2026", "breakout"]):
+            data = {"projections": TOP_2026_PROJECTIONS[:10]}
+        elif any(word in question_lower for word in ["accuracy", "backtest", "validation", "performance"]):
+            data = {"backtest": BACKTEST_RESULTS}
+        
+        return {
+            "answer": answer,
+            "data": data
+        }
+        
+    except Exception as e:
+        error_msg = str(e)
+        return {
+            "answer": "",
+            "error": error_msg
+        }
+
+
+# Legacy functions for CLI usage
+def get_database_context(db: MadduxDatabase) -> str:
+    """Generate context about the database for Claude (legacy)."""
+    return get_rich_context(db)
+
+
+def execute_natural_query(db: MadduxDatabase, question: str) -> str:
+    """
+    Execute a natural language query against the database.
+    Uses Claude to interpret the question and generate insights.
+    Uses environment variable for API key (legacy CLI mode).
+    """
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        return "Error: ANTHROPIC_API_KEY environment variable not set."
+    
+    result = execute_query_with_key(db, question, api_key)
+    
+    if result.get("error"):
+        return f"Error: {result['error']}"
+    
+    return result.get("answer", "No response generated.")
 
 
 # Query templates for common questions
@@ -90,146 +350,16 @@ QUERY_TEMPLATES = {
             f.year,
             f.ops,
             s.xwoba,
-            s.woba,
-            ROUND(s.xwoba - s.woba, 3) as underperformance_gap
+            f.woba,
+            ROUND(s.xwoba - f.woba, 3) as underperformance_gap
         FROM players p
         JOIN fangraphs_seasons f ON p.id = f.player_id
         JOIN statcast_seasons s ON p.id = s.player_id AND f.year = s.year
-        WHERE f.year = 2025 AND s.xwoba > s.woba
-        ORDER BY (s.xwoba - s.woba) DESC
+        WHERE f.year = 2025 AND s.xwoba IS NOT NULL AND f.woba IS NOT NULL AND s.xwoba > f.woba
+        ORDER BY (s.xwoba - f.woba) DESC
         LIMIT 20
     """
 }
-
-
-def get_database_context(db: MadduxDatabase) -> str:
-    """Generate context about the database for Claude."""
-    
-    # Get summary stats
-    players = db.query("SELECT COUNT(DISTINCT id) FROM players")[0][0]
-    statcast = db.query("SELECT COUNT(*) FROM statcast_seasons")[0][0]
-    fangraphs = db.query("SELECT COUNT(*) FROM fangraphs_seasons")[0][0]
-    deltas = db.query("SELECT COUNT(*) FROM player_deltas")[0][0]
-    
-    # Get top 2026 candidates
-    top_2026 = db.query(QUERY_TEMPLATES['top_2026'])
-    top_2026_text = "\n".join([
-        f"  {i+1}. {row[0]}: Score {row[1]:.1f} (ΔMaxEV: {row[2]:+.1f}, ΔHH%: {row[3]:+.1f})"
-        for i, row in enumerate(top_2026[:10])
-    ])
-    
-    context = f"""
-MADDUX™ DATABASE CONTEXT
-========================
-
-Database Statistics:
-- Total players: {players}
-- Statcast seasons: {statcast}
-- FanGraphs seasons: {fangraphs}
-- Calculated deltas: {deltas}
-- Years covered: 2015-2025
-
-IMPROVED MODEL DETAILS:
-=======================
-The optimized MADDUX™ model uses a Stacking Meta-Learner ensemble combining:
-- Ridge Regression (base model)
-- Lasso Regression (feature selection)
-- Gradient Boosting (non-linear patterns)
-
-Key Features (ordered by predictive power):
-1. deviation_from_baseline (r=0.49): How far current OPS is from expected baseline
-2. improvement_momentum (r=-0.46): Recent trends predict regression - players who improved recently will regress
-3. career_peak_deviation (r=0.38): Distance from personal career best
-4. underperformance_gap (r=0.35): xwOBA minus wOBA - luck-adjusted performance gap
-5. combined_luck_index (r=0.33): Combined BABIP and ISO gap metrics
-
-MODEL VALIDATION (VALIDATED):
-- Correlation: 0.55 (improved from original 0.14)
-- R-squared: 30.8% variance explained (improved from 1.9%)
-- Hit Rate Top 20: 83.6% (improved from 32.8%)
-- Hit Rate Top 10: 81.4%
-- Average OPS change for Top 20: +0.065
-
-KEY INSIGHT: The original MADDUX formula (Δ Max EV + 2.1 × Δ Hard Hit%) had a NEGATIVE 
-correlation with next-year performance. The improved model uses underperformance gaps 
-and regression indicators instead.
-
-Top 10 Breakout Candidates for 2026 (from improved model):
-1. LaMonte Wade Jr.: Predicted +0.121 OPS (deviation from baseline: +0.25)
-2. Joc Pederson: Predicted +0.114 OPS (career peak deviation: +0.29)
-3. Henry Davis: Predicted +0.105 OPS (underperformance gap: 67)
-4. Anthony Santander: Predicted +0.092 OPS
-5. Tyler O'Neill: Predicted +0.091 OPS
-6. Jose Iglesias: Predicted +0.090 OPS
-7. Jordan Walker: Predicted +0.089 OPS (young age + high ceiling)
-8. Randal Grichuk: Predicted +0.088 OPS
-9. Nolan Jones: Predicted +0.082 OPS
-10. Matt McLain: Predicted +0.079 OPS
-
-Original formula candidates (for reference):
-{top_2026_text}
-
-Available data includes:
-- Exit velocity metrics (max EV, avg EV, hard hit %)
-- xwOBA and wOBA for luck adjustment
-- Year-over-year changes (deltas)
-- OPS and wRC+ performance data
-- Career history for baseline calculations
-"""
-    return context
-
-
-def execute_natural_query(db: MadduxDatabase, question: str) -> str:
-    """
-    Execute a natural language query against the database.
-    Uses Claude to interpret the question and generate insights.
-    """
-    if not ANTHROPIC_AVAILABLE:
-        return "Error: anthropic library not installed. Run: pip install anthropic"
-    
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        return "Error: ANTHROPIC_API_KEY environment variable not set."
-    
-    # Get database context
-    context = get_database_context(db)
-    
-    # Build prompt
-    prompt = f"""You are a baseball analytics expert analyzing the MADDUX™ predictive model.
-You work for AutoCoach LLC and are helping analyze player breakout predictions.
-
-{context}
-
-User Question: {question}
-
-Please provide a helpful, data-driven response. Key points:
-1. Reference the IMPROVED model metrics (0.55 correlation, 83.6% hit rate) not the original
-2. Explain that the model identifies players who are underperforming relative to their expected metrics
-3. Be specific about player names, projected improvements, and the key factors driving predictions
-4. When discussing predictions, explain the confidence level (HIGH/MEDIUM/LOW)
-5. Emphasize that "improvement momentum" is a NEGATIVE predictor - players who improved recently will likely regress
-
-If discussing methodology, emphasize:
-- Stacking Meta-Learner ensemble approach
-- xwOBA-based underperformance gaps
-- Regression to the mean principles
-- Career peak deviation as a key indicator
-"""
-    
-    # Call Claude API
-    client = Anthropic()
-    
-    try:
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        
-        return message.content[0].text
-        
-    except Exception as e:
-        return f"Error calling Claude API: {e}"
 
 
 def run_template_query(db: MadduxDatabase, template_name: str, 
@@ -262,7 +392,7 @@ def interactive_mode(db: MadduxDatabase):
     print("Powered by AutoCoach LLC")
     print("=" * 60)
     print("\nModel Performance:")
-    print("  Correlation: 0.55 | R²: 30.8% | Hit Rate: 83.6%")
+    print("  Correlation: 0.50 | R²: 28% | Walk-Forward Hit Rate: 79.3%")
     print("\nType your questions about the MADDUX model or type 'quit' to exit.")
     print("Example questions:")
     print("  - Who are the top breakout candidates for 2026?")
@@ -295,25 +425,29 @@ def main():
     print("AutoCoach LLC | Phase 1 Validation")
     print("=" * 60)
     print("\nModel: Stacking Meta-Learner")
-    print("Correlation: 0.55 | R²: 30.8% | Hit Rate: 83.6%")
+    print("Correlation: 0.50 | R²: 28% | Walk-Forward Hit Rate: 79.3%")
     
     db = MadduxDatabase()
     
-    # Show template query examples
-    print("\n1. TOP 2026 BREAKOUT CANDIDATES")
+    # Show database stats
+    print("\n1. DATABASE STATISTICS")
     print("-" * 60)
-    df = run_template_query(db, 'top_2026')
-    print(df.head(10).to_string(index=False))
+    stats = get_database_stats(db)
+    print(f"Players: {stats['total_players']}")
+    print(f"Seasons: {stats['total_seasons']}")
+    print(f"Years: {stats['years_covered']}")
     
-    print("\n2. YEARLY PREDICTION ACCURACY")
+    # Show top projections
+    print("\n2. TOP 2026 BREAKOUT CANDIDATES")
     print("-" * 60)
-    df = run_template_query(db, 'yearly_accuracy')
-    print(df.to_string(index=False))
+    for p in TOP_2026_PROJECTIONS[:10]:
+        print(f"  {p['rank']}. {p['player']}: +{p['predicted_delta']:.3f} OPS ({p['key_factor']})")
     
-    print("\n3. BEST HISTORICAL PREDICTIONS")
+    # Show backtest results
+    print("\n3. WALK-FORWARD VALIDATION RESULTS")
     print("-" * 60)
-    df = run_template_query(db, 'best_predictions')
-    print(df.head(10).to_string(index=False))
+    for b in BACKTEST_RESULTS:
+        print(f"  {b['year_pair']}: {b['hit_rate']:.0f}% hit rate")
     
     # Try Claude query if API key available
     if ANTHROPIC_AVAILABLE and os.environ.get("ANTHROPIC_API_KEY"):

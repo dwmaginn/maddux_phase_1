@@ -377,11 +377,389 @@
             text-transform: uppercase;
         }
 
+        /* ==================== Chat Interface ==================== */
+        .chat-fab {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--autocoach-blue-bright) 0%, var(--autocoach-blue-dark) 100%);
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 20px rgba(74, 144, 226, 0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+
+        .chat-fab:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 30px rgba(74, 144, 226, 0.5);
+        }
+
+        .chat-fab svg {
+            width: 28px;
+            height: 28px;
+            fill: white;
+        }
+
+        .chat-panel {
+            position: fixed;
+            bottom: 100px;
+            right: 24px;
+            width: 400px;
+            height: 550px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+            display: none;
+            flex-direction: column;
+            z-index: 999;
+            overflow: hidden;
+            animation: slideUp 0.3s ease;
+        }
+
+        .chat-panel.open {
+            display: flex;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .chat-header {
+            background: linear-gradient(135deg, var(--autocoach-navy) 0%, var(--autocoach-blue-dark) 100%);
+            color: white;
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .chat-header-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .chat-header h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .chat-header-right {
+            display: flex;
+            gap: 8px;
+        }
+
+        .chat-header-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+
+        .chat-header-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .chat-header-btn svg {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+        }
+
+        .api-status {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--danger-red);
+        }
+
+        .api-status.connected {
+            background: var(--success-green);
+        }
+
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .chat-message {
+            max-width: 85%;
+            padding: 12px 16px;
+            border-radius: 16px;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        .chat-message.assistant {
+            background: #f1f5f9;
+            color: #1a1a2e;
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+        }
+
+        .chat-message.user {
+            background: linear-gradient(135deg, var(--autocoach-blue-bright) 0%, var(--autocoach-blue-medium) 100%);
+            color: white;
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+        }
+
+        .chat-message.typing {
+            background: #f1f5f9;
+            align-self: flex-start;
+            display: flex;
+            gap: 4px;
+            padding: 16px 20px;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--autocoach-blue-medium);
+            border-radius: 50%;
+            animation: typingBounce 1.4s ease-in-out infinite;
+        }
+
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typingBounce {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-8px); }
+        }
+
+        .chat-suggestions {
+            padding: 12px 20px;
+            background: #f8fafc;
+            border-top: 1px solid #e0e7ef;
+        }
+
+        .chat-suggestions p {
+            font-size: 0.75rem;
+            color: #666;
+            margin-bottom: 8px;
+        }
+
+        .suggestion-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .suggestion-chip {
+            background: white;
+            border: 1px solid #e0e7ef;
+            border-radius: 20px;
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            color: var(--autocoach-blue-medium);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .suggestion-chip:hover {
+            background: var(--autocoach-blue-bright);
+            color: white;
+            border-color: var(--autocoach-blue-bright);
+        }
+
+        .chat-input-area {
+            padding: 16px;
+            border-top: 1px solid #e0e7ef;
+            display: flex;
+            gap: 12px;
+        }
+
+        .chat-input {
+            flex: 1;
+            border: 1px solid #e0e7ef;
+            border-radius: 24px;
+            padding: 12px 20px;
+            font-size: 0.9rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .chat-input:focus {
+            border-color: var(--autocoach-blue-bright);
+        }
+
+        .chat-send-btn {
+            background: linear-gradient(135deg, var(--autocoach-blue-bright) 0%, var(--autocoach-blue-medium) 100%);
+            border: none;
+            border-radius: 50%;
+            width: 44px;
+            height: 44px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.2s;
+        }
+
+        .chat-send-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .chat-send-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .chat-send-btn svg {
+            width: 20px;
+            height: 20px;
+            fill: white;
+        }
+
+        /* API Key Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 2000;
+        }
+
+        .modal-overlay.open {
+            display: flex;
+        }
+
+        .modal {
+            background: white;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 420px;
+            padding: 24px;
+            animation: modalSlide 0.3s ease;
+        }
+
+        @keyframes modalSlide {
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .modal-header h3 {
+            font-size: 1.2rem;
+            color: var(--autocoach-navy);
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 24px;
+            color: #666;
+            cursor: pointer;
+        }
+
+        .modal-body p {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 16px;
+        }
+
+        .modal-input {
+            width: 100%;
+            border: 1px solid #e0e7ef;
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-size: 0.9rem;
+            margin-bottom: 16px;
+            font-family: monospace;
+        }
+
+        .modal-input:focus {
+            outline: none;
+            border-color: var(--autocoach-blue-bright);
+        }
+
+        .modal-note {
+            background: #f1f5f9;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .modal-note strong {
+            color: var(--autocoach-navy);
+        }
+
+        .modal-link {
+            color: var(--autocoach-blue-bright);
+            text-decoration: none;
+        }
+
+        .modal-link:hover {
+            text-decoration: underline;
+        }
+
+        .modal-btn {
+            width: 100%;
+            background: linear-gradient(135deg, var(--autocoach-blue-bright) 0%, var(--autocoach-blue-medium) 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .modal-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .modal-btn.danger {
+            background: var(--danger-red);
+            margin-top: 8px;
+        }
+
         /* ==================== Responsive ==================== */
         @media (max-width: 768px) {
             .header h1 { font-size: 1.8rem; }
             .container { padding: 1rem; }
             .stat-card .value { font-size: 1.8rem; }
+            
+            .chat-panel {
+                width: calc(100% - 48px);
+                height: calc(100vh - 150px);
+                bottom: 90px;
+            }
         }
     </style>
 </head>
@@ -679,8 +1057,80 @@
         </p>
     </footer>
 
+    <!-- Chat FAB Button -->
+    <button class="chat-fab" onclick="toggleChat()" title="Ask about MADDUX">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
+        </svg>
+    </button>
+
+    <!-- Chat Panel -->
+    <div class="chat-panel" id="chatPanel">
+        <div class="chat-header">
+            <div class="chat-header-left">
+                <div class="api-status" id="apiStatus"></div>
+                <h3>MADDUX Assistant</h3>
+            </div>
+            <div class="chat-header-right">
+                <button class="chat-header-btn" onclick="openApiKeyModal()" title="API Key Settings">
+                    <svg viewBox="0 0 24 24"><path d="M12.65 10C11.83 7.67 9.61 6 7 6c-3.31 0-6 2.69-6 6s2.69 6 6 6c2.61 0 4.83-1.67 5.65-4H17v4h4v-4h2v-4H12.65zM7 14c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/></svg>
+                </button>
+                <button class="chat-header-btn" onclick="toggleChat()" title="Close">
+                    <svg viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+                </button>
+            </div>
+        </div>
+        
+        <div class="chat-messages" id="chatMessages">
+            <div class="chat-message assistant">
+                Hi! I'm the MADDUX Assistant. Ask me about player projections, model methodology, or historical accuracy. 
+                <br><br>
+                <strong>Note:</strong> You'll need to add your Anthropic API key in settings (⚙️) to chat.
+            </div>
+        </div>
+        
+        <div class="chat-suggestions" id="chatSuggestions">
+            <p>Try asking:</p>
+            <div class="suggestion-chips">
+                <span class="suggestion-chip" onclick="askSuggestion(this)">Who are the top 2026 candidates?</span>
+                <span class="suggestion-chip" onclick="askSuggestion(this)">Why LaMonte Wade Jr.?</span>
+                <span class="suggestion-chip" onclick="askSuggestion(this)">Model accuracy?</span>
+            </div>
+        </div>
+        
+        <div class="chat-input-area">
+            <input type="text" class="chat-input" id="chatInput" placeholder="Ask about MADDUX..." onkeypress="handleKeyPress(event)">
+            <button class="chat-send-btn" onclick="sendMessage()" id="sendBtn">
+                <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- API Key Modal -->
+    <div class="modal-overlay" id="apiKeyModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3>API Key Settings</h3>
+                <button class="modal-close" onclick="closeApiKeyModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <p>Enter your Anthropic API key to enable chat functionality:</p>
+                <input type="password" class="modal-input" id="apiKeyInput" placeholder="sk-ant-api03-...">
+                
+                <div class="modal-note">
+                    <strong>🔒 Your key is stored locally</strong> in your browser only. It's never sent to our servers - it goes directly to Anthropic's API.
+                </div>
+                
+                <p>Don't have a key? <a href="https://console.anthropic.com/" target="_blank" class="modal-link">Get one at console.anthropic.com →</a></p>
+                
+                <button class="modal-btn" onclick="saveApiKey()">Save Key</button>
+                <button class="modal-btn danger" onclick="clearApiKey()" id="clearKeyBtn" style="display: none;">Clear Saved Key</button>
+            </div>
+        </div>
+    </div>
+
     <script>
-        // Navigation
+        // ==================== Navigation ====================
         function showSection(sectionId) {
             document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
             document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
@@ -688,8 +1138,167 @@
             event.target.classList.add('active');
         }
 
-        // Load data and initialize charts
+        // ==================== Chat Functions ====================
+        let chatOpen = false;
+        
+        function toggleChat() {
+            chatOpen = !chatOpen;
+            document.getElementById('chatPanel').classList.toggle('open', chatOpen);
+            if (chatOpen) {
+                updateApiStatus();
+                document.getElementById('chatInput').focus();
+            }
+        }
+        
+        function updateApiStatus() {
+            const hasKey = !!localStorage.getItem('anthropic_api_key');
+            document.getElementById('apiStatus').classList.toggle('connected', hasKey);
+            document.getElementById('clearKeyBtn').style.display = hasKey ? 'block' : 'none';
+        }
+        
+        function openApiKeyModal() {
+            document.getElementById('apiKeyModal').classList.add('open');
+            const savedKey = localStorage.getItem('anthropic_api_key');
+            if (savedKey) {
+                document.getElementById('apiKeyInput').value = savedKey;
+            }
+            updateApiStatus();
+        }
+        
+        function closeApiKeyModal() {
+            document.getElementById('apiKeyModal').classList.remove('open');
+        }
+        
+        function saveApiKey() {
+            const key = document.getElementById('apiKeyInput').value.trim();
+            if (key && key.startsWith('sk-ant-')) {
+                localStorage.setItem('anthropic_api_key', key);
+                closeApiKeyModal();
+                updateApiStatus();
+                addMessage('assistant', 'API key saved! You can now ask questions about the MADDUX model.');
+            } else {
+                alert('Please enter a valid Anthropic API key (starts with sk-ant-)');
+            }
+        }
+        
+        function clearApiKey() {
+            localStorage.removeItem('anthropic_api_key');
+            document.getElementById('apiKeyInput').value = '';
+            updateApiStatus();
+            addMessage('assistant', 'API key cleared. Add a new key in settings to continue chatting.');
+            closeApiKeyModal();
+        }
+        
+        function addMessage(type, text) {
+            const messagesDiv = document.getElementById('chatMessages');
+            const msg = document.createElement('div');
+            msg.className = `chat-message ${type}`;
+            msg.innerHTML = text.replace(/\n/g, '<br>');
+            messagesDiv.appendChild(msg);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+        
+        function showTyping() {
+            const messagesDiv = document.getElementById('chatMessages');
+            const typing = document.createElement('div');
+            typing.className = 'chat-message typing';
+            typing.id = 'typingIndicator';
+            typing.innerHTML = '<div class="typing-dot"></div><div class="typing-dot"></div><div class="typing-dot"></div>';
+            messagesDiv.appendChild(typing);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+        
+        function hideTyping() {
+            const typing = document.getElementById('typingIndicator');
+            if (typing) typing.remove();
+        }
+        
+        function askSuggestion(chip) {
+            const question = chip.textContent;
+            document.getElementById('chatInput').value = question;
+            sendMessage();
+        }
+        
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+        
+        async function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const question = input.value.trim();
+            
+            if (!question) return;
+            
+            const apiKey = localStorage.getItem('anthropic_api_key');
+            if (!apiKey) {
+                addMessage('assistant', 'Please add your Anthropic API key in settings (click the key icon) to use the chat feature.');
+                openApiKeyModal();
+                return;
+            }
+            
+            // Add user message
+            addMessage('user', question);
+            input.value = '';
+            
+            // Hide suggestions after first message
+            document.getElementById('chatSuggestions').style.display = 'none';
+            
+            // Show typing indicator
+            showTyping();
+            document.getElementById('sendBtn').disabled = true;
+            
+            try {
+                // Determine API URL based on environment
+                const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+                const apiUrl = isLocal ? 'http://localhost:8000/api/query' : '/api/query';
+                
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: question,
+                        api_key: apiKey
+                    })
+                });
+                
+                hideTyping();
+                
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.detail || 'Failed to get response');
+                }
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    addMessage('assistant', `Error: ${data.error}`);
+                } else {
+                    addMessage('assistant', data.answer);
+                }
+                
+            } catch (error) {
+                hideTyping();
+                console.error('Chat error:', error);
+                
+                if (error.message.includes('Failed to fetch') || error.message.includes('NetworkError')) {
+                    addMessage('assistant', 'Unable to connect to the API server. Make sure the server is running at localhost:8000 or you\'re accessing the deployed version.');
+                } else {
+                    addMessage('assistant', `Error: ${error.message}`);
+                }
+            }
+            
+            document.getElementById('sendBtn').disabled = false;
+        }
+
+        // ==================== Dashboard Initialization ====================
         async function initDashboard() {
+            // Update API status on load
+            updateApiStatus();
+            
             // Top 30 Projections from improved model (v3)
             const projections = [
                 {rank: 1, player: "LaMonte Wade Jr.", age: 31, ops: 0.524, delta: 0.121, projected: 0.645, confidence: "High"},
@@ -820,8 +1429,8 @@
                     },
                     scales: {
                         y: {
-                            min: 70,
-                            max: 95,
+                            min: 50,
+                            max: 100,
                             grid: { color: 'rgba(0,0,0,0.08)' },
                             ticks: { 
                                 color: '#1a365d',
@@ -882,11 +1491,11 @@
 
             // Scatter Chart - Correlation visualization
             const scatterData = [];
-            // Simulated data showing positive correlation (r ≈ 0.55)
+            // Simulated data showing positive correlation (r ≈ 0.50)
             for (let i = 0; i < 200; i++) {
                 const predicted = (Math.random() - 0.3) * 0.25;
                 const noise = (Math.random() - 0.5) * 0.15;
-                const actual = predicted * 0.55 + noise;
+                const actual = predicted * 0.50 + noise;
                 scatterData.push({ x: predicted, y: actual });
             }
 
@@ -908,20 +1517,6 @@
                     plugins: {
                         legend: {
                             labels: { color: '#1a365d' }
-                        },
-                        annotation: {
-                            annotations: {
-                                line1: {
-                                    type: 'line',
-                                    yMin: -0.15,
-                                    yMax: 0.15,
-                                    xMin: -0.15,
-                                    xMax: 0.15,
-                                    borderColor: 'rgba(16, 185, 129, 0.5)',
-                                    borderWidth: 2,
-                                    borderDash: [5, 5]
-                                }
-                            }
                         }
                     },
                     scales: {
@@ -950,6 +1545,11 @@
 
         // Initialize on load
         document.addEventListener('DOMContentLoaded', initDashboard);
+        
+        // Close modal when clicking outside
+        document.getElementById('apiKeyModal').addEventListener('click', function(e) {
+            if (e.target === this) closeApiKeyModal();
+        });
     </script>
 </body>
 </html>

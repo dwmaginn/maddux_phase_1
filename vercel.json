@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/query.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "dashboard/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/query",
+      "dest": "/api/query.py"
+    },
+    {
+      "src": "/api/health",
+      "dest": "/api/query.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/dashboard/$1"
+    }
+  ],
+  "functions": {
+    "api/query.py": {
+      "memory": 512,
+      "maxDuration": 30
+    }
+  }
+}
+
