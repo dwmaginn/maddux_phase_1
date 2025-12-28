@@ -1,11 +1,3 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "api/**/*.js", "use": "@vercel/node" },
-    { "src": "dashboard/**", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/api/query", "dest": "/api/query.js" },
-    { "src": "/(.*)", "dest": "/dashboard/$1" }
-  ]
+  "version": 2
 }
