@@ -73,7 +73,7 @@ export default async function handler(req, res) {
 
   // Health check
   if (req.method === 'GET') {
-    return res.status(200).json({ status: 'healthy', service: 'MADDUX Chat API' });
+    return res.status(200).json({ status: 'healthy', service: 'MADDUX Chat API', version: '2.1' });
   }
 
   // Handle POST
@@ -82,17 +82,26 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { question, api_key } = req.body;
+    const { question, api_key } = req.body || {};
 
     // Validate API key
-    if (!api_key || !api_key.startsWith('sk-ant-')) {
+    if (!api_key || typeof api_key !== 'string' || !api_key.startsWith('sk-ant-')) {
       return res.status(400).json({ error: "Invalid API key format. Key should start with 'sk-ant-'" });
     }
 
     // Validate question
-    if (!question || question.trim().length < 3) {
+    if (!question || typeof question !== 'string' || question.trim().length < 3) {
       return res.status(400).json({ error: 'Question is too short' });
     }
+
+    const requestBody = {
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 1000,
+      messages: [{
+        role: 'user',
+        content: `${SYSTEM_PROMPT}\n\n${CONTEXT}\n\nUSER QUESTION: ${question.trim()}\n\nProvide a helpful, data-driven response based on the MADDUX model context above.`
+      }]
+    };
 
     // Call Anthropic API
     const response = await fetch('https://api.anthropic.com/v1/messages', {
@@ -102,31 +111,32 @@ export default async function handler(req, res) {
         'x-api-key': api_key,
         'anthropic-version': '2023-06-01'
       },
-      body: JSON.stringify({
-        model: 'claude-3-5-sonnet-20241022',
-        max_tokens: 1000,
-        system: SYSTEM_PROMPT,
-        messages: [{
-          role: 'user',
-          content: `${CONTEXT}\n\nUSER QUESTION: ${question}\n\nProvide a helpful, data-driven response based on the MADDUX model context above.`
-        }]
-      })
+      body: JSON.stringify(requestBody)
     });
 
+    const responseText = await response.text();
+    let data;
+    
+    try {
+      data = JSON.parse(responseText);
+    } catch (e) {
+      return res.status(500).json({ error: `Failed to parse API response: ${responseText.substring(0, 200)}` });
+    }
+
     if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
+      const errorMessage = data.error?.message || data.message || JSON.stringify(data);
+      
       if (response.status === 401) {
         return res.status(401).json({ error: 'Invalid API key. Please check your Anthropic API key.' });
       }
       if (response.status === 429) {
         return res.status(429).json({ error: 'Rate limit exceeded. Please wait and try again.' });
       }
-      return res.status(response.status).json({ error: errorData.error?.message || 'API request failed' });
+      
+      return res.status(response.status).json({ error: `API Error (${response.status}): ${errorMessage}` });
     }
 
-    const data = await response.json();
     const answer = data.content?.[0]?.text || 'No response generated';
-
     return res.status(200).json({ answer });
 
   } catch (error) {
@@ -134,4 +144,3 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: `Server error: ${error.message}` });
   }
 }
-
