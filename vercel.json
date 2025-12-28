@@ -3,7 +3,10 @@
   "builds": [
     {
       "src": "api/query.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "15mb"
+      }
     },
     {
       "src": "dashboard/**",
@@ -13,11 +16,8 @@
   "routes": [
     {
       "src": "/api/query",
-      "dest": "/api/query.py"
-    },
-    {
-      "src": "/api/health",
-      "dest": "/api/query.py"
+      "dest": "/api/query.py",
+      "methods": ["GET", "POST", "OPTIONS"]
     },
     {
       "src": "/(.*)",
@@ -31,4 +31,3 @@
     }
   }
 }
-
