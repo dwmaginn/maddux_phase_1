@@ -1,8 +1,7 @@
 # MADDUX™ Hitter Analytics - Phase 1
 
 **Predictive Baseball Analytics for Hitter Breakouts**  
-*Powered by AutoCoach LLC*  
-*December 2024*
+*December 2025*
 
 ---
 
@@ -200,4 +199,4 @@ See `docs/SERVICE_DESIGN.md` for architecture details.
 ---
 
 *Built with pybaseball, scikit-learn, and Claude AI*  
-*© 2024 AutoCoach LLC*
+*© 2025 MADDUX™ Analytics*

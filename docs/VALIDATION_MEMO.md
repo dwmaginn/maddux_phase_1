@@ -1,7 +1,6 @@
 # MADDUX™ Hitter Model - Technical Validation Report
 
-**Date:** December 2024  
-**Prepared by:** AutoCoach LLC  
+**Date:** December 2025  
 **Subject:** Phase 1 Model Validation - Mathematical Foundations & Statistical Analysis
 
 ---
@@ -717,4 +716,4 @@ The MADDUX Hitter Model demonstrates statistically significant predictive power 
 *Data Sources: Baseball Savant (Statcast), FanGraphs (2015-2025)*  
 *Analysis: Python (pandas, scikit-learn, statsmodels, scipy)*  
 *Validation: Walk-forward cross-validation with bootstrap confidence intervals*  
-*© 2024 AutoCoach LLC - All Rights Reserved*
+*© 2025 MADDUX™ Analytics*
