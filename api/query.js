@@ -1,61 +1,60 @@
-// Vercel Serverless Function for MADDUX Chat API
-// Uses user-provided Anthropic API key
+// Vercel Edge Function for MADDUX Chat API
+export const config = {
+  runtime: 'edge',
+};
 
-const CONTEXT = `
-MADDUX™ ANALYTICS SYSTEM - AutoCoach LLC | Phase 1 Validated Model
+const CONTEXT = `MADDUX™ ANALYTICS - AutoCoach LLC Phase 1
 
-MODEL: Stacking Meta-Learner (Ridge, Lasso, Gradient Boosting) with 25+ engineered features
+MODEL: Stacking Meta-Learner | Correlation 0.50 | R² 28% | Hit Rate 79.3%
 
 KEY FEATURES:
-1. deviation_from_baseline (r=0.49): Current OPS vs career expected
-2. improvement_momentum (r=-0.46): NEGATIVE - recent improvers regress
-3. career_peak_deviation (r=0.38): Distance from career best
-4. underperformance_gap (r=0.35): xwOBA minus wOBA (luck)
-
-PERFORMANCE: Correlation 0.50 | R-squared 28% | Walk-Forward Hit Rate 79.3%
+- deviation_from_baseline (r=0.49): Current OPS vs career expected
+- improvement_momentum (r=-0.46): Recent improvers tend to REGRESS
+- career_peak_deviation (r=0.38): Distance from career best
+- underperformance_gap (r=0.35): xwOBA minus wOBA (luck indicator)
 
 TOP 2026 BREAKOUT CANDIDATES:
-1. LaMonte Wade Jr. - Predicted +0.121 OPS (deviation from baseline +0.25)
-2. Joc Pederson - Predicted +0.114 OPS (career peak deviation +0.29)
-3. Henry Davis - Predicted +0.105 OPS (underperformance gap 67)
-4. Anthony Santander - Predicted +0.092 OPS
-5. Tyler O'Neill - Predicted +0.091 OPS
-6. Jordan Walker - Predicted +0.089 OPS (young age + high ceiling)
-7. Matt McLain - Predicted +0.079 OPS
+1. LaMonte Wade Jr. (+0.121 OPS)
+2. Joc Pederson (+0.114 OPS)
+3. Henry Davis (+0.105 OPS)
+4. Anthony Santander (+0.092 OPS)
+5. Tyler O'Neill (+0.091 OPS)
 
-INSIGHTS: Original MADDUX formula had NEGATIVE correlation (rejected). Players who improved recently tend to REGRESS. Underperformers (xwOBA > wOBA) bounce back.
-`;
+INSIGHT: Original MADDUX formula had negative correlation (rejected). Underperformers (xwOBA > wOBA) bounce back.`;
 
-module.exports = async function handler(req, res) {
-  // CORS headers
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-
-  // Handle preflight
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
+export default async function handler(request) {
+  // Handle CORS preflight
+  if (request.method === 'OPTIONS') {
+    return new Response(null, {
+      status: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+      },
+    });
   }
 
   // Health check
-  if (req.method === 'GET') {
-    return res.status(200).json({ status: 'healthy', service: 'MADDUX Chat API' });
+  if (request.method === 'GET') {
+    return Response.json({ status: 'healthy', service: 'MADDUX Chat API' });
   }
 
   // Handle POST
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
+  if (request.method !== 'POST') {
+    return Response.json({ error: 'Method not allowed' }, { status: 405 });
   }
 
   try {
-    const { question, api_key } = req.body || {};
+    const body = await request.json();
+    const { question, api_key } = body;
 
     // Validate
     if (!api_key || !api_key.startsWith('sk-ant-')) {
-      return res.status(400).json({ error: "Invalid API key. Must start with 'sk-ant-'" });
+      return Response.json({ error: "Invalid API key. Must start with 'sk-ant-'" }, { status: 400 });
     }
     if (!question || question.trim().length < 3) {
-      return res.status(400).json({ error: 'Question too short' });
+      return Response.json({ error: 'Question too short' }, { status: 400 });
     }
 
     // Call Anthropic API
@@ -64,31 +63,36 @@ module.exports = async function handler(req, res) {
       headers: {
         'Content-Type': 'application/json',
         'x-api-key': api_key,
-        'anthropic-version': '2023-06-01'
+        'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-5-20250929',
         max_tokens: 1000,
         messages: [{
           role: 'user',
-          content: `You are a baseball analytics expert. Use this context:\n\n${CONTEXT}\n\nQuestion: ${question.trim()}\n\nAnswer concisely (2-3 paragraphs).`
-        }]
-      })
+          content: `You are a baseball analytics expert. Use this context:\n\n${CONTEXT}\n\nQuestion: ${question.trim()}\n\nAnswer concisely (2-3 paragraphs).`,
+        }],
+      }),
     });
 
     const data = await response.json();
-    
+
     if (!response.ok) {
-      return res.status(response.status).json({ 
-        error: data.error?.message || `API error: ${response.status}` 
-      });
+      return Response.json(
+        { error: data.error?.message || `API error: ${response.status}` },
+        { status: response.status }
+      );
     }
 
-    return res.status(200).json({ 
-      answer: data.content?.[0]?.text || 'No response' 
-    });
-
+    return Response.json(
+      { answer: data.content?.[0]?.text || 'No response' },
+      {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+        },
+      }
+    );
   } catch (error) {
-    return res.status(500).json({ error: error.message });
+    return Response.json({ error: error.message }, { status: 500 });
   }
-};
+}
